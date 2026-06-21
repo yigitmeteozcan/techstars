@@ -26,21 +26,37 @@ const CONTEXT_OPTIONS = {
   },
 };
 
-async function autoScroll(page) {
-  await page.evaluate(async () => {
-    await new Promise((resolve) => {
-      let totalHeight = 0;
-      const distance = 400;
-      const timer = setInterval(() => {
-        window.scrollBy(0, distance);
-        totalHeight += distance;
-        if (totalHeight >= document.body.scrollHeight - window.innerHeight) {
-          clearInterval(timer);
-          resolve();
-        }
-      }, 150);
+async function autoScroll(page, { maxRounds = 80, idleLimit = 4 } = {}) {
+  let lastHeight = 0;
+  let idle = 0;
+
+  for (let round = 0; round < maxRounds; round++) {
+    // Scroll to the bottom to trigger lazy-load / infinite scroll.
+    const height = await page.evaluate(async () => {
+      window.scrollTo(0, document.body.scrollHeight);
+      return document.body.scrollHeight;
     });
-  });
+
+    // Try to click any "load more" / "show more" button if present.
+    try {
+      const btn = page.locator(
+        'button:has-text("Load more"), button:has-text("Show more"), button:has-text("View more"), a:has-text("Load more")'
+      );
+      if (await btn.first().isVisible({ timeout: 500 }).catch(() => false)) {
+        await btn.first().click({ timeout: 2000 }).catch(() => {});
+      }
+    } catch (_) {}
+
+    await page.waitForTimeout(1000);
+
+    if (height === lastHeight) {
+      idle++;
+      if (idle >= idleLimit) break; // page height stable -> assume fully loaded
+    } else {
+      idle = 0;
+      lastHeight = height;
+    }
+  }
 }
 
 async function waitForCompanies(page) {
@@ -99,21 +115,47 @@ async function extractCompanies(page) {
       });
     }
 
+    const seen = new Set();
+
     for (const card of cards) {
-      const name =
-        card.querySelector('[class*="name"], [class*="title"], h2, h3, h4')
-          ?.innerText?.trim() || '';
-
-      const description =
-        card
-          .querySelector('[class*="description"], [class*="desc"], p')
-          ?.innerText?.trim() || '';
-
       const logoEl = card.querySelector('img');
       const logo = logoEl?.src || logoEl?.getAttribute('data-src') || '';
 
       const linkEl = card.closest('a') || card.querySelector('a');
       const website = linkEl?.href || '';
+
+      // The Techstars cards render text as "CompanyName(Techstars 2012)".
+      // Prefer an explicit name/title element; otherwise parse the card text.
+      let name =
+        card.querySelector('[class*="name"], [class*="title"], h2, h3, h4')
+          ?.innerText?.trim() || '';
+
+      // Logo alt text is often the cleanest source of the company name.
+      if (!name && logoEl?.alt) name = logoEl.alt.trim();
+
+      let year = '';
+      let program = '';
+
+      const fullText = (card.innerText || '').replace(/\s+/g, ' ').trim();
+
+      // Parse "(Techstars 2012)" / "(Powered by Techstars 2019)" style suffix.
+      const cohortMatch = fullText.match(/\(([^()]*?Techstars[^()]*?)\)/i);
+      if (cohortMatch) {
+        program = cohortMatch[1].trim();
+        const y = program.match(/(19|20)\d{2}/);
+        if (y) year = y[0];
+      }
+
+      // If we still don't have a clean name, derive it from the full text by
+      // stripping the cohort suffix.
+      if (!name && fullText) {
+        name = fullText.replace(/\([^()]*?Techstars[^()]*?\)/i, '').trim();
+      }
+
+      const description =
+        card
+          .querySelector('[class*="description"], [class*="desc"], p')
+          ?.innerText?.trim() || '';
 
       const location =
         card
@@ -122,16 +164,27 @@ async function extractCompanies(page) {
 
       const tags = Array.from(
         card.querySelectorAll('[class*="tag"], [class*="badge"], [class*="sector"]')
-      ).map((el) => el.innerText.trim()).filter(Boolean);
+      )
+        .map((el) => el.innerText.trim())
+        .filter(Boolean);
 
-      const year =
-        card
-          .querySelector('[class*="year"], [class*="cohort"], time')
-          ?.innerText?.trim() || '';
+      if (!name && !logo) continue;
 
-      if (name || logo) {
-        results.push({ name, description, logo, website, location, tags, year });
-      }
+      // De-dupe on name+website (cards can appear more than once in the DOM).
+      const key = `${name}|${website}`;
+      if (seen.has(key)) continue;
+      seen.add(key);
+
+      results.push({
+        name,
+        description: description && description !== fullText ? description : '',
+        logo,
+        website,
+        location,
+        tags,
+        year,
+        program,
+      });
     }
 
     return results;
@@ -140,43 +193,67 @@ async function extractCompanies(page) {
 
 async function interceptApiResponse(page) {
   const captured = [];
+  const endpoints = [];
 
   page.on('response', async (response) => {
     const url = response.url();
     const type = response.headers()['content-type'] || '';
+    if (!type.includes('application/json')) return;
 
-    if (
-      type.includes('application/json') &&
-      (url.includes('portfolio') || url.includes('compan') || url.includes('startup'))
-    ) {
-      try {
-        const json = await response.json();
-        captured.push({ url, data: json });
-      } catch (_) {}
-    }
+    try {
+      const json = await response.json();
+      endpoints.push(url);
+      captured.push({ url, data: json });
+    } catch (_) {}
   });
 
-  return captured;
+  return { captured, endpoints };
+}
+
+function looksLikeCompany(obj) {
+  if (!obj || typeof obj !== 'object') return false;
+  const keys = Object.keys(obj).map((k) => k.toLowerCase());
+  const hasName = keys.some((k) => ['name', 'company_name', 'companyname', 'title'].includes(k));
+  const hasMeta = keys.some((k) =>
+    ['website', 'url', 'homepage', 'logo', 'logo_url', 'description', 'tagline', 'location'].includes(k)
+  );
+  return hasName && hasMeta;
+}
+
+// Recursively walk any JSON value and collect the largest array whose items
+// look like company records. This makes us resilient to the exact API shape.
+function findCompanyArray(value, depth = 0) {
+  let best = null;
+  if (depth > 8 || value == null) return best;
+
+  if (Array.isArray(value)) {
+    const matches = value.filter(looksLikeCompany);
+    if (matches.length >= 3 && matches.length >= value.length / 2) {
+      best = value;
+    }
+    for (const item of value) {
+      const nested = findCompanyArray(item, depth + 1);
+      if (nested && (!best || nested.length > best.length)) best = nested;
+    }
+    return best;
+  }
+
+  if (typeof value === 'object') {
+    for (const v of Object.values(value)) {
+      const nested = findCompanyArray(v, depth + 1);
+      if (nested && (!best || nested.length > best.length)) best = nested;
+    }
+  }
+  return best;
 }
 
 function normalizeApiData(apiResponses) {
+  let best = null;
   for (const { data } of apiResponses) {
-    // Handle arrays at root level
-    if (Array.isArray(data) && data.length > 0) {
-      const first = data[0];
-      if (first.name || first.company_name || first.title) {
-        return data.map(normalizeCompany);
-      }
-    }
-
-    // Handle nested: { companies: [...] }, { results: [...] }, { data: [...] }, etc.
-    for (const key of ['companies', 'results', 'data', 'items', 'portfolio', 'startups']) {
-      if (Array.isArray(data[key]) && data[key].length > 0) {
-        return data[key].map(normalizeCompany);
-      }
-    }
+    const arr = findCompanyArray(data);
+    if (arr && (!best || arr.length > best.length)) best = arr;
   }
-  return null;
+  return best ? best.map(normalizeCompany) : null;
 }
 
 function normalizeCompany(raw) {
@@ -193,7 +270,7 @@ function normalizeCompany(raw) {
   };
 }
 
-async function scrapePortfolio({ filters = {} } = {}) {
+async function scrapePortfolio({ filters = {}, debug = false } = {}) {
   let browser;
   try {
     browser = await chromium.launch(LAUNCH_OPTIONS);
@@ -206,44 +283,40 @@ async function scrapePortfolio({ filters = {} } = {}) {
     });
 
     const page = await context.newPage();
-    const apiCaptures = await interceptApiResponse(page);
+    const { captured, endpoints } = await interceptApiResponse(page);
 
-    await page.goto(PORTFOLIO_URL, { waitUntil: 'networkidle', timeout: 60000 });
+    // Apply filters via URL params if supported.
+    const target = new URL(PORTFOLIO_URL);
+    for (const [k, v] of Object.entries(filters)) target.searchParams.set(k, v);
 
-    // Apply filters via URL params if supported
-    if (Object.keys(filters).length > 0) {
-      const url = new URL(PORTFOLIO_URL);
-      for (const [k, v] of Object.entries(filters)) {
-        url.searchParams.set(k, v);
-      }
-      await page.goto(url.toString(), { waitUntil: 'networkidle', timeout: 60000 });
-    }
+    await page.goto(target.toString(), { waitUntil: 'networkidle', timeout: 60000 });
+    await waitForCompanies(page);
 
-    // Scroll to trigger lazy-load
+    // Scroll to trigger lazy-load / infinite scroll, then let late XHRs settle.
     await autoScroll(page);
     await page.waitForTimeout(2000);
 
-    // Prefer intercepted API data
-    if (apiCaptures.length > 0) {
-      const normalized = normalizeApiData(apiCaptures);
-      if (normalized && normalized.length > 0) {
-        return {
-          source: 'api',
-          count: normalized.length,
-          companies: normalized,
-        };
-      }
+    // Prefer intercepted API data (richest + most complete).
+    const normalized = normalizeApiData(captured);
+    const apiCount = normalized ? normalized.length : 0;
+
+    // Always also run the DOM extraction so we can pick whichever is better.
+    const domCompanies = await extractCompanies(page);
+
+    const useApi = apiCount >= domCompanies.length && apiCount > 0;
+    const result = useApi
+      ? { source: 'api', count: normalized.length, companies: normalized }
+      : { source: 'dom', count: domCompanies.length, companies: domCompanies };
+
+    if (debug) {
+      result.debug = {
+        jsonEndpoints: [...new Set(endpoints)],
+        apiCount,
+        domCount: domCompanies.length,
+      };
     }
 
-    // Fall back to DOM scraping
-    await waitForCompanies(page);
-    const companies = await extractCompanies(page);
-
-    return {
-      source: 'dom',
-      count: companies.length,
-      companies,
-    };
+    return result;
   } finally {
     if (browser) await browser.close();
   }

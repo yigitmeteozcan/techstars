@@ -29,6 +29,7 @@ Returns all portfolio companies. Results are cached for 1 hour.
 | `year` | string | Filter by cohort/founded year |
 | `page` | number | Page number (default: 1) |
 | `limit` | number | Results per page (default: 50, max: 500) |
+| `debug` | `true` | Include discovered JSON endpoints + api/dom counts in the response |
 
 **Example response**
 ```json

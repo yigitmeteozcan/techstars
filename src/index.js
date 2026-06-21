@@ -43,10 +43,12 @@ app.get('/portfolio', async (req, res) => {
 
     let data = forceRefresh ? null : cache.get(CACHE_KEY);
 
+    const debug = req.query.debug === 'true';
+
     if (!data) {
       scrapeInProgress = true;
       try {
-        data = await scrapePortfolio();
+        data = await scrapePortfolio({ debug });
         cache.set(CACHE_KEY, data);
       } finally {
         scrapeInProgress = false;
@@ -95,6 +97,7 @@ app.get('/portfolio', async (req, res) => {
       cached: !forceRefresh && !!cache.get(CACHE_KEY),
       cacheExpiresAt: cacheInfo?.expiresAt || null,
       pagination: { page, limit, total, totalPages },
+      ...(data.debug ? { debug: data.debug } : {}),
       companies: paginated,
     });
   } catch (err) {
