@@ -7,7 +7,9 @@ An Express API that scrapes [techstars.com/portfolio](https://www.techstars.com/
 ```bash
 npm install
 npm run install:browsers   # installs Chromium for Playwright
-npm start
+npm start                  # run the API
+# or, export everything straight to Excel without the server:
+npm run export             # -> ./techstars-portfolio.xlsx
 ```
 
 Server runs on `http://localhost:3000` (override with `PORT` env var).
@@ -63,6 +65,30 @@ Returns all portfolio companies. Results are cached for 1 hour.
 - `typesense` — the site's underlying Typesense search API (preferred: complete + clean)
 - `api` — another intercepted JSON endpoint
 - `dom` — HTML scraping fallback
+
+### `GET /portfolio.xlsx`
+
+Download **all** portfolio companies as an Excel spreadsheet. Supports the same
+filters as `/portfolio` (`search`, `tag`, `location`, `year`) plus `refresh=true`.
+
+```bash
+curl -L "http://localhost:3000/portfolio.xlsx" -o techstars-portfolio.xlsx
+# filtered example:
+curl -L "http://localhost:3000/portfolio.xlsx?tag=Fintech&location=United%20States" -o fintech-us.xlsx
+```
+
+The sheet has a frozen, filterable header row and one column per field
+(company, description, website, city/state/country, region, tags, year,
+program, exit/unicorn/B-Corp flags, and social links).
+
+### Export to Excel from the command line
+
+No server needed — scrape straight to a file:
+
+```bash
+npm run export                      # -> ./techstars-portfolio.xlsx
+npm run export -- ~/Desktop/ts.xlsx # custom output path
+```
 
 ### `GET /portfolio/:name`
 

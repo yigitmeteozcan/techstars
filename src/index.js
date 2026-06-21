@@ -1,5 +1,6 @@
 const express = require('express');
 const { scrapePortfolio } = require('./scraper');
+const { buildWorkbook } = require('./excel');
 const cache = require('./cache');
 
 const app = express();
@@ -108,6 +109,83 @@ app.get('/portfolio', async (req, res) => {
 });
 
 /**
+ * GET /portfolio.xlsx
+ *
+ * Download all portfolio companies as an Excel spreadsheet.
+ * Supports the same filters as GET /portfolio (search, tag, location, year)
+ * plus ?refresh=true to bypass the cache.
+ */
+app.get('/portfolio.xlsx', async (req, res) => {
+  try {
+    const CACHE_KEY = 'portfolio';
+    const forceRefresh = req.query.refresh === 'true';
+
+    if (scrapeInProgress) {
+      return res.status(202).json({
+        status: 'in_progress',
+        message: 'Scrape already running. Please retry in a moment.',
+      });
+    }
+
+    let data = forceRefresh ? null : cache.get(CACHE_KEY);
+    if (!data) {
+      scrapeInProgress = true;
+      try {
+        data = await scrapePortfolio();
+        cache.set(CACHE_KEY, data);
+      } finally {
+        scrapeInProgress = false;
+      }
+    }
+
+    let companies = data.companies;
+    const { search, tag, location, year } = req.query;
+    if (search) {
+      const term = search.toLowerCase();
+      companies = companies.filter(
+        (c) =>
+          c.name.toLowerCase().includes(term) ||
+          c.description.toLowerCase().includes(term) ||
+          c.tags.some((t) => t.toLowerCase().includes(term))
+      );
+    }
+    if (tag) {
+      const t = tag.toLowerCase();
+      companies = companies.filter((c) => c.tags.some((x) => x.toLowerCase().includes(t)));
+    }
+    if (location) {
+      const loc = location.toLowerCase();
+      companies = companies.filter((c) => c.location.toLowerCase().includes(loc));
+    }
+    if (year) {
+      companies = companies.filter((c) => String(c.year).includes(year));
+    }
+
+    const workbook = buildWorkbook(companies);
+
+    res.setHeader(
+      'Content-Type',
+      'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
+    );
+    res.setHeader(
+      'Content-Disposition',
+      'attachment; filename="techstars-portfolio.xlsx"'
+    );
+
+    await workbook.xlsx.write(res);
+    res.end();
+  } catch (err) {
+    scrapeInProgress = false;
+    console.error('[/portfolio.xlsx] Error:', err.message);
+    if (!res.headersSent) {
+      res.setHeader('Content-Type', 'application/json');
+      return res.status(500).json({ status: 'error', message: err.message });
+    }
+    res.end();
+  }
+});
+
+/**
  * GET /portfolio/:name
  *
  * Lookup a single company by exact or partial name match.
@@ -175,6 +253,7 @@ app.get('/health', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Techstars Portfolio API running on http://localhost:${PORT}`);
   console.log(`  GET /portfolio           — all companies (paginated)`);
+  console.log(`  GET /portfolio.xlsx      — download all companies as Excel`);
   console.log(`  GET /portfolio?refresh=true — force re-scrape`);
   console.log(`  GET /portfolio/:name     — lookup by name`);
   console.log(`  DELETE /cache            — invalidate cache`);
