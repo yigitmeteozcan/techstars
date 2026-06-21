@@ -34,11 +34,36 @@ const companies = await fetch(
 ).then((r) => r.json());
 ```
 
-**Every endpoint** — all 240+ sliced URLs (by year, program, region, industry) with counts — is catalogued in one place:
+## API endpoints
+
+Every endpoint is a static JSON file served over the jsDelivr CDN. The base URL is:
 
 ```
-https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/meta.json
+https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/
 ```
+
+| Endpoint | Description |
+|---|---|
+| [`all.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/all.json) | Every company (also [`all.csv`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/all.csv), [`all.xlsx`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/all.xlsx)) |
+| [`unicorns.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/unicorns.json) | Companies valued $1B+ |
+| [`exits.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/exits.json) | Companies that have exited |
+| [`b-corps.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/b-corps.json) | Certified B Corps |
+| [`current.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/current.json) | Current accelerator session |
+| [`stats.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/stats.json) | Aggregate stats |
+| [`meta.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/meta.json) | **Catalog of every endpoint** (240+ sliced URLs with counts) |
+
+### Sliced collections
+
+Each slice has an `index.json` listing its files, plus one JSON file per group:
+
+| Collection | Index | Example |
+|---|---|---|
+| By year | [`by-year/index.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-year/index.json) | [`by-year/2012.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-year/2012.json) |
+| By program | [`by-program/index.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/index.json) | [`by-program/techstars-boulder-accelerator.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/techstars-boulder-accelerator.json) |
+| By region | [`by-region/index.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-region/index.json) | [`by-region/americas.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-region/americas.json) |
+| By industry | [`by-industry/index.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/index.json) | [`by-industry/fintech.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/fintech.json) |
+
+Pull [`meta.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/meta.json) once to discover every available URL programmatically.
 
 ## What's in it
 
@@ -68,23 +93,7 @@ Every company looks like this:
 }
 ```
 
-## Files
-
-| File | Contents |
-|---|---|
-| [`data/all.json`](data/all.json) | Every company (also `all.csv`, `all.xlsx`) |
-| [`data/unicorns.json`](data/unicorns.json) | Companies valued $1B+ |
-| [`data/exits.json`](data/exits.json) | Companies that have exited |
-| [`data/b-corps.json`](data/b-corps.json) | Certified B Corps |
-| [`data/current.json`](data/current.json) | Current accelerator session |
-| [`data/by-year/`](data/by-year) | One file per cohort year |
-| [`data/by-program/`](data/by-program) | One file per accelerator program |
-| [`data/by-region/`](data/by-region) | One file per world region |
-| [`data/by-industry/`](data/by-industry) | One file per industry vertical |
-| [`data/stats.json`](data/stats.json) | Aggregate stats |
-| [`STATS.md`](STATS.md) | 📊 Techstars by the numbers |
-
-See **[STATS.md](STATS.md)** for charts: companies per year, top cities, unicorns, exits, and more.
+See **[STATS.md](STATS.md)** for charts: companies per year, top cities, unicorns, exits, and more. You can also [browse the raw files](data/) in the repo.
 
 ## Run it yourself
 
