@@ -6,7 +6,7 @@
 [![updated](https://img.shields.io/badge/dynamic/json?url=https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/stats.json&query=$.generatedAt&label=updated)](STATS.md)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-There's [`yc-oss/api`](https://github.com/yc-oss/api) for Y Combinator. This is the equivalent for **Techstars** — clean, structured, free, and refreshed every day by a GitHub Action.
+The complete Techstars portfolio — clean, structured, and free.
 
 ## Get the data
 
@@ -80,22 +80,14 @@ Every company looks like this:
 
 See **[STATS.md](STATS.md)** for charts: companies per year, top cities, unicorns, exits, and more.
 
-## How it's built
-
-The portfolio is powered by a public **Typesense** search cluster. A [daily GitHub Action](.github/workflows/update-data.yml) queries it directly (no browser) and commits the refreshed dataset. There's also a local REST API and an Excel exporter if you'd rather run it yourself.
-
-<details>
-<summary>Run it yourself</summary>
+## Run it yourself
 
 ```bash
 npm install
 
-# Seed data/ locally (uses a headless browser to grab the search key):
+# Seed data/ locally (uses a headless browser):
 npm run install:browsers
 npm run build:data
-
-# ...or, if you have the Typesense search key, no browser needed:
-TYPESENSE_API_KEY=xxxx npm run fetch:data
 
 # Run the REST API:
 npm start
@@ -106,8 +98,6 @@ npm start
 # One-off Excel export:
 npm run export
 ```
-
-</details>
 
 ## License
 
