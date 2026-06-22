@@ -6,8 +6,6 @@ The open API for every company in the [Techstars](https://www.techstars.com/port
 [![updated](https://img.shields.io/badge/dynamic/json?url=https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/stats.json&query=$.generatedAt&label=updated)](STATS.md)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-**[🔎 Live explorer →](https://yigitmeteozcan.github.io/techstars/)** · search and filter all 5,105 companies in your browser.
-
 ## ℹ️ Metadata
 
 > Last updated: **2026-06-22**
