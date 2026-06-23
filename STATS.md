@@ -1,12 +1,12 @@
 # Techstars Portfolio — by the numbers
 
-_Auto-generated from the dataset on 2026-06-22._
+_Auto-generated from the dataset on 2026-06-23._
 
 | Metric | Count |
 |---|---|
 | Total companies | **5,105** |
 | 🦄 Unicorns ($1B+) | **23** |
-| 💰 Exits | **621** |
+| 💰 Exits | **622** |
 | 🌱 B Corps | **29** |
 | Current session | **0** |
 

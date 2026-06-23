@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T12:28:30.343Z",
+  "generatedAt": "2026-06-23T10:05:58.907Z",
   "source": "https://www.techstars.com/portfolio",
   "cdn": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data",
   "total": 5105,
@@ -15,7 +15,7 @@
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/unicorns.json"
     },
     "exits": {
-      "count": 621,
+      "count": 622,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/exits.json"
     },
     "bCorps": {

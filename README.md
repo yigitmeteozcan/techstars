@@ -8,13 +8,13 @@ The open API for every company in the [Techstars](https://www.techstars.com/port
 
 ## ℹ️ Metadata
 
-> Last updated: **2026-06-22**
+> Last updated: **2026-06-23**
 
 - **5,105** companies
 - **157** accelerator programs
 - **57** industry verticals
 - **6** world regions, across **20** cohort years
-- 🦄 **23** unicorns · 💰 **621** exits · 🌱 **29** B Corps
+- 🦄 **23** unicorns · 💰 **622** exits · 🌱 **29** B Corps
 
 ## 🚀 Quick start
 
