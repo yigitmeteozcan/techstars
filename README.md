@@ -8,7 +8,7 @@ The open API for every company in the [Techstars](https://www.techstars.com/port
 
 ## ℹ️ Metadata
 
-> Last updated: **2026-06-23**
+> Last updated: **2026-06-24**
 
 - **5,105** companies
 - **157** accelerator programs
