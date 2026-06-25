@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T09:52:56.745Z",
-  "total": 5105,
+  "generatedAt": "2026-06-25T09:46:34.002Z",
+  "total": 5106,
   "unicorns": 23,
   "exits": 622,
   "bCorps": 29,
@@ -25,12 +25,12 @@
     "2023": 767,
     "2024": 637,
     "2025": 221,
-    "2026": 52
+    "2026": 53
   },
   "topCountries": [
     [
       "United States",
-      3399
+      3400
     ],
     [
       "United Kingdom",
@@ -103,11 +103,11 @@
       176
     ],
     [
-      "Boston",
-      122
+      "Los Angeles",
+      123
     ],
     [
-      "Los Angeles",
+      "Boston",
       122
     ],
     [
@@ -154,7 +154,7 @@
   "byRegion": [
     [
       "Americas",
-      3749
+      3750
     ],
     [
       "Europe",
@@ -242,7 +242,7 @@
   "topIndustries": [
     [
       "Artificial intelligence and machine learning",
-      1510
+      1511
     ],
     [
       "Mobile",
@@ -310,7 +310,7 @@
     ],
     [
       "Marketing tech",
-      188
+      189
     ],
     [
       "Gaming",

@@ -1,10 +1,10 @@
 # Techstars Portfolio — by the numbers
 
-_Auto-generated from the dataset on 2026-06-24._
+_Auto-generated from the dataset on 2026-06-25._
 
 | Metric | Count |
 |---|---|
-| Total companies | **5,105** |
+| Total companies | **5,106** |
 | 🦄 Unicorns ($1B+) | **23** |
 | 💰 Exits | **622** |
 | 🌱 B Corps | **29** |
@@ -32,11 +32,11 @@ _Auto-generated from the dataset on 2026-06-24._
 2023  ████████████████████████████ 767
 2024  ███████████████████████░░░░░ 637
 2025  ████████░░░░░░░░░░░░░░░░░░░░ 221
-2026  ██░░░░░░░░░░░░░░░░░░░░░░░░░░ 52
+2026  ██░░░░░░░░░░░░░░░░░░░░░░░░░░ 53
 ```
 
 ## Top countries
-1. **United States** — 3399
+1. **United States** — 3400
 2. **United Kingdom** — 371
 3. **Canada** — 263
 4. **Israel** — 122
@@ -56,8 +56,8 @@ _Auto-generated from the dataset on 2026-06-24._
 1. **New York City** — 398
 2. **London** — 288
 3. **San Francisco** — 176
-4. **Boston** — 122
-5. **Los Angeles** — 122
+4. **Los Angeles** — 123
+5. **Boston** — 122
 6. **Chicago** — 113
 7. **Seattle** — 110
 8. **Austin** — 109
@@ -87,7 +87,7 @@ _Auto-generated from the dataset on 2026-06-24._
 15. **Build in Tulsa Techstars Accelerator** — 79
 
 ## Top industries
-1. **Artificial intelligence and machine learning** — 1510
+1. **Artificial intelligence and machine learning** — 1511
 2. **Mobile** — 1136
 3. **Fintech** — 1031
 4. **Healthtech** — 440
@@ -104,12 +104,12 @@ _Auto-generated from the dataset on 2026-06-24._
 15. **SaaS** — 229
 16. **Digital health** — 204
 17. **Robotics and Drones** — 195
-18. **Marketing tech** — 188
+18. **Marketing tech** — 189
 19. **Gaming** — 183
 20. **Real estate tech** — 179
 
 ## By region
-1. **Americas** — 3749
+1. **Americas** — 3750
 2. **Europe** — 894
 3. **Middle East** — 159
 4. **Asia** — 142

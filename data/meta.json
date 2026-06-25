@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-24T09:52:56.745Z",
+  "generatedAt": "2026-06-25T09:46:34.002Z",
   "source": "https://www.techstars.com/portfolio",
   "cdn": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data",
-  "total": 5105,
+  "total": 5106,
   "endpoints": {
     "all": {
-      "count": 5105,
+      "count": 5106,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/all.json",
       "csv": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/all.csv",
       "xlsx": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/all.xlsx"
@@ -125,7 +125,7 @@
       {
         "name": "2026",
         "slug": "2026",
-        "count": 52,
+        "count": 53,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-year/2026.json"
       },
       {
@@ -715,7 +715,7 @@
       {
         "name": "USC and Techstars Accelerator",
         "slug": "usc-and-techstars-accelerator",
-        "count": 13,
+        "count": 14,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/usc-and-techstars-accelerator.json"
       },
       {
@@ -1101,7 +1101,7 @@
       {
         "name": "Americas",
         "slug": "americas",
-        "count": 3749,
+        "count": 3750,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-region/americas.json"
       },
       {
@@ -1139,7 +1139,7 @@
       {
         "name": "Artificial intelligence and machine learning",
         "slug": "artificial-intelligence-and-machine-learning",
-        "count": 1510,
+        "count": 1511,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/artificial-intelligence-and-machine-learning.json"
       },
       {
@@ -1241,7 +1241,7 @@
       {
         "name": "Marketing tech",
         "slug": "marketing-tech",
-        "count": 188,
+        "count": 189,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/marketing-tech.json"
       },
       {

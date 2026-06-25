@@ -8,9 +8,9 @@ The open API for every company in the [Techstars](https://www.techstars.com/port
 
 ## ℹ️ Metadata
 
-> Last updated: **2026-06-24**
+> Last updated: **2026-06-25**
 
-- **5,105** companies
+- **5,106** companies
 - **157** accelerator programs
 - **57** industry verticals
 - **6** world regions, across **20** cohort years
@@ -84,7 +84,7 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/
 
 | Year | Companies | API |
 |---|---|---|
-| 2026 | 52 | [`by-year/2026.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-year/2026.json) |
+| 2026 | 53 | [`by-year/2026.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-year/2026.json) |
 | 2025 | 221 | [`by-year/2025.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-year/2025.json) |
 | 2024 | 637 | [`by-year/2024.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-year/2024.json) |
 | 2023 | 767 | [`by-year/2023.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-year/2023.json) |
@@ -114,7 +114,7 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/
 
 | Industry | Companies | API |
 |---|---|---|
-| Artificial intelligence and machine learning | 1510 | [`by-industry/artificial-intelligence-and-machine-learning.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/artificial-intelligence-and-machine-learning.json) |
+| Artificial intelligence and machine learning | 1511 | [`by-industry/artificial-intelligence-and-machine-learning.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/artificial-intelligence-and-machine-learning.json) |
 | Mobile | 1136 | [`by-industry/mobile.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/mobile.json) |
 | Fintech | 1031 | [`by-industry/fintech.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/fintech.json) |
 | Healthtech | 440 | [`by-industry/healthtech.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/healthtech.json) |
@@ -131,7 +131,7 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/
 | SaaS | 229 | [`by-industry/saas.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/saas.json) |
 | Digital health | 204 | [`by-industry/digital-health.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/digital-health.json) |
 | Robotics and Drones | 195 | [`by-industry/robotics-and-drones.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/robotics-and-drones.json) |
-| Marketing tech | 188 | [`by-industry/marketing-tech.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/marketing-tech.json) |
+| Marketing tech | 189 | [`by-industry/marketing-tech.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/marketing-tech.json) |
 | Gaming | 183 | [`by-industry/gaming.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/gaming.json) |
 | Real estate tech | 179 | [`by-industry/real-estate-tech.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/real-estate-tech.json) |
 | Manufacturing | 178 | [`by-industry/manufacturing.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-industry/manufacturing.json) |
@@ -181,7 +181,7 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/
 
 | Region | Companies | API |
 |---|---|---|
-| Americas | 3749 | [`by-region/americas.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-region/americas.json) |
+| Americas | 3750 | [`by-region/americas.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-region/americas.json) |
 | Europe | 894 | [`by-region/europe.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-region/europe.json) |
 | Middle East | 159 | [`by-region/middle-east.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-region/middle-east.json) |
 | Asia | 142 | [`by-region/asia.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-region/asia.json) |
@@ -290,7 +290,7 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/
 | Techstars Impact Accelerator | 19 | [`by-program/techstars-impact-accelerator.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/techstars-impact-accelerator.json) |
 | Disney Accelerator, powered by Techstars | 18 | [`by-program/disney-accelerator-powered-by-techstars.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/disney-accelerator-powered-by-techstars.json) |
 | METRO Retail Accelerator powered by Techstars | 18 | [`by-program/metro-retail-accelerator-powered-by-techstars.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/metro-retail-accelerator-powered-by-techstars.json) |
-| USC and Techstars Accelerator | 13 | [`by-program/usc-and-techstars-accelerator.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/usc-and-techstars-accelerator.json) |
+| USC and Techstars Accelerator | 14 | [`by-program/usc-and-techstars-accelerator.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/usc-and-techstars-accelerator.json) |
 | Techstars London Powered by Polygon | 12 | [`by-program/techstars-london-powered-by-polygon.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/techstars-london-powered-by-polygon.json) |
 | Techstars Crypto Boston Powered by Algorand | 12 | [`by-program/techstars-crypto-boston-powered-by-algorand.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/techstars-crypto-boston-powered-by-algorand.json) |
 | Filecoin Techstars Accelerator | 11 | [`by-program/filecoin-techstars-accelerator.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/filecoin-techstars-accelerator.json) |
