@@ -1,6 +1,6 @@
 # Techstars Portfolio — by the numbers
 
-_Auto-generated from the dataset on 2026-06-28._
+_Auto-generated from the dataset on 2026-06-29._
 
 | Metric | Count |
 |---|---|
