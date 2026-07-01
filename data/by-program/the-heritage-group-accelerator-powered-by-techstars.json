@@ -1,5 +1,65 @@
 [
   {
+    "name": "EnviCore",
+    "description": "EnviCore aspires to revolutionize current tailings mitigation practices and promote a circular economy in the mining sector.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/60f89246b49cdd0007a31b0e/original/logo_Envicore.jpg",
+    "website": "https://envicoreinc.com",
+    "location": "Calgary, Alberta, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cleantech",
+      "Climate tech",
+      "Oil and gas"
+    ],
+    "year": 2021,
+    "program": "The Heritage Group Accelerator powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/envicore-inc",
+      "twitter": "https://twitter.com/EnvicoreI",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/envicore-inc"
+    },
+    "extra": {
+      "brief_description": "EnviCore aspires to revolutionize current tailings mitigation practices and promote a circular economy in the mining sector.",
+      "city": "Calgary",
+      "company_id": "60215e20-c7a2-4289-808c-4945241afae6",
+      "company_name": "EnviCore",
+      "country": "Canada",
+      "crunchbase_url": "crunchbase.com/organization/envicore-inc",
+      "first_session_year": 2021,
+      "first_session_year_s": "2021",
+      "id": "60215e20-c7a2-4289-808c-4945241afae6",
+      "industry_vertical": [
+        "Cleantech",
+        "Climate tech",
+        "Oil and gas"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/envicore-inc",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/60f89246b49cdd0007a31b0e/original/logo_Envicore.jpg",
+      "program_names": [
+        "The Heritage Group Accelerator powered by Techstars"
+      ],
+      "state_province": "Alberta",
+      "twitter_url": "twitter.com/EnvicoreI",
+      "updated_at": 1782900627,
+      "website": "envicoreinc.com",
+      "website_order": 155,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
     "name": "Pretred",
     "description": "Pretred recycles waste tires and repurposes them into barriers/blocks that are green, competitively priced, and offer greater benefits vs. concrete.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/5f3ecc8734a60d0abe000355/original/Presentation1.png",
@@ -53,7 +113,7 @@
         "The Heritage Group Accelerator powered by Techstars"
       ],
       "state_province": "Colorado",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pretred.com",
       "website_order": 169,
       "worldregion": "Americas",
@@ -108,7 +168,7 @@
         "The Heritage Group Accelerator powered by Techstars"
       ],
       "twitter_url": "twitter.com/materialevo",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "materialevolution.co.uk",
       "website_order": 229,
       "worldregion": "Europe",
@@ -164,9 +224,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/simplifyber",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "simplifyber.com",
-      "website_order": 385,
+      "website_order": 386,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -219,9 +279,9 @@
         "The Heritage Group Accelerator powered by Techstars"
       ],
       "state_province": "Colorado",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cloverleaf.ai",
-      "website_order": 414,
+      "website_order": 415,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -276,9 +336,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/AteiosSystems",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ateios.com",
-      "website_order": 462,
+      "website_order": 467,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -337,9 +397,9 @@
       ],
       "state_province": "Ohio",
       "twitter_url": "twitter.com/onstationapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "onstationapp.com",
-      "website_order": 568,
+      "website_order": 570,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -406,9 +466,9 @@
       ],
       "state_province": "Oklahoma",
       "twitter_url": "twitter.com/MITO_Materials",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mitomaterials.com",
-      "website_order": 600,
+      "website_order": 602,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -463,9 +523,9 @@
         "The Heritage Group Accelerator powered by Techstars"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sunthetics.io",
-      "website_order": 607,
+      "website_order": 609,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -524,9 +584,9 @@
       ],
       "state_province": "Ohio",
       "twitter_url": "twitter.com/MFluxLighting",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getloris.com",
-      "website_order": 915,
+      "website_order": 920,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -590,9 +650,9 @@
         "The Heritage Group Accelerator powered by Techstars"
       ],
       "twitter_url": "twitter.com/gela_tex",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gelatex.com",
-      "website_order": 1048,
+      "website_order": 1052,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -650,9 +710,9 @@
       ],
       "state_province": "Florida",
       "twitter_url": "twitter.com/CarbonLimit",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "carbonlimit.com",
-      "website_order": 1125,
+      "website_order": 1129,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -706,9 +766,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/ZilperTL",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "zilpertrenchless.com",
-      "website_order": 1393,
+      "website_order": 1399,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -765,9 +825,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/WildnoteApp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wildnoteapp.com",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -829,9 +889,9 @@
         "The Heritage Group Accelerator powered by Techstars"
       ],
       "twitter_url": "twitter.com/RoadEO_io",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "roadeo.io",
-      "website_order": 2065,
+      "website_order": 2069,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -887,9 +947,9 @@
         "The Heritage Group Accelerator powered by Techstars"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mobilefluid.com",
-      "website_order": 3155,
+      "website_order": 3153,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -943,9 +1003,9 @@
         "The Heritage Group Accelerator powered by Techstars"
       ],
       "state_province": "Michigan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "innovakote.com",
-      "website_order": 3155,
+      "website_order": 3153,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1003,71 +1063,11 @@
       "program_names": [
         "The Heritage Group Accelerator powered by Techstars"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "designflow.inflows-ai.com",
-      "website_order": 3155,
+      "website_order": 3153,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
-    }
-  },
-  {
-    "name": "EnviCore",
-    "description": "EnviCore aspires to revolutionize current tailings mitigation practices and promote a circular economy in the mining sector.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/60f89246b49cdd0007a31b0e/original/logo_Envicore.jpg",
-    "website": "https://envicoreinc.com",
-    "location": "Calgary, Alberta, Canada",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Cleantech",
-      "Climate tech",
-      "Oil and gas"
-    ],
-    "year": 2021,
-    "program": "The Heritage Group Accelerator powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/envicore-inc",
-      "twitter": "https://twitter.com/EnvicoreI",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/envicore-inc"
-    },
-    "extra": {
-      "brief_description": "EnviCore aspires to revolutionize current tailings mitigation practices and promote a circular economy in the mining sector.",
-      "city": "Calgary",
-      "company_id": "60215e20-c7a2-4289-808c-4945241afae6",
-      "company_name": "EnviCore",
-      "country": "Canada",
-      "crunchbase_url": "crunchbase.com/organization/envicore-inc",
-      "first_session_year": 2021,
-      "first_session_year_s": "2021",
-      "id": "60215e20-c7a2-4289-808c-4945241afae6",
-      "industry_vertical": [
-        "Cleantech",
-        "Climate tech",
-        "Oil and gas"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/envicore-inc",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/60f89246b49cdd0007a31b0e/original/logo_Envicore.jpg",
-      "program_names": [
-        "The Heritage Group Accelerator powered by Techstars"
-      ],
-      "state_province": "Alberta",
-      "twitter_url": "twitter.com/EnvicoreI",
-      "updated_at": 1782813621,
-      "website": "envicoreinc.com",
-      "website_order": 3155,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
     }
   },
   {
@@ -1123,9 +1123,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/cybrik",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cybrik.ai",
-      "website_order": 3155,
+      "website_order": 3153,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1182,9 +1182,9 @@
         "The Heritage Group Accelerator powered by Techstars"
       ],
       "state_province": "Rajasthan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cancrie.co",
-      "website_order": 3155,
+      "website_order": 3153,
       "worldregion": "Asia",
       "worldsubregion": "Southern Asia"
     }
@@ -1242,9 +1242,9 @@
         "The Heritage Group Accelerator powered by Techstars"
       ],
       "twitter_url": "twitter.com/magnetic_cement",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "magment.co",
-      "website_order": 3207,
+      "website_order": 3204,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1299,9 +1299,9 @@
         "The Heritage Group Accelerator powered by Techstars"
       ],
       "state_province": "Alberta",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "eoi-technologies.com",
-      "website_order": 3207,
+      "website_order": 3204,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1362,9 +1362,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/Chrisaquarealt1",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "algaetracker.com",
-      "website_order": 3207,
+      "website_order": 3204,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1421,9 +1421,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/alkemyenviron",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "alkemyenvironmental.com",
-      "website_order": 3207,
+      "website_order": 3204,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1478,8 +1478,8 @@
       ],
       "state_province": "Indiana",
       "twitter_url": "twitter.com/RecycledGranite",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1540,8 +1540,8 @@
       ],
       "state_province": "Indiana",
       "twitter_url": "twitter.com/broadloopapp",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1596,8 +1596,8 @@
         "The Heritage Group Accelerator powered by Techstars"
       ],
       "state_province": "Indiana",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }

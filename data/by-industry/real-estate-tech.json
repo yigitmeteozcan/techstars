@@ -58,7 +58,7 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/FunnelLeasing",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "funnelleasing.com",
       "website_order": 32,
       "worldregion": "Americas",
@@ -122,9 +122,9 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/ArrivedHomes",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "arrived.com",
-      "website_order": 54,
+      "website_order": 53,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -184,9 +184,9 @@
       ],
       "state_province": "Georgia",
       "twitter_url": "twitter.com/padsplit",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "padsplit.com",
-      "website_order": 60,
+      "website_order": 59,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -248,9 +248,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/placester",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "placester.com",
-      "website_order": 65,
+      "website_order": 64,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -312,7 +312,7 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/WeAreOwnUp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ownup.com",
       "website_order": 88,
       "worldregion": "Americas",
@@ -368,7 +368,7 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/joinlane",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "joinlane.com",
       "website_order": 95,
       "worldregion": "Americas",
@@ -427,7 +427,7 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/himorty",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "morty.com",
       "website_order": 103,
       "worldregion": "Americas",
@@ -493,7 +493,7 @@
       ],
       "state_province": "Connecticut",
       "twitter_url": "twitter.com/circa",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wearecirca.com",
       "website_order": 105,
       "worldregion": "Americas",
@@ -557,9 +557,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/ilovemaxwell",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "himaxwell.com",
-      "website_order": 194,
+      "website_order": 193,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -617,9 +617,9 @@
         "London Barclays Accelerator, powered by Techstars"
       ],
       "twitter_url": "twitter.com/OperCredits",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "opercredits.com",
-      "website_order": 303,
+      "website_order": 302,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -681,66 +681,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/Propertymatehq",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "jome.com",
-      "website_order": 304,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "Sketchdeck.ai",
-    "description": "Accelerating software automation in Construction",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/62d3139989665b442b2906ef/original/SketchDeckWinningEntry%28NoBackground%29_-_Daniel_Kamau.png",
-    "website": "https://sketchdeck.ai",
-    "location": "Edmonton, Alberta, Canada",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Real estate tech"
-    ],
-    "year": 2022,
-    "program": "Techstars Iowa Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/sketchdeckai",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/sketchdeck-ai"
-    },
-    "extra": {
-      "brief_description": "Accelerating software automation in Construction",
-      "city": "Edmonton",
-      "company_id": "e2db2f03-77fa-3665-ad0c-9b9b9e5583ef",
-      "company_name": "Sketchdeck.ai",
-      "country": "Canada",
-      "crunchbase_url": "crunchbase.com/organization/sketchdeck-ai",
-      "first_session_year": 2022,
-      "first_session_year_s": "2022",
-      "id": "e2db2f03-77fa-3665-ad0c-9b9b9e5583ef",
-      "industry_vertical": [
-        "Artificial intelligence and machine learning",
-        "Real estate tech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/sketchdeckai",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/62d3139989665b442b2906ef/original/SketchDeckWinningEntry%28NoBackground%29_-_Daniel_Kamau.png",
-      "program_names": [
-        "Techstars Iowa Accelerator"
-      ],
-      "state_province": "Alberta",
-      "updated_at": 1782813621,
-      "website": "sketchdeck.ai",
-      "website_order": 453,
+      "website_order": 303,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -799,9 +742,66 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/latchaccess",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "latch.com",
-      "website_order": 515,
+      "website_order": 417,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "Sketchdeck.ai",
+    "description": "Accelerating software automation in Construction",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/62d3139989665b442b2906ef/original/SketchDeckWinningEntry%28NoBackground%29_-_Daniel_Kamau.png",
+    "website": "https://sketchdeck.ai",
+    "location": "Edmonton, Alberta, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Real estate tech"
+    ],
+    "year": 2022,
+    "program": "Techstars Iowa Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/sketchdeckai",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/sketchdeck-ai"
+    },
+    "extra": {
+      "brief_description": "Accelerating software automation in Construction",
+      "city": "Edmonton",
+      "company_id": "e2db2f03-77fa-3665-ad0c-9b9b9e5583ef",
+      "company_name": "Sketchdeck.ai",
+      "country": "Canada",
+      "crunchbase_url": "crunchbase.com/organization/sketchdeck-ai",
+      "first_session_year": 2022,
+      "first_session_year_s": "2022",
+      "id": "e2db2f03-77fa-3665-ad0c-9b9b9e5583ef",
+      "industry_vertical": [
+        "Artificial intelligence and machine learning",
+        "Real estate tech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/sketchdeckai",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/62d3139989665b442b2906ef/original/SketchDeckWinningEntry%28NoBackground%29_-_Daniel_Kamau.png",
+      "program_names": [
+        "Techstars Iowa Accelerator"
+      ],
+      "state_province": "Alberta",
+      "updated_at": 1782900627,
+      "website": "sketchdeck.ai",
+      "website_order": 458,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -863,9 +863,9 @@
       ],
       "state_province": "Louisiana",
       "twitter_url": "twitter.com/rentcheckapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getrentcheck.com",
-      "website_order": 523,
+      "website_order": 527,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -927,9 +927,9 @@
         "chicago-jp-morgan"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "muro.ai",
-      "website_order": 528,
+      "website_order": 532,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -985,9 +985,9 @@
         "Colliers Proptech Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/skenarios",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "skenariolabs.com",
-      "website_order": 531,
+      "website_order": 535,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -1051,9 +1051,9 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/TeamAbode",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "unrealestate.com",
-      "website_order": 598,
+      "website_order": 600,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1125,9 +1125,9 @@
       ],
       "state_province": "Idaho",
       "twitter_url": "twitter.com/pitchaero",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pitchaero.com",
-      "website_order": 616,
+      "website_order": 618,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1187,9 +1187,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/TRELORA",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trelora.com",
-      "website_order": 689,
+      "website_order": 692,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1243,9 +1243,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/refinere",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "refinere.com",
-      "website_order": 726,
+      "website_order": 728,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1304,9 +1304,9 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/tell_roby",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tellroby.com",
-      "website_order": 742,
+      "website_order": 744,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1361,9 +1361,9 @@
       ],
       "state_province": "Dublin",
       "twitter_url": "twitter.com/offr_property",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "offr.io",
-      "website_order": 754,
+      "website_order": 756,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1425,9 +1425,9 @@
       ],
       "state_province": "Tennessee",
       "twitter_url": "twitter.com/_PleaseAssistMe",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pleaseassistme.com",
-      "website_order": 764,
+      "website_order": 766,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1505,9 +1505,9 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/hellokadeya",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kadeya.com",
-      "website_order": 832,
+      "website_order": 835,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1562,9 +1562,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/Realty_Mogul",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "realtymogul.com",
-      "website_order": 836,
+      "website_order": 839,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1620,9 +1620,9 @@
         "Colliers Proptech Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/getbooqed",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "booqed.com",
-      "website_order": 836,
+      "website_order": 839,
       "worldregion": "Asia",
       "worldsubregion": "Eastern Asia"
     }
@@ -1687,9 +1687,9 @@
       ],
       "state_province": "Saskatchewan",
       "twitter_url": "twitter.com/OmneeTech",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "omnee.ca",
-      "website_order": 866,
+      "website_order": 870,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1751,9 +1751,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/VivaEquity",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vivabenefits.com",
-      "website_order": 896,
+      "website_order": 899,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1810,9 +1810,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/havenconnect",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "havenconnect.com",
-      "website_order": 935,
+      "website_order": 940,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1881,9 +1881,9 @@
         "dc-jp-morgan"
       ],
       "twitter_url": "twitter.com/righthearapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "right-hear.com",
-      "website_order": 939,
+      "website_order": 944,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1943,9 +1943,9 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/improovy",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "improovy.com",
-      "website_order": 962,
+      "website_order": 968,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2009,9 +2009,9 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/getdoorr",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "doorr.com",
-      "website_order": 991,
+      "website_order": 996,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2078,9 +2078,9 @@
       "program_slugs": [
         "techstars-and-audi-mobility-accelerator"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "carre-mobility.de",
-      "website_order": 1030,
+      "website_order": 1035,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2136,9 +2136,9 @@
         "The Arcadis City of 2030 Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/caala_s",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "caala.de",
-      "website_order": 1051,
+      "website_order": 1055,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2195,9 +2195,9 @@
       "program_slugs": [
         "london"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "joinstead.com",
-      "website_order": 1114,
+      "website_order": 1117,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2257,9 +2257,9 @@
       ],
       "state_province": "Tennessee",
       "twitter_url": "twitter.com/avvayhq",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "avvay.com",
-      "website_order": 1153,
+      "website_order": 1156,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2315,9 +2315,9 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/arextech",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "arex.technology",
-      "website_order": 1230,
+      "website_order": 1234,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2379,9 +2379,9 @@
       ],
       "state_province": "Michigan",
       "twitter_url": "twitter.com/getballbox",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "playballbox.com",
-      "website_order": 1235,
+      "website_order": 1239,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2442,9 +2442,9 @@
         "chicago"
       ],
       "state_province": "Connecticut",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "opentotheoffer.com",
-      "website_order": 1238,
+      "website_order": 1242,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2506,9 +2506,9 @@
       ],
       "state_province": "Federal District",
       "twitter_url": "twitter.com/MICA_Insurance",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mica.rent",
-      "website_order": 1268,
+      "website_order": 1273,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2570,9 +2570,9 @@
       ],
       "state_province": "North Carolina",
       "twitter_url": "twitter.com/coworksapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "coworksapp.com",
-      "website_order": 1272,
+      "website_order": 1277,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2644,9 +2644,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/haptic",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "knocki.com",
-      "website_order": 1279,
+      "website_order": 1284,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2704,9 +2704,9 @@
         "transformative-world-torino"
       ],
       "state_province": "Turin",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "utwin.it",
-      "website_order": 1309,
+      "website_order": 1315,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -2759,9 +2759,9 @@
         "Colliers Proptech Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/basking_io",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "basking.io",
-      "website_order": 1312,
+      "website_order": 1318,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2823,9 +2823,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/HomeBinder",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "homebinder.com",
-      "website_order": 1339,
+      "website_order": 1345,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2893,9 +2893,9 @@
         "economic-mobility-samvid-ventures"
       ],
       "state_province": "Virginia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hirenimbus.com",
-      "website_order": 1394,
+      "website_order": 1400,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2961,9 +2961,9 @@
         "economic-mobility-samvid-ventures"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "axcces.com",
-      "website_order": 1394,
+      "website_order": 1400,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3027,9 +3027,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/KestrelLabs",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kestrellabs.com",
-      "website_order": 1422,
+      "website_order": 1427,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3094,9 +3094,9 @@
         "boston"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "brixely.com",
-      "website_order": 1422,
+      "website_order": 1427,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3160,9 +3160,9 @@
       ],
       "state_province": "Georgia",
       "twitter_url": "twitter.com/commissiontrac",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "commissiontrac.com",
-      "website_order": 1491,
+      "website_order": 1496,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3223,9 +3223,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "snapland.ai",
-      "website_order": 1510,
+      "website_order": 1515,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3290,9 +3290,9 @@
         "nyc"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "rakeml.com",
-      "website_order": 1517,
+      "website_order": 1522,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3351,9 +3351,9 @@
         "anywhere"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kindredpm.ai",
-      "website_order": 1556,
+      "website_order": 1560,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3415,9 +3415,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/courbanize",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "courbanize.com",
-      "website_order": 1595,
+      "website_order": 1599,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3481,9 +3481,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/world_of_sos",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "worldofsos.com",
-      "website_order": 1680,
+      "website_order": 1684,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3535,9 +3535,9 @@
         "Techstars San Francisco"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "reeli.ai",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3592,9 +3592,9 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/mapyourproperty",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mapyourproperty.com",
-      "website_order": 1759,
+      "website_order": 1763,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3655,9 +3655,9 @@
         "nyc"
       ],
       "state_province": "Dubai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "smart-bricks.com",
-      "website_order": 1809,
+      "website_order": 1813,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3715,9 +3715,9 @@
         "alabama-power"
       ],
       "state_province": "District of Columbia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "idyllo.com",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3787,9 +3787,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/citycop_en",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "citycop.org",
-      "website_order": 1894,
+      "website_order": 1899,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3856,9 +3856,9 @@
       ],
       "state_province": "Victoria",
       "twitter_url": "twitter.com/@ourlegup",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ourlegup.com",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -3918,9 +3918,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "onsite.fm",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -3990,9 +3990,9 @@
       ],
       "state_province": "Virginia",
       "twitter_url": "twitter.com/FrontlineGig",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "frontlinegig.com",
-      "website_order": 1917,
+      "website_order": 1922,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4046,9 +4046,9 @@
         "The Arcadis City of 2030 Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/modelur",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "modelur.eu",
-      "website_order": 1917,
+      "website_order": 1922,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -4110,9 +4110,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/host_company",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "thehost.co",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4172,9 +4172,9 @@
         "boston"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "poliark.com",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4233,9 +4233,9 @@
       "program_slugs": [
         "boston"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pharelabs.com",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -4296,9 +4296,9 @@
       "program_slugs": [
         "oakland-jp-morgan"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "netta.mx",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4358,9 +4358,9 @@
         "boston"
       ],
       "state_province": "Quebec",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "citera.ai",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4436,67 +4436,11 @@
         "stanley"
       ],
       "state_province": "Arizona",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "revoluterobotics.com",
-      "website_order": 2067,
+      "website_order": 2071,
       "worldregion": "Americas",
       "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "Parcel AI",
-    "description": "Analyze zoning and generate building scenarios",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7c1203b4f848019dcf1a801c7.png",
-    "website": "",
-    "location": "Krakow, Poland",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
-    "tags": [
-      "Real estate tech"
-    ],
-    "year": 2024,
-    "program": "Techstars Miami powered by J.P. Morgan",
-    "programSlugs": [
-      "miami-jp-morgan"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "brief_description": "Analyze zoning and generate building scenarios",
-      "city": "Krakow",
-      "company_id": "ba60f603-297b-4556-8e5c-74dd01fae65f",
-      "company_name": "Parcel AI",
-      "country": "Poland",
-      "first_session_year": 2024,
-      "first_session_year_s": "2024",
-      "id": "ba60f603-297b-4556-8e5c-74dd01fae65f",
-      "industry_vertical": [
-        "Real estate tech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_7c1203b4f848019dcf1a801c7.png",
-      "program_names": [
-        "Techstars Miami powered by J.P. Morgan"
-      ],
-      "program_slugs": [
-        "miami-jp-morgan"
-      ],
-      "updated_at": 1782813621,
-      "website_order": 2067,
-      "worldregion": "Europe",
-      "worldsubregion": "Eastern Europe"
     }
   },
   {
@@ -4565,9 +4509,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/inclotuslabs",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "lotuslabs.org",
-      "website_order": 2067,
+      "website_order": 2071,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4626,9 +4570,9 @@
         "nyc-jp-morgan"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "champion40a.com",
-      "website_order": 2067,
+      "website_order": 2071,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4687,9 +4631,9 @@
       ],
       "state_province": "North Carolina",
       "twitter_url": "twitter.com/koussohome",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kous.so",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4753,9 +4697,9 @@
       "program_slugs": [
         "berlin"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gauzilla.xyz",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -4814,9 +4758,9 @@
       ],
       "state_province": "South Carolina",
       "twitter_url": "twitter.com/permitzone",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "permits.com",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4878,9 +4822,9 @@
         "nyc"
       ],
       "state_province": "Ontario",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "fractionum.com",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4935,9 +4879,9 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/fastoffice",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "fastoffice.com",
-      "website_order": 2387,
+      "website_order": 2389,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4994,9 +4938,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/theadexai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "adex.ai",
-      "website_order": 2387,
+      "website_order": 2389,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5053,9 +4997,9 @@
       ],
       "state_province": "Iowa",
       "twitter_url": "twitter.com/Emigrait_Inc",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "emigrait.com",
-      "website_order": 2392,
+      "website_order": 2394,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5111,9 +5055,9 @@
         "Stockholm Techstars Accelerator"
       ],
       "twitter_url": "twitter.com/roomkast",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "roomkast.com",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -5170,9 +5114,9 @@
         "future-of-food"
       ],
       "state_province": "Minnesota",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "perksrewards.app",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5246,9 +5190,9 @@
         "future-of-food"
       ],
       "state_province": "Newfoundland and Labrador",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bloc.eco",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5310,9 +5254,9 @@
         "detroit-jp-morgan"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "keepingly.co",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5371,9 +5315,9 @@
         "arm-labs-lagos"
       ],
       "twitter_url": "twitter.com/KebleHQ",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "keble.co",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Africa",
       "worldsubregion": "Western Africa"
     }
@@ -5441,9 +5385,9 @@
         "detroit-jp-morgan"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "buildq.ai",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5504,9 +5448,9 @@
         "boston"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "amherstintelligentsecurity.com",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5567,9 +5511,9 @@
       "program_slugs": [
         "arm-labs-lagos"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "alphabloq.io",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Africa",
       "worldsubregion": "Eastern Africa"
     }
@@ -5636,9 +5580,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/adventurely",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "adventurely.app",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5700,7 +5644,7 @@
         "tulsa"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trysonify.com",
       "website_order": 2586,
       "worldregion": "Americas",
@@ -5762,7 +5706,7 @@
         "tulsa"
       ],
       "state_province": "Georgia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "permiguide.com",
       "website_order": 2586,
       "worldregion": "Americas",
@@ -5827,7 +5771,7 @@
       ],
       "state_province": "Ohio",
       "twitter_url": "twitter.com/Go_Pazo",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gopazo.com",
       "website_order": 2594,
       "worldregion": "Americas",
@@ -5901,7 +5845,7 @@
         "alabama-power"
       ],
       "state_province": "Georgia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "maverickiq.com",
       "website_order": 2599,
       "worldregion": "Americas",
@@ -5969,7 +5913,7 @@
         "alabama-power"
       ],
       "state_province": "New Jersey",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "griddiscovery.com",
       "website_order": 2599,
       "worldregion": "Americas",
@@ -6034,7 +5978,7 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/vocalyticsai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vocalytics.ai",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -6098,7 +6042,7 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/Showinghero",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "showinghero.com",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -6170,7 +6114,7 @@
         "alabama-power"
       ],
       "state_province": "Illinois",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "res-us.com",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -6248,7 +6192,7 @@
       ],
       "state_province": "Michigan",
       "twitter_url": "twitter.com/plug_zen",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "plugzen.us",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -6309,7 +6253,7 @@
         "transformative-world-torino"
       ],
       "state_province": "Milan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "newurbanoffice.com",
       "website_order": 2637,
       "worldregion": "Europe",
@@ -6371,7 +6315,7 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "larki.au",
       "website_order": 2637,
       "worldregion": "Oceania",
@@ -6435,7 +6379,7 @@
         "boston"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "homeruniq.com",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -6502,7 +6446,7 @@
         "alabama-power"
       ],
       "state_province": "Washington",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "geoprospex.ai",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -6564,7 +6508,7 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/geckorent",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gecko.rent",
       "website_order": 2637,
       "worldregion": "Oceania",
@@ -6635,7 +6579,7 @@
         "alabama-power"
       ],
       "state_province": "Virginia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "edenicenergy.ai",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -6698,7 +6642,7 @@
         "boston"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "caltana.com",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -6780,7 +6724,7 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/bobscontainers",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bobscontainers.com",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -6845,9 +6789,9 @@
         "equitech"
       ],
       "state_province": "Maryland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gobyhomes.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6907,9 +6851,9 @@
         "dc-jp-morgan"
       ],
       "state_province": "Pennsylvania",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "axxelist.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6966,9 +6910,9 @@
         "Techstars Kansas City Accelerator"
       ],
       "state_province": "Kansas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pmiratepro.com",
-      "website_order": 2866,
+      "website_order": 2865,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7030,9 +6974,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/honestdeed",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "honestdeed.com",
-      "website_order": 2866,
+      "website_order": 2865,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7095,9 +7039,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/builtyapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "builty.app",
-      "website_order": 2866,
+      "website_order": 2865,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7156,9 +7100,9 @@
       ],
       "state_province": "Ohio",
       "twitter_url": "twitter.com/@nectorcap",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nectorcapital.com",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7210,9 +7154,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "prismia.so",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7264,9 +7208,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "praxi.io",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7330,9 +7274,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Ohio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "plugop.com",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7390,9 +7334,9 @@
         "boulder"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "investparker.com",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7452,9 +7396,9 @@
       ],
       "state_province": "Georgia",
       "twitter_url": "twitter.com/iqland_ai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "iqland.ai",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7516,9 +7460,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/arrivoai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "arrivo.ai",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7580,9 +7524,9 @@
       ],
       "state_province": "Missouri",
       "twitter_url": "twitter.com/officialedurain",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "edurain.org",
-      "website_order": 3177,
+      "website_order": 3174,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7642,9 +7586,9 @@
       ],
       "state_province": "Michigan",
       "twitter_url": "twitter.com/hostyourvoice",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "leasemagnets.com",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7704,9 +7648,9 @@
       ],
       "state_province": "Connecticut",
       "twitter_url": "twitter.com/rerent_co",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "app.rerent.co",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7774,9 +7718,9 @@
       ],
       "state_province": "Michigan",
       "twitter_url": "twitter.com/sparenhomes",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sparenadvisory.com",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7841,9 +7785,9 @@
         "impact-cox"
       ],
       "state_province": "Pennsylvania",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "liverego.com",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7906,9 +7850,9 @@
       ],
       "state_province": "Nevada",
       "twitter_url": "twitter.com/mattoboard",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mattoboard.com",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7970,9 +7914,9 @@
       ],
       "state_province": "Virginia",
       "twitter_url": "twitter.com/joint_homes",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "jointhomes.com",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8035,9 +7979,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/AvrioHQ",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "avrio.com",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -8097,9 +8041,9 @@
       ],
       "state_province": "Nevada",
       "twitter_url": "twitter.com/workbnbapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "workbnbapp.com",
-      "website_order": 3420,
+      "website_order": 3418,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8165,9 +8109,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/pairgap",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pairgap.com",
-      "website_order": 3420,
+      "website_order": 3418,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8240,9 +8184,9 @@
       ],
       "state_province": "Maryland",
       "twitter_url": "twitter.com/nghbr",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nghbr.app",
-      "website_order": 3420,
+      "website_order": 3418,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8302,9 +8246,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/TryHomeFlow",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tryhomeflow.com",
-      "website_order": 3420,
+      "website_order": 3418,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8366,9 +8310,9 @@
         "chicago"
       ],
       "twitter_url": "twitter.com/AeViewit",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "viewit.ae",
-      "website_order": 3486,
+      "website_order": 3484,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8429,9 +8373,9 @@
         "oakland-jp-morgan"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gohaus.ai",
-      "website_order": 3486,
+      "website_order": 3484,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8490,9 +8434,9 @@
         "chicago-jp-morgan"
       ],
       "state_province": "Illinois",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "flathomecare.com",
-      "website_order": 3486,
+      "website_order": 3484,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8554,9 +8498,9 @@
         "toronto"
       ],
       "twitter_url": "twitter.com/sesoglobal",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "seso.global",
-      "website_order": 3650,
+      "website_order": 3648,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -8619,9 +8563,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/LiveVend",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "livevend.com",
-      "website_order": 3650,
+      "website_order": 3648,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8683,9 +8627,9 @@
         "atlanta-cox"
       ],
       "state_province": "Georgia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hearthmates.com",
-      "website_order": 3664,
+      "website_order": 3663,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8748,9 +8692,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/coliiving",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "coliiving.com",
-      "website_order": 3703,
+      "website_order": 3702,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8808,9 +8752,9 @@
       "program_slugs": [
         "boulder"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hometuls.co",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Americas",
       "worldsubregion": "South America"
     }
@@ -8869,9 +8813,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/farm",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "farm.vc",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8948,9 +8892,9 @@
         "chicago-jp-morgan"
       ],
       "state_province": "Michigan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "capoom.com",
-      "website_order": 3761,
+      "website_order": 3756,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9007,9 +8951,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/stacksource",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "stacksource.com",
-      "website_order": 3788,
+      "website_order": 3782,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9068,9 +9012,9 @@
         "tulsa"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "securethebags.co",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9130,9 +9074,9 @@
         "tulsa"
       ],
       "state_province": "Alabama",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "datatherm.net",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9187,9 +9131,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/upsuite",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "upsuite.com",
-      "website_order": 3806,
+      "website_order": 3800,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9243,9 +9187,9 @@
         "London Barclays Accelerator, powered by Techstars"
       ],
       "twitter_url": "twitter.com/SmartViewing",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vieweet.com",
-      "website_order": 3808,
+      "website_order": 3802,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -9305,9 +9249,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/invitedhome",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "invitedhome.com",
-      "website_order": 3812,
+      "website_order": 3806,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9369,9 +9313,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/PivotDesk",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pivotdesk.com",
-      "website_order": 3851,
+      "website_order": 3845,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9441,9 +9385,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/Dispatch",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "dispatch.me",
-      "website_order": 3943,
+      "website_order": 3937,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9498,8 +9442,8 @@
       ],
       "state_province": "District of Columbia",
       "twitter_url": "twitter.com/workchew",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9557,8 +9501,8 @@
         "tulsa"
       ],
       "state_province": "Georgia",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9611,8 +9555,8 @@
       "program_names": [
         "Colliers Proptech Accelerator Powered by Techstars"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Asia",
       "worldsubregion": "Southeastern Asia"
     }
@@ -9666,8 +9610,8 @@
         "Colliers Proptech Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/liveinspce",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -9735,8 +9679,8 @@
       "program_slugs": [
         "alabama-power"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -9800,8 +9744,8 @@
         "chicago-jp-morgan"
       ],
       "state_province": "Pennsylvania",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9863,8 +9807,8 @@
       ],
       "state_province": "Iowa",
       "twitter_url": "twitter.com/rentmonitor",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9926,8 +9870,8 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/rentmatchcom",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9989,8 +9933,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/rennohome",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10055,8 +9999,8 @@
       ],
       "state_province": "Queensland",
       "twitter_url": "twitter.com/realarspaces",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -10112,8 +10056,8 @@
         "Colliers Proptech Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/Raybased_IoT",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -10169,10 +10113,66 @@
         "The Arcadis City of 2030 Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/Prop_Folio",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
+    }
+  },
+  {
+    "name": "Parcel AI",
+    "description": "Analyze zoning and generate building scenarios",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_7c1203b4f848019dcf1a801c7.png",
+    "website": "",
+    "location": "Krakow, Poland",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "tags": [
+      "Real estate tech"
+    ],
+    "year": 2024,
+    "program": "Techstars Miami powered by J.P. Morgan",
+    "programSlugs": [
+      "miami-jp-morgan"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "brief_description": "Analyze zoning and generate building scenarios",
+      "city": "Krakow",
+      "company_id": "ba60f603-297b-4556-8e5c-74dd01fae65f",
+      "company_name": "Parcel AI",
+      "country": "Poland",
+      "first_session_year": 2024,
+      "first_session_year_s": "2024",
+      "id": "ba60f603-297b-4556-8e5c-74dd01fae65f",
+      "industry_vertical": [
+        "Real estate tech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_7c1203b4f848019dcf1a801c7.png",
+      "program_names": [
+        "Techstars Miami powered by J.P. Morgan"
+      ],
+      "program_slugs": [
+        "miami-jp-morgan"
+      ],
+      "updated_at": 1782900627,
+      "website_order": 3975,
+      "worldregion": "Europe",
+      "worldsubregion": "Eastern Europe"
     }
   },
   {
@@ -10226,8 +10226,8 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/TheOwnerhood",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -10280,8 +10280,8 @@
       "program_names": [
         "The Arcadis City of 2030 Accelerator Powered by Techstars"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -10342,8 +10342,8 @@
         "space"
       ],
       "state_province": "Utah",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10428,8 +10428,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/MerkleB0t",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10484,8 +10484,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/kndrd_io",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10545,8 +10545,8 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/InRentive",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10616,8 +10616,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/facenoteme",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10682,8 +10682,8 @@
       ],
       "state_province": "District of Columbia",
       "twitter_url": "twitter.com/HalosInsurance",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10745,8 +10745,8 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/dashbell",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10805,8 +10805,8 @@
       ],
       "state_province": "District of Columbia",
       "twitter_url": "twitter.com/Create_Tech",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10864,8 +10864,8 @@
         "miami-jp-morgan"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10929,8 +10929,8 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/livewithflip",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10993,8 +10993,8 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/builderscloud",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11055,8 +11055,8 @@
         "toronto"
       ],
       "twitter_url": "twitter.com/BongalowNigeria",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Africa",
       "worldsubregion": "Western Africa"
     }
@@ -11113,8 +11113,8 @@
         "Stockholm Techstars Accelerator"
       ],
       "twitter_url": "twitter.com/bobmakler",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -11176,8 +11176,8 @@
         "longevity"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11230,8 +11230,8 @@
         "Barclays Accelerator, Powered by Techstars - Cape Town"
       ],
       "twitter_url": "twitter.com/benbenlands",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Africa",
       "worldsubregion": "Western Africa"
     }
@@ -11301,8 +11301,8 @@
       ],
       "state_province": "British Columbia",
       "twitter_url": "twitter.com/autonopia",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11356,8 +11356,8 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/aretailspace",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }

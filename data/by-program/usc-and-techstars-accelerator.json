@@ -54,9 +54,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vascai.com",
-      "website_order": 1833,
+      "website_order": 1837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -120,9 +120,65 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sensate-robotics.com",
-      "website_order": 1833,
+      "website_order": 1837,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "nowfluence",
+    "description": "nowfluence is a software platform powering modern influencer and creator partnerships, giving brands and talent teams a single system to manage campaigns, track deliverables, automate communication, and handle secure payments, while layering in performance data and transactional infrastructure to turn influencer marketing from a messy, manual process into a scalable, accountable revenue channel.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_aaa4b85ee94d74d3a1d05a56c.png",
+    "website": "https://nowfluence.co",
+    "location": "Los Angeles, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Marketing tech"
+    ],
+    "year": 2026,
+    "program": "USC and Techstars Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/nowfluence",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "brief_description": "nowfluence is a software platform powering modern influencer and creator partnerships, giving brands and talent teams a single system to manage campaigns, track deliverables, automate communication, and handle secure payments, while layering in performance data and transactional infrastructure to turn influencer marketing from a messy, manual process into a scalable, accountable revenue channel.",
+      "city": "Los Angeles",
+      "company_id": "ade0b47b-c429-4334-9712-33804f32a8a8",
+      "company_name": "nowfluence",
+      "country": "United States",
+      "first_session_year": 2026,
+      "first_session_year_s": "2026",
+      "id": "ade0b47b-c429-4334-9712-33804f32a8a8",
+      "industry_vertical": [
+        "Artificial intelligence and machine learning",
+        "Marketing tech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/nowfluence",
+      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_aaa4b85ee94d74d3a1d05a56c.png",
+      "program_names": [
+        "USC and Techstars Accelerator"
+      ],
+      "state_province": "California",
+      "updated_at": 1782900627,
+      "website": "nowfluence.co",
+      "website_order": 1837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -177,9 +233,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/flextogether",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "flextogether.com",
-      "website_order": 1833,
+      "website_order": 1837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -235,9 +291,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "joindrafted.com",
-      "website_order": 1833,
+      "website_order": 1837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -293,9 +349,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bluenavy.org",
-      "website_order": 1833,
+      "website_order": 1837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -347,9 +403,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "videodraft.ai",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -401,9 +457,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "silverspurtx.com",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -455,9 +511,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "prismia.so",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -510,9 +566,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "prefacehealth.com",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -564,9 +620,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "praxi.io",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -618,9 +674,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "Oregon",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "askhenna.com",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -672,9 +728,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "easyshake.xyz",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -726,65 +782,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "alstenimedical.com",
-      "website_order": 3025,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "nowfluence",
-    "description": "nowfluence is a software platform powering modern influencer and creator partnerships, giving brands and talent teams a single system to manage campaigns, track deliverables, automate communication, and handle secure payments, while layering in performance data and transactional infrastructure to turn influencer marketing from a messy, manual process into a scalable, accountable revenue channel.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_aaa4b85ee94d74d3a1d05a56c.png",
-    "website": "https://nowfluence.co",
-    "location": "Los Angeles, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Marketing tech"
-    ],
-    "year": 2026,
-    "program": "USC and Techstars Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/nowfluence",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "brief_description": "nowfluence is a software platform powering modern influencer and creator partnerships, giving brands and talent teams a single system to manage campaigns, track deliverables, automate communication, and handle secure payments, while layering in performance data and transactional infrastructure to turn influencer marketing from a messy, manual process into a scalable, accountable revenue channel.",
-      "city": "Los Angeles",
-      "company_id": "ade0b47b-c429-4334-9712-33804f32a8a8",
-      "company_name": "nowfluence",
-      "country": "United States",
-      "first_session_year": 2026,
-      "first_session_year_s": "2026",
-      "id": "ade0b47b-c429-4334-9712-33804f32a8a8",
-      "industry_vertical": [
-        "Artificial intelligence and machine learning",
-        "Marketing tech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/nowfluence",
-      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_aaa4b85ee94d74d3a1d05a56c.png",
-      "program_names": [
-        "USC and Techstars Accelerator"
-      ],
-      "state_province": "California",
-      "updated_at": 1782813621,
-      "website": "nowfluence.co",
-      "website_order": 5093,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }

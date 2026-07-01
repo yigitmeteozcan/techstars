@@ -51,7 +51,7 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/usealloy",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "alloy.co",
       "website_order": 12,
       "worldregion": "Americas",
@@ -115,7 +115,7 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/synack",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "synack.com",
       "website_order": 33,
       "worldregion": "Americas",
@@ -179,9 +179,9 @@
       ],
       "state_province": "District of Columbia",
       "twitter_url": "twitter.com/dnsfilter",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "dnsfilter.com",
-      "website_order": 50,
+      "website_order": 49,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -238,7 +238,7 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/qusecure",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "qusecure.com",
       "website_order": 102,
       "worldregion": "Americas",
@@ -296,7 +296,7 @@
         "London Barclays Accelerator, powered by Techstars"
       ],
       "twitter_url": "twitter.com/ravelinhq",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ravelin.com",
       "website_order": 106,
       "worldregion": "Europe",
@@ -364,7 +364,7 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/shearwaterintl",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mentorcollective.org",
       "website_order": 140,
       "worldregion": "Americas",
@@ -434,7 +434,7 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/Skopenow",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "skopenow.com",
       "website_order": 142,
       "worldregion": "Americas",
@@ -495,7 +495,7 @@
       ],
       "state_province": "North Carolina",
       "twitter_url": "twitter.com/LearnPlatformUS",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "learnplatform.com",
       "website_order": 159,
       "worldregion": "Americas",
@@ -555,7 +555,7 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/HeightsLabs",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "heightslabs.com",
       "website_order": 164,
       "worldregion": "Americas",
@@ -612,9 +612,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/RangeForce",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vequrity.com",
-      "website_order": 187,
+      "website_order": 186,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -671,9 +671,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/threatstack",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "threatstack.com",
-      "website_order": 212,
+      "website_order": 211,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -730,7 +730,7 @@
         "London Barclays Accelerator, powered by Techstars"
       ],
       "twitter_url": "twitter.com/Simudyne",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "simudyne.com",
       "website_order": 235,
       "worldregion": "Europe",
@@ -801,7 +801,7 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/transcrypts_",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "transcrypts.com",
       "website_order": 246,
       "worldregion": "Americas",
@@ -860,7 +860,7 @@
         "London Barclays Accelerator, powered by Techstars"
       ],
       "twitter_url": "twitter.com/PQChatApp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "post-quantum.com",
       "website_order": 255,
       "worldregion": "Europe",
@@ -925,7 +925,7 @@
         "abn-amro-techstars-future-of-finance-accelerator"
       ],
       "twitter_url": "twitter.com/dfnshq",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "dfns.co",
       "website_order": 282,
       "worldregion": "Europe",
@@ -993,9 +993,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/Voatz",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "voatz.com",
-      "website_order": 319,
+      "website_order": 318,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1053,191 +1053,11 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/_cubbit",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cubbit.io",
       "website_order": 348,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
-    }
-  },
-  {
-    "name": "PeakMetrics",
-    "description": "By analyzing media across social, online news and broadcast, we spot trends to identify what people care about.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5e3225f1a36c1171ea000074/original/512logo.png",
-    "website": "https://peakmetrics.com",
-    "location": "Los Angeles, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Cybersecurity",
-      "Fintech"
-    ],
-    "year": 2020,
-    "program": "Air Force Accelerator Powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/peakmetricsapp",
-      "twitter": "https://twitter.com/peakmetricsapp",
-      "facebook": "https://facebook.com/peakmetricsapp/",
-      "crunchbase": "https://crunchbase.com/organization/civicfeed#section-overview"
-    },
-    "extra": {
-      "brief_description": "By analyzing media across social, online news and broadcast, we spot trends to identify what people care about.",
-      "city": "Los Angeles",
-      "company_id": "45469c1a-4c6d-4895-86d2-cf7b06489fb0",
-      "company_name": "PeakMetrics",
-      "country": "United States",
-      "crunchbase_url": "crunchbase.com/organization/civicfeed#section-overview",
-      "facebook_url": "facebook.com/peakmetricsapp/",
-      "first_session_year": 2020,
-      "first_session_year_s": "2020",
-      "id": "45469c1a-4c6d-4895-86d2-cf7b06489fb0",
-      "industry_vertical": [
-        "Artificial intelligence and machine learning",
-        "Cybersecurity",
-        "Fintech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/peakmetricsapp",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/5e3225f1a36c1171ea000074/original/512logo.png",
-      "program_names": [
-        "Air Force Accelerator Powered by Techstars"
-      ],
-      "state_province": "California",
-      "twitter_url": "twitter.com/peakmetricsapp",
-      "updated_at": 1782813621,
-      "website": "peakmetrics.com",
-      "website_order": 380,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "SafeHouse Technologies",
-    "description": "Digital safety for real people online",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5b0c00eea36c1104dc000043/original/High_Res_Logo.png",
-    "website": "https://safehousetech.com",
-    "location": "Tel Aviv, Israel",
-    "region": "Middle East",
-    "subregion": "Middle East",
-    "tags": [
-      "Cybersecurity",
-      "Mobile"
-    ],
-    "year": 2018,
-    "program": "Barclays Accelerator, Powered by Techstars - Tel Aviv",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/safehousetech",
-      "twitter": "https://twitter.com/SafeHouseTech",
-      "facebook": "https://facebook.com/safehousetech/",
-      "crunchbase": "https://crunchbase.com/organization/safehouse-ffed#section-overview"
-    },
-    "extra": {
-      "brief_description": "Digital safety for real people online",
-      "city": "Tel Aviv",
-      "company_id": "076a5de4-f4c9-4a15-a2de-ae89b734d5c3",
-      "company_name": "SafeHouse Technologies",
-      "country": "Israel",
-      "crunchbase_url": "crunchbase.com/organization/safehouse-ffed#section-overview",
-      "facebook_url": "facebook.com/safehousetech/",
-      "first_session_year": 2018,
-      "first_session_year_s": "2018",
-      "id": "076a5de4-f4c9-4a15-a2de-ae89b734d5c3",
-      "industry_vertical": [
-        "Cybersecurity",
-        "Mobile"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/safehousetech",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/5b0c00eea36c1104dc000043/original/High_Res_Logo.png",
-      "program_names": [
-        "Barclays Accelerator, Powered by Techstars - Tel Aviv"
-      ],
-      "twitter_url": "twitter.com/SafeHouseTech",
-      "updated_at": 1782813621,
-      "website": "safehousetech.com",
-      "website_order": 386,
-      "worldregion": "Middle East",
-      "worldsubregion": "Middle East"
-    }
-  },
-  {
-    "name": "UrbanFox",
-    "description": "UrbanFox is a fraud detection and prevention technology for payment processors and online merchants. It analyses behavioral patterns to protect against fraud.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5c7e80d934a60d16f3000007/original/UrbanFox_LOGO.jpg",
-    "website": "https://urbanfox.io",
-    "location": "Dublin, Dublin, Ireland",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Cybersecurity",
-      "Mobile"
-    ],
-    "year": 2019,
-    "program": "London Barclays Accelerator, powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/urbanfox",
-      "twitter": "https://twitter.com/urbanfoxtweets",
-      "facebook": "https://facebook.com/urbanfox-497515443595899",
-      "crunchbase": "https://crunchbase.com/organization/urbanfox"
-    },
-    "extra": {
-      "brief_description": "UrbanFox is a fraud detection and prevention technology for payment processors and online merchants. It analyses behavioral patterns to protect against fraud.",
-      "city": "Dublin",
-      "company_id": "356ae3bc-0f71-495c-b0a9-76d5e591a6d4",
-      "company_name": "UrbanFox",
-      "country": "Ireland",
-      "crunchbase_url": "crunchbase.com/organization/urbanfox",
-      "facebook_url": "facebook.com/urbanfox-497515443595899",
-      "first_session_year": 2019,
-      "first_session_year_s": "2019",
-      "id": "356ae3bc-0f71-495c-b0a9-76d5e591a6d4",
-      "industry_vertical": [
-        "Artificial intelligence and machine learning",
-        "Cybersecurity",
-        "Mobile"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/urbanfox",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/5c7e80d934a60d16f3000007/original/UrbanFox_LOGO.jpg",
-      "program_names": [
-        "London Barclays Accelerator, powered by Techstars"
-      ],
-      "state_province": "Dublin",
-      "twitter_url": "twitter.com/urbanfoxtweets",
-      "updated_at": 1782813621,
-      "website": "urbanfox.io",
-      "website_order": 460,
-      "worldregion": "Europe",
-      "worldsubregion": "Western Europe"
     }
   },
   {
@@ -1300,11 +1120,191 @@
       ],
       "state_province": "New Brunswick",
       "twitter_url": "twitter.com/TrojAISec",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "troj.ai",
-      "website_order": 465,
+      "website_order": 351,
       "worldregion": "Americas",
       "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "PeakMetrics",
+    "description": "By analyzing media across social, online news and broadcast, we spot trends to identify what people care about.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5e3225f1a36c1171ea000074/original/512logo.png",
+    "website": "https://peakmetrics.com",
+    "location": "Los Angeles, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cybersecurity",
+      "Fintech"
+    ],
+    "year": 2020,
+    "program": "Air Force Accelerator Powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/peakmetricsapp",
+      "twitter": "https://twitter.com/peakmetricsapp",
+      "facebook": "https://facebook.com/peakmetricsapp/",
+      "crunchbase": "https://crunchbase.com/organization/civicfeed#section-overview"
+    },
+    "extra": {
+      "brief_description": "By analyzing media across social, online news and broadcast, we spot trends to identify what people care about.",
+      "city": "Los Angeles",
+      "company_id": "45469c1a-4c6d-4895-86d2-cf7b06489fb0",
+      "company_name": "PeakMetrics",
+      "country": "United States",
+      "crunchbase_url": "crunchbase.com/organization/civicfeed#section-overview",
+      "facebook_url": "facebook.com/peakmetricsapp/",
+      "first_session_year": 2020,
+      "first_session_year_s": "2020",
+      "id": "45469c1a-4c6d-4895-86d2-cf7b06489fb0",
+      "industry_vertical": [
+        "Artificial intelligence and machine learning",
+        "Cybersecurity",
+        "Fintech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/peakmetricsapp",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/5e3225f1a36c1171ea000074/original/512logo.png",
+      "program_names": [
+        "Air Force Accelerator Powered by Techstars"
+      ],
+      "state_province": "California",
+      "twitter_url": "twitter.com/peakmetricsapp",
+      "updated_at": 1782900627,
+      "website": "peakmetrics.com",
+      "website_order": 381,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "SafeHouse Technologies",
+    "description": "Digital safety for real people online",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5b0c00eea36c1104dc000043/original/High_Res_Logo.png",
+    "website": "https://safehousetech.com",
+    "location": "Tel Aviv, Israel",
+    "region": "Middle East",
+    "subregion": "Middle East",
+    "tags": [
+      "Cybersecurity",
+      "Mobile"
+    ],
+    "year": 2018,
+    "program": "Barclays Accelerator, Powered by Techstars - Tel Aviv",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/safehousetech",
+      "twitter": "https://twitter.com/SafeHouseTech",
+      "facebook": "https://facebook.com/safehousetech/",
+      "crunchbase": "https://crunchbase.com/organization/safehouse-ffed#section-overview"
+    },
+    "extra": {
+      "brief_description": "Digital safety for real people online",
+      "city": "Tel Aviv",
+      "company_id": "076a5de4-f4c9-4a15-a2de-ae89b734d5c3",
+      "company_name": "SafeHouse Technologies",
+      "country": "Israel",
+      "crunchbase_url": "crunchbase.com/organization/safehouse-ffed#section-overview",
+      "facebook_url": "facebook.com/safehousetech/",
+      "first_session_year": 2018,
+      "first_session_year_s": "2018",
+      "id": "076a5de4-f4c9-4a15-a2de-ae89b734d5c3",
+      "industry_vertical": [
+        "Cybersecurity",
+        "Mobile"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/safehousetech",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/5b0c00eea36c1104dc000043/original/High_Res_Logo.png",
+      "program_names": [
+        "Barclays Accelerator, Powered by Techstars - Tel Aviv"
+      ],
+      "twitter_url": "twitter.com/SafeHouseTech",
+      "updated_at": 1782900627,
+      "website": "safehousetech.com",
+      "website_order": 387,
+      "worldregion": "Middle East",
+      "worldsubregion": "Middle East"
+    }
+  },
+  {
+    "name": "UrbanFox",
+    "description": "UrbanFox is a fraud detection and prevention technology for payment processors and online merchants. It analyses behavioral patterns to protect against fraud.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5c7e80d934a60d16f3000007/original/UrbanFox_LOGO.jpg",
+    "website": "https://urbanfox.io",
+    "location": "Dublin, Dublin, Ireland",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cybersecurity",
+      "Mobile"
+    ],
+    "year": 2019,
+    "program": "London Barclays Accelerator, powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/urbanfox",
+      "twitter": "https://twitter.com/urbanfoxtweets",
+      "facebook": "https://facebook.com/urbanfox-497515443595899",
+      "crunchbase": "https://crunchbase.com/organization/urbanfox"
+    },
+    "extra": {
+      "brief_description": "UrbanFox is a fraud detection and prevention technology for payment processors and online merchants. It analyses behavioral patterns to protect against fraud.",
+      "city": "Dublin",
+      "company_id": "356ae3bc-0f71-495c-b0a9-76d5e591a6d4",
+      "company_name": "UrbanFox",
+      "country": "Ireland",
+      "crunchbase_url": "crunchbase.com/organization/urbanfox",
+      "facebook_url": "facebook.com/urbanfox-497515443595899",
+      "first_session_year": 2019,
+      "first_session_year_s": "2019",
+      "id": "356ae3bc-0f71-495c-b0a9-76d5e591a6d4",
+      "industry_vertical": [
+        "Artificial intelligence and machine learning",
+        "Cybersecurity",
+        "Mobile"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/urbanfox",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/5c7e80d934a60d16f3000007/original/UrbanFox_LOGO.jpg",
+      "program_names": [
+        "London Barclays Accelerator, powered by Techstars"
+      ],
+      "state_province": "Dublin",
+      "twitter_url": "twitter.com/urbanfoxtweets",
+      "updated_at": 1782900627,
+      "website": "urbanfox.io",
+      "website_order": 465,
+      "worldregion": "Europe",
+      "worldsubregion": "Western Europe"
     }
   },
   {
@@ -1368,9 +1368,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/typingdna",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "typingdna.com",
-      "website_order": 524,
+      "website_order": 528,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1429,9 +1429,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/KriptosCorp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kriptos.io",
-      "website_order": 533,
+      "website_order": 537,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1493,9 +1493,9 @@
       ],
       "state_province": "Quebec",
       "twitter_url": "twitter.com/vanilla",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vanillaforums.com",
-      "website_order": 542,
+      "website_order": 546,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1551,9 +1551,9 @@
         "London Barclays Accelerator, powered by Techstars"
       ],
       "twitter_url": "twitter.com/alyne",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "alyne.com",
-      "website_order": 552,
+      "website_order": 557,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1622,9 +1622,9 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/heex_io",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "heex.io",
-      "website_order": 613,
+      "website_order": 615,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1679,9 +1679,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/xairos2",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "xairos.com",
-      "website_order": 631,
+      "website_order": 634,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1746,9 +1746,9 @@
         "london"
       ],
       "twitter_url": "twitter.com/assetvaultco",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "asset-vault.com",
-      "website_order": 643,
+      "website_order": 646,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1803,9 +1803,9 @@
       ],
       "state_province": "Minnesota",
       "twitter_url": "twitter.com/ProcessBolt",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "processbolt.com",
-      "website_order": 667,
+      "website_order": 670,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1857,9 +1857,9 @@
       "program_names": [
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wenspiredata.com",
-      "website_order": 715,
+      "website_order": 717,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1921,9 +1921,9 @@
       ],
       "state_province": "Nova Scotia",
       "twitter_url": "twitter.com/securicyapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "carbidesecure.com",
-      "website_order": 722,
+      "website_order": 724,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1985,9 +1985,9 @@
         "berlin"
       ],
       "twitter_url": "twitter.com/trudenty",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trudenty.com",
-      "website_order": 757,
+      "website_order": 759,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2052,9 +2052,9 @@
       "program_slugs": [
         "london"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "periphery.security",
-      "website_order": 792,
+      "website_order": 795,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2118,9 +2118,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/Hacware1",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hacware.com",
-      "website_order": 826,
+      "website_order": 829,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2184,9 +2184,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/_SIEMonster",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "siemonster.com",
-      "website_order": 878,
+      "website_order": 882,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2245,9 +2245,9 @@
         "boston"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "doctrackr.com",
-      "website_order": 918,
+      "website_order": 923,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2306,9 +2306,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/haekkatraining",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "haekka.com",
-      "website_order": 927,
+      "website_order": 932,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2368,9 +2368,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/ironcorelabs",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ironcorelabs.com",
-      "website_order": 955,
+      "website_order": 961,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2431,9 +2431,9 @@
       ],
       "state_province": "Pennsylvania",
       "twitter_url": "twitter.com/kidasnet",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getkidas.com",
-      "website_order": 963,
+      "website_order": 969,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2508,9 +2508,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/TransmuteNews",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "transmute.industries",
-      "website_order": 996,
+      "website_order": 1001,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2570,9 +2570,9 @@
         "boulder"
       ],
       "state_province": "Colorado",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "dapplesecurity.com",
-      "website_order": 1012,
+      "website_order": 1017,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2630,9 +2630,9 @@
         "Eastern Pacific Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/CyberOwl",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cyberowl.io",
-      "website_order": 1084,
+      "website_order": 1088,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2688,9 +2688,9 @@
       "program_names": [
         "Stockholm Techstars Accelerator"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ankra.io",
-      "website_order": 1131,
+      "website_order": 1135,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2754,9 +2754,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/greathorn",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "greathorn.com",
-      "website_order": 1132,
+      "website_order": 1136,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2813,9 +2813,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/Trill_bit",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trillbit.com",
-      "website_order": 1163,
+      "website_order": 1166,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2874,9 +2874,9 @@
       ],
       "state_province": "Delaware",
       "twitter_url": "twitter.com/opsbeacon",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ob2.ai",
-      "website_order": 1207,
+      "website_order": 1210,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2938,9 +2938,9 @@
         "space"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pramatra.space",
-      "website_order": 1222,
+      "website_order": 1226,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2999,9 +2999,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/Alpin__io",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "alpin.io",
-      "website_order": 1253,
+      "website_order": 1257,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3067,9 +3067,9 @@
         "space"
       ],
       "state_province": "Nouvelle-Aquitaine",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "parsimoni.co",
-      "website_order": 1302,
+      "website_order": 1308,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3131,9 +3131,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/threatcare",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "threatcare.com",
-      "website_order": 1313,
+      "website_order": 1319,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3197,9 +3197,9 @@
         "london"
       ],
       "state_province": "Catalonia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "systellar-space.com",
-      "website_order": 1340,
+      "website_order": 1346,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -3260,9 +3260,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/notchtechnology",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "notchtechnologies.com",
-      "website_order": 1370,
+      "website_order": 1376,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3326,9 +3326,9 @@
         "boston"
       ],
       "state_province": "Utah",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "healthkeri.com",
-      "website_order": 1422,
+      "website_order": 1427,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3394,9 +3394,9 @@
       ],
       "state_province": "Mazovia",
       "twitter_url": "twitter.com/TRUSTBYTES_X",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trustbytes.io",
-      "website_order": 1429,
+      "website_order": 1434,
       "worldregion": "Europe",
       "worldsubregion": "Eastern Europe"
     }
@@ -3461,9 +3461,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/NeraSystems",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nera.systems",
-      "website_order": 1429,
+      "website_order": 1434,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3531,9 +3531,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Nevada",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "fibrx.io",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3587,9 +3587,9 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/Cyber_DriveWare",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cyberdriveware.com",
-      "website_order": 1469,
+      "website_order": 1474,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3653,9 +3653,9 @@
         "nyc"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "qluulab.com",
-      "website_order": 1478,
+      "website_order": 1483,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3721,9 +3721,9 @@
         "san-diego-state-university-accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getklira.com",
-      "website_order": 1485,
+      "website_order": 1490,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3783,9 +3783,9 @@
         "anywhere"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "secureai.us",
-      "website_order": 1556,
+      "website_order": 1560,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3842,9 +3842,9 @@
         "anywhere"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bestdefense.io",
-      "website_order": 1556,
+      "website_order": 1560,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3903,9 +3903,9 @@
       "program_slugs": [
         "seattle"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cloudfence.com",
-      "website_order": 1656,
+      "website_order": 1660,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3965,9 +3965,9 @@
       ],
       "state_province": "Delaware",
       "twitter_url": "twitter.com/getastra",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getastra.com",
-      "website_order": 1723,
+      "website_order": 1727,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4018,9 +4018,9 @@
       "program_names": [
         "Techstars San Francisco"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "neuraldefend.com",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Asia",
       "worldsubregion": "Southern Asia"
     }
@@ -4083,9 +4083,9 @@
       ],
       "state_province": "Virginia",
       "twitter_url": "twitter.com/Phalanx_HQ",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "phalanx.io",
-      "website_order": 1774,
+      "website_order": 1778,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4147,9 +4147,9 @@
       ],
       "state_province": "Georgia",
       "twitter_url": "twitter.com/fraudmarc",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "fraudmarc.com",
-      "website_order": 1801,
+      "website_order": 1805,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4216,9 +4216,9 @@
         "equitech"
       ],
       "state_province": "Maryland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cydeploy.com",
-      "website_order": 1917,
+      "website_order": 1922,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4274,9 +4274,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/fortifyedge",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "fortifyedge.com",
-      "website_order": 1974,
+      "website_order": 1979,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4335,9 +4335,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/avocadosystems",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "avocadosys.com",
-      "website_order": 1974,
+      "website_order": 1979,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4392,9 +4392,9 @@
       ],
       "state_province": "Missouri",
       "twitter_url": "twitter.com/noviquapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "noviqu.com",
-      "website_order": 2066,
+      "website_order": 2070,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4460,9 +4460,9 @@
         "filecoin"
       ],
       "twitter_url": "twitter.com/SharpShark256",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sharpshark.io",
-      "website_order": 2067,
+      "website_order": 2071,
       "worldregion": "Americas",
       "worldsubregion": "South America"
     }
@@ -4522,9 +4522,9 @@
         "anywhere"
       ],
       "state_province": "Arizona",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "rezliant.com",
-      "website_order": 2067,
+      "website_order": 2071,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4597,9 +4597,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/pi42449346",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "haiphenai.com",
-      "website_order": 2067,
+      "website_order": 2071,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4659,9 +4659,9 @@
         "anywhere"
       ],
       "state_province": "England",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "astronome.ai",
-      "website_order": 2067,
+      "website_order": 2071,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -4713,9 +4713,9 @@
       "program_names": [
         "Stockholm Techstars Accelerator"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "53n53.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -4783,9 +4783,9 @@
         "industries-of-the-future"
       ],
       "state_province": "New Hampshire",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "perleybrook.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4851,9 +4851,9 @@
       ],
       "state_province": "Georgia",
       "twitter_url": "twitter.com/InfiltronApp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "infiltron.net",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4913,9 +4913,9 @@
         "boston"
       ],
       "twitter_url": "twitter.com/guardaraltd",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "guardara.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -4971,9 +4971,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/saltycloudhq",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "saltycloud.com",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5039,7 +5039,7 @@
       "program_slugs": [
         "london-polygon"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getraml.com",
       "website_order": 2637,
       "worldregion": "Europe",
@@ -5109,9 +5109,9 @@
       ],
       "state_province": "District of Columbia",
       "twitter_url": "twitter.com/brightlin_es",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "brightlin.es",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5172,9 +5172,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Indiana",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "myvalio.com",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5235,72 +5235,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sloop.ai",
-      "website_order": 2950,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "HeyOpal",
-    "description": "We connect the dots in mental healthcare by unifying its landscape around the client. We give clients agency to inform their treatment, and support clinicians to deliver high-quality, scalable care by making communication more effective. We help progress continue between sessions using clinician-driven conversational AI interventions to promote higher engagement, retention, and ultimately better, faster treatment outcomes.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4fdb011b5a683247ca3f99090.png",
-    "website": "https://heyopal.com",
-    "location": "Pinellas Park, Florida, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Cybersecurity",
-      "Healthtech"
-    ],
-    "year": 2025,
-    "program": "Techstars AI Health Baltimore",
-    "programSlugs": [
-      "baltimore-ai-health"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/heyopal",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "brief_description": "We connect the dots in mental healthcare by unifying its landscape around the client. We give clients agency to inform their treatment, and support clinicians to deliver high-quality, scalable care by making communication more effective. We help progress continue between sessions using clinician-driven conversational AI interventions to promote higher engagement, retention, and ultimately better, faster treatment outcomes.",
-      "city": "Pinellas Park",
-      "company_id": "258ae8fa-5ba6-4db1-aec3-2145ad9d5306",
-      "company_name": "HeyOpal",
-      "country": "United States",
-      "first_session_year": 2025,
-      "first_session_year_s": "2025",
-      "id": "258ae8fa-5ba6-4db1-aec3-2145ad9d5306",
-      "industry_vertical": [
-        "Artificial intelligence and machine learning",
-        "Cybersecurity",
-        "Healthtech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": true,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/heyopal",
-      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_4fdb011b5a683247ca3f99090.png",
-      "program_names": [
-        "Techstars AI Health Baltimore"
-      ],
-      "program_slugs": [
-        "baltimore-ai-health"
-      ],
-      "state_province": "Florida",
-      "updated_at": 1782813621,
-      "website": "heyopal.com",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5368,9 +5305,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/genobank_io",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "genobank.io",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5431,9 +5368,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Pennsylvania",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "galenhealth.org",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5494,9 +5431,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Ontario",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "composehealth.ai",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5560,9 +5497,9 @@
       ],
       "state_province": "Pennsylvania",
       "twitter_url": "twitter.com/BehaiviorAI",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "behaivior.com",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5623,9 +5560,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Alberta",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "aidrx.app",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5691,9 +5628,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/accountable_hq",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "accountablehq.com",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5754,9 +5691,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/GeneralFolders",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "generalfolders.com",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5814,9 +5751,9 @@
       ],
       "state_province": "Victoria",
       "twitter_url": "twitter.com/NIMISCyber",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nimis.ai",
-      "website_order": 3152,
+      "website_order": 3150,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -5874,9 +5811,72 @@
         "chicago"
       ],
       "state_province": "Michigan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hiddenlogin.com",
-      "website_order": 3283,
+      "website_order": 3280,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "HeyOpal",
+    "description": "We connect the dots in mental healthcare by unifying its landscape around the client. We give clients agency to inform their treatment, and support clinicians to deliver high-quality, scalable care by making communication more effective. We help progress continue between sessions using clinician-driven conversational AI interventions to promote higher engagement, retention, and ultimately better, faster treatment outcomes.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4fdb011b5a683247ca3f99090.png",
+    "website": "https://heyopal.com",
+    "location": "Pinellas Park, Florida, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cybersecurity",
+      "Healthtech"
+    ],
+    "year": 2025,
+    "program": "Techstars AI Health Baltimore",
+    "programSlugs": [
+      "baltimore-ai-health"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/heyopal",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "brief_description": "We connect the dots in mental healthcare by unifying its landscape around the client. We give clients agency to inform their treatment, and support clinicians to deliver high-quality, scalable care by making communication more effective. We help progress continue between sessions using clinician-driven conversational AI interventions to promote higher engagement, retention, and ultimately better, faster treatment outcomes.",
+      "city": "Pinellas Park",
+      "company_id": "258ae8fa-5ba6-4db1-aec3-2145ad9d5306",
+      "company_name": "HeyOpal",
+      "country": "United States",
+      "first_session_year": 2025,
+      "first_session_year_s": "2025",
+      "id": "258ae8fa-5ba6-4db1-aec3-2145ad9d5306",
+      "industry_vertical": [
+        "Artificial intelligence and machine learning",
+        "Cybersecurity",
+        "Healthtech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": true,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/heyopal",
+      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_4fdb011b5a683247ca3f99090.png",
+      "program_names": [
+        "Techstars AI Health Baltimore"
+      ],
+      "program_slugs": [
+        "baltimore-ai-health"
+      ],
+      "state_province": "Florida",
+      "updated_at": 1782900627,
+      "website": "heyopal.com",
+      "website_order": 3280,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5936,9 +5936,9 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/ezsecorg",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ezsec.org",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5996,9 +5996,9 @@
         "chicago-jp-morgan"
       ],
       "state_province": "Washington",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "safehill.com",
-      "website_order": 3486,
+      "website_order": 3484,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6063,9 +6063,9 @@
         "la-jp-morgan"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "blindinsight.com",
-      "website_order": 3486,
+      "website_order": 3484,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6129,9 +6129,9 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/engaizit",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "engaiz.com",
-      "website_order": 3589,
+      "website_order": 3587,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6192,9 +6192,9 @@
         "crypto-boston-algorand"
       ],
       "state_province": "Karnataka",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "armur.ai",
-      "website_order": 3589,
+      "website_order": 3587,
       "worldregion": "Asia",
       "worldsubregion": "Southern Asia"
     }
@@ -6256,9 +6256,9 @@
         "tulsa"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "magier.ai",
-      "website_order": 3628,
+      "website_order": 3626,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6321,9 +6321,9 @@
         "london"
       ],
       "twitter_url": "twitter.com/TeskaLabs",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "teskalabs.com",
-      "website_order": 3662,
+      "website_order": 3660,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -6386,9 +6386,9 @@
         "chicago-jp-morgan"
       ],
       "state_province": "Illinois",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hackerverse.ai",
-      "website_order": 3761,
+      "website_order": 3756,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6447,9 +6447,9 @@
       ],
       "state_province": "British Columbia",
       "twitter_url": "twitter.com/educhainio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "educhain.io",
-      "website_order": 3872,
+      "website_order": 3866,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6514,8 +6514,8 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/sympatic_data",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6570,8 +6570,8 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/stopshoplifting",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6629,8 +6629,8 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/SliceUp_",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6683,8 +6683,8 @@
         "Techstars Hub71 Accelerator"
       ],
       "twitter_url": "twitter.com/SiaSecure",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -6745,8 +6745,8 @@
       ],
       "state_province": "South Dakota",
       "twitter_url": "twitter.com/securemarking",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6808,8 +6808,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/NetCloakInc",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6894,8 +6894,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/MerkleB0t",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6949,8 +6949,8 @@
         "Techstars Cloud"
       ],
       "twitter_url": "twitter.com/jumblesecurity",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -7007,8 +7007,8 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/HelmGlobal",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7068,8 +7068,8 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/havocshield",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7130,8 +7130,8 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/GroveLabs",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7194,8 +7194,8 @@
       ],
       "state_province": "New Jersey",
       "twitter_url": "twitter.com/ForceField_io",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7253,8 +7253,8 @@
         "Techstars Detroit Accelerator"
       ],
       "twitter_url": "twitter.com/cycuro",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7314,8 +7314,8 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/Crowdsenseai",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7376,8 +7376,8 @@
         "boulder"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7439,8 +7439,8 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/bleachcybersec",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7496,8 +7496,8 @@
         "Techstars Paris Accelerator"
       ],
       "twitter_url": "twitter.com/",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Asia",
       "worldsubregion": "Western Asia"
     }
@@ -7557,8 +7557,8 @@
         "London Barclays Accelerator, powered by Techstars"
       ],
       "twitter_url": "twitter.com/barac_io",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -7619,8 +7619,8 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/atcipher",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7682,8 +7682,8 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/app_inside",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }

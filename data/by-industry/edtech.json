@@ -49,7 +49,7 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/degreed",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "degreed.com",
       "website_order": 14,
       "worldregion": "Americas",
@@ -111,7 +111,7 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/preplycom",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "preply.com",
       "website_order": 18,
       "worldregion": "Americas",
@@ -168,7 +168,7 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/Newsela",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "newsela.com",
       "website_order": 22,
       "worldregion": "Americas",
@@ -230,9 +230,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/DataCamp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "datacamp.com",
-      "website_order": 56,
+      "website_order": 55,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -299,9 +299,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/littleBits",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sphero.com",
-      "website_order": 64,
+      "website_order": 63,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -367,7 +367,7 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/shearwaterintl",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mentorcollective.org",
       "website_order": 140,
       "worldregion": "Americas",
@@ -428,7 +428,7 @@
       ],
       "state_province": "North Carolina",
       "twitter_url": "twitter.com/LearnPlatformUS",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "learnplatform.com",
       "website_order": 159,
       "worldregion": "Americas",
@@ -488,7 +488,7 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/BranchingMinds",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "branchingminds.com",
       "website_order": 215,
       "worldregion": "Americas",
@@ -550,7 +550,7 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/skilljar",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "skilljar.com",
       "website_order": 238,
       "worldregion": "Americas",
@@ -611,7 +611,7 @@
         "boston"
       ],
       "twitter_url": "twitter.com/memrise",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "memrise.com",
       "website_order": 245,
       "worldregion": "Europe",
@@ -679,9 +679,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/admithub",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "admithub.com",
-      "website_order": 259,
+      "website_order": 260,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -742,9 +742,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/WearKinetic",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wearkinetic.com",
-      "website_order": 267,
+      "website_order": 268,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -806,7 +806,7 @@
         "london"
       ],
       "twitter_url": "twitter.com/lingvist",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "lingvist.com",
       "website_order": 345,
       "worldregion": "Europe",
@@ -869,7 +869,7 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/careacademyco",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "careacademy.com",
       "website_order": 351,
       "worldregion": "Americas",
@@ -931,9 +931,9 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/educativeinc",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "educative.io",
-      "website_order": 371,
+      "website_order": 372,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -990,9 +990,9 @@
       "program_slugs": [
         "transformative-world-torino"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "thepack.tech",
-      "website_order": 375,
+      "website_order": 376,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -1049,9 +1049,9 @@
       ],
       "state_province": "North Carolina",
       "twitter_url": "twitter.com/zogofinance",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "zogofinance.com",
-      "website_order": 377,
+      "website_order": 378,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1110,9 +1110,9 @@
       ],
       "state_province": "British Columbia",
       "twitter_url": "twitter.com/Edvisorio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "edvisor.io",
-      "website_order": 438,
+      "website_order": 442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1173,9 +1173,9 @@
         "berlin"
       ],
       "twitter_url": "twitter.com/getmimo",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mimo.org",
-      "website_order": 560,
+      "website_order": 564,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1237,9 +1237,9 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/gobrite_io",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gobrite.io",
-      "website_order": 679,
+      "website_order": 681,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1299,9 +1299,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/codementorIO",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "codementor.io",
-      "website_order": 698,
+      "website_order": 700,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1362,9 +1362,9 @@
         "london"
       ],
       "twitter_url": "twitter.com/zzishcom",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "zzish.com",
-      "website_order": 750,
+      "website_order": 752,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1424,9 +1424,9 @@
       ],
       "state_province": "Florida",
       "twitter_url": "twitter.com/univstartups",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "university-startups.com",
-      "website_order": 753,
+      "website_order": 755,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1481,9 +1481,9 @@
       ],
       "state_province": "Michigan",
       "twitter_url": "twitter.com/lingcolabs",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "lingco.io",
-      "website_order": 787,
+      "website_order": 789,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1544,9 +1544,9 @@
         "riyadh"
       ],
       "twitter_url": "twitter.com/GagaApp_",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gaga-app.com",
-      "website_order": 812,
+      "website_order": 815,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1605,9 +1605,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/LOUassistant",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "louassist.com",
-      "website_order": 836,
+      "website_order": 839,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1668,9 +1668,9 @@
         "atlanta-cox"
       ],
       "state_province": "Utah",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "joinupkid.com",
-      "website_order": 856,
+      "website_order": 859,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1725,9 +1725,9 @@
         "Alexa Accelerator, Powered by Techstars"
       ],
       "state_province": "Ontario",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "yourika.ai",
-      "website_order": 876,
+      "website_order": 880,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1789,9 +1789,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/bluestudiosusa",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bluestudios.io",
-      "website_order": 894,
+      "website_order": 897,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1850,9 +1850,9 @@
         "transformative-world-torino"
       ],
       "state_province": "Como",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tutornow.it",
-      "website_order": 902,
+      "website_order": 907,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -1916,9 +1916,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/Aura_Financeapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "aurafinance.io",
-      "website_order": 958,
+      "website_order": 963,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1975,9 +1975,9 @@
       ],
       "state_province": "Kansas",
       "twitter_url": "twitter.com/getquickhire",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getquickhire.com",
-      "website_order": 986,
+      "website_order": 991,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2038,9 +2038,9 @@
         "berlin"
       ],
       "twitter_url": "twitter.com/thebeelinguapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "beelinguapp.com",
-      "website_order": 1011,
+      "website_order": 1016,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2108,9 +2108,9 @@
       ],
       "state_province": "South Carolina",
       "twitter_url": "twitter.com/dynepic",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "dynepic.com",
-      "website_order": 1019,
+      "website_order": 1024,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2170,64 +2170,8 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/penpalschools",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "penpalschools.com",
-      "website_order": 1026,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "PanOpen",
-    "description": "The platform that faculty and students use to engage with Open Educational Resources.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/59c55be39c66a94030000013/original/l8RzDqbW_400x400.png",
-    "website": "",
-    "location": "New York City, New York, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Edtech"
-    ],
-    "year": 2013,
-    "program": "Kaplan EdTech Accelerator, powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/panopen",
-      "twitter": "https://twitter.com/panopen",
-      "facebook": "https://facebook.com/panopenoer",
-      "crunchbase": "https://crunchbase.com/organization/panopen"
-    },
-    "extra": {
-      "brief_description": "The platform that faculty and students use to engage with Open Educational Resources.",
-      "city": "New York City",
-      "company_id": "62e8a2e2-09b1-4242-90d6-ef79887ca976",
-      "company_name": "PanOpen",
-      "country": "United States",
-      "crunchbase_url": "crunchbase.com/organization/panopen",
-      "facebook_url": "facebook.com/panopenoer",
-      "first_session_year": 2013,
-      "first_session_year_s": "2013",
-      "id": "62e8a2e2-09b1-4242-90d6-ef79887ca976",
-      "industry_vertical": [
-        "Edtech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/panopen",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/59c55be39c66a94030000013/original/l8RzDqbW_400x400.png",
-      "program_names": [
-        "Kaplan EdTech Accelerator, powered by Techstars"
-      ],
-      "state_province": "New York",
-      "twitter_url": "twitter.com/panopen",
-      "updated_at": 1782813621,
       "website_order": 1031,
       "worldregion": "Americas",
       "worldsubregion": "North America"
@@ -2293,9 +2237,9 @@
         "berlin"
       ],
       "twitter_url": "twitter.com/equoogame",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "psycapps.com",
-      "website_order": 1068,
+      "website_order": 1072,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2354,11 +2298,71 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/modernguild",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "modernguild.com",
-      "website_order": 1085,
+      "website_order": 1089,
       "worldregion": "Americas",
       "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "Intuitivo",
+    "description": "All-in-one digital assessment platform for schools.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_eaa62f11994db60cd95be8249.png",
+    "website": "https://en.intuitivo.pt",
+    "location": "Porto, Portugal",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "tags": [
+      "Edtech"
+    ],
+    "year": 2023,
+    "program": "Techstars Transformative World Torino",
+    "programSlugs": [
+      "transformative-world-torino"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/intuitivo-edu",
+      "twitter": "",
+      "facebook": "https://facebook.com/intuitivo.pt/",
+      "crunchbase": "https://crunchbase.com/organization/intuitivo"
+    },
+    "extra": {
+      "brief_description": "All-in-one digital assessment platform for schools.",
+      "city": "Porto",
+      "company_id": "8501dc38-d013-433d-abe8-cadca78933e2",
+      "company_name": "Intuitivo",
+      "country": "Portugal",
+      "crunchbase_url": "crunchbase.com/organization/intuitivo",
+      "facebook_url": "facebook.com/intuitivo.pt/",
+      "first_session_year": 2023,
+      "first_session_year_s": "2023",
+      "id": "8501dc38-d013-433d-abe8-cadca78933e2",
+      "industry_vertical": [
+        "Edtech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/intuitivo-edu",
+      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_eaa62f11994db60cd95be8249.png",
+      "program_names": [
+        "Techstars Transformative World Torino"
+      ],
+      "program_slugs": [
+        "transformative-world-torino"
+      ],
+      "updated_at": 1782900627,
+      "website": "en.intuitivo.pt",
+      "website_order": 1123,
+      "worldregion": "Europe",
+      "worldsubregion": "Southern Europe"
     }
   },
   {
@@ -2418,9 +2422,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/Testive",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "testive.com",
-      "website_order": 1143,
+      "website_order": 1146,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2480,9 +2484,9 @@
       ],
       "state_province": "Florida",
       "twitter_url": "twitter.com/ClutchPrep",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "clutchprep.com",
-      "website_order": 1143,
+      "website_order": 1146,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2544,9 +2548,9 @@
         "austin"
       ],
       "state_province": "Virginia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "yourcollegecontact.com",
-      "website_order": 1201,
+      "website_order": 1205,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2608,9 +2612,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/WithSunlight",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sunlight.is",
-      "website_order": 1248,
+      "website_order": 1252,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2674,9 +2678,9 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/weareviar",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "viar.si",
-      "website_order": 1252,
+      "website_order": 1256,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2731,9 +2735,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/appsembler",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "appsembler.com",
-      "website_order": 1278,
+      "website_order": 1283,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2789,9 +2793,9 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/goranku",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "goranku.com",
-      "website_order": 1310,
+      "website_order": 1316,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2851,9 +2855,9 @@
         "BSH Future Home Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/RockyAITalks",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "rocky.ai",
-      "website_order": 1372,
+      "website_order": 1378,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2917,9 +2921,9 @@
         "economic-mobility-samvid-ventures"
       ],
       "state_province": "Tennessee",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "unifiedtrack.ai",
-      "website_order": 1394,
+      "website_order": 1400,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2978,9 +2982,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/RobotLABInc",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "robotlab.com",
-      "website_order": 1474,
+      "website_order": 1479,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3042,9 +3046,9 @@
         "workforce-development"
       ],
       "state_province": "Maryland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "utiva.co",
-      "website_order": 1502,
+      "website_order": 1507,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3099,9 +3103,9 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/creationcrate",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mycreationcrate.com",
-      "website_order": 1578,
+      "website_order": 1582,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3161,9 +3165,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/hiveclass",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hiveclass.co",
-      "website_order": 1631,
+      "website_order": 1635,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3226,9 +3230,9 @@
       "program_slugs": [
         "riyadh"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sthrive.com",
-      "website_order": 1639,
+      "website_order": 1643,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3288,9 +3292,9 @@
         "nyc-jp-morgan"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "flybirdhouse.com",
-      "website_order": 1680,
+      "website_order": 1684,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3342,9 +3346,9 @@
         "Techstars San Francisco"
       ],
       "state_province": "Centre",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "brio.ink",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3412,9 +3416,9 @@
       "program_slugs": [
         "berlin"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "biomodai.com",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3472,9 +3476,9 @@
         "nyc-jp-morgan"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "findmodality.com",
-      "website_order": 1774,
+      "website_order": 1778,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3534,9 +3538,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/chambr_ai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "chambr.us",
-      "website_order": 1774,
+      "website_order": 1778,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3594,9 +3598,9 @@
       "program_slugs": [
         "berlin"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "labbox.education",
-      "website_order": 1806,
+      "website_order": 1810,
       "worldregion": "Europe",
       "worldsubregion": "Eastern Europe"
     }
@@ -3663,9 +3667,9 @@
         "anywhere"
       ],
       "state_province": "Colorado",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sholder.com",
-      "website_order": 1809,
+      "website_order": 1813,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3728,9 +3732,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/naria_ai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "naria.ai",
-      "website_order": 1809,
+      "website_order": 1813,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3790,9 +3794,9 @@
       ],
       "state_province": "British Columbia",
       "twitter_url": "twitter.com/aplicplatform",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "aplic.io",
-      "website_order": 1840,
+      "website_order": 1845,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3854,9 +3858,9 @@
       ],
       "state_province": "Delaware",
       "twitter_url": "twitter.com/niftylearningio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "niftylearning.io",
-      "website_order": 1844,
+      "website_order": 1849,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3916,9 +3920,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wryte.io",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3984,9 +3988,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/vsapiens_ai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "virtualsapiens.co",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4045,9 +4049,9 @@
       ],
       "state_province": "Delaware",
       "twitter_url": "twitter.com/figma",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "powertechs.us",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4107,9 +4111,9 @@
       ],
       "state_province": "North Carolina",
       "twitter_url": "twitter.com/skillpophq",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "skillpop.com",
-      "website_order": 1894,
+      "website_order": 1899,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4173,9 +4177,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/techrownyc",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "techrow.org",
-      "website_order": 1917,
+      "website_order": 1922,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4238,9 +4242,9 @@
       ],
       "state_province": "Oregon",
       "twitter_url": "twitter.com/SkylyteComms",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "skylyte.com",
-      "website_order": 1917,
+      "website_order": 1922,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4302,9 +4306,9 @@
         "workforce-development"
       ],
       "state_province": "Colorado",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "livedx.com",
-      "website_order": 1917,
+      "website_order": 1922,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4365,9 +4369,9 @@
       ],
       "state_province": "Maryland",
       "twitter_url": "twitter.com/EscalateUSA",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "escalateusa.com",
-      "website_order": 1917,
+      "website_order": 1922,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4428,9 +4432,9 @@
         "oakland-jp-morgan"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "teeread.com",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4491,9 +4495,9 @@
         "physical-health-fort-worth"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gomanda.org",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4550,9 +4554,9 @@
       "program_slugs": [
         "miami-jp-morgan"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sirius.education",
-      "website_order": 2032,
+      "website_order": 2036,
       "worldregion": "Americas",
       "worldsubregion": "South America"
     }
@@ -4611,9 +4615,9 @@
         "boulder"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "immigo.io",
-      "website_order": 2032,
+      "website_order": 2036,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4672,9 +4676,9 @@
         "miami-jp-morgan"
       ],
       "state_province": "Jalisco",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "playgabu.com",
-      "website_order": 2032,
+      "website_order": 2036,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4733,9 +4737,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/swye360",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "swye360.com",
-      "website_order": 2067,
+      "website_order": 2071,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4796,9 +4800,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/TasselSoftware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tasselsoftware.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4856,9 +4860,9 @@
         "Stockholm Techstars Accelerator"
       ],
       "twitter_url": "twitter.com/skillmapper",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "skillmapper.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -4925,9 +4929,9 @@
         "impact-cox"
       ],
       "state_province": "Georgia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "letmedoit.org",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4989,9 +4993,9 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/introwise",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "introwise.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5052,9 +5056,9 @@
         "workforce-development"
       ],
       "state_province": "Oregon",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "joinisa.io",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5114,9 +5118,9 @@
       ],
       "state_province": "Arizona",
       "twitter_url": "twitter.com/Grasshopper",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "grasshopperkids.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5174,9 +5178,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/freespeechlab",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "freespeechnow.ai",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5238,9 +5242,9 @@
         "impact-cox"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "empoweru-startup.github.io",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5302,9 +5306,9 @@
         "impact-cox"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "campuslush.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5363,9 +5367,9 @@
       ],
       "state_province": "Alabama",
       "twitter_url": "twitter.com/PrepIntel1",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "prepintel.io",
-      "website_order": 2241,
+      "website_order": 2244,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5425,9 +5429,9 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/zestisapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "zestapp.co",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5487,71 +5491,11 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/near_technology",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "feelnear.com",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Americas",
       "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "Intuitivo",
-    "description": "All-in-one digital assessment platform for schools.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_eaa62f11994db60cd95be8249.png",
-    "website": "https://en.intuitivo.pt",
-    "location": "Porto, Portugal",
-    "region": "Europe",
-    "subregion": "Southern Europe",
-    "tags": [
-      "Edtech"
-    ],
-    "year": 2023,
-    "program": "Techstars Transformative World Torino",
-    "programSlugs": [
-      "transformative-world-torino"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/intuitivo-edu",
-      "twitter": "",
-      "facebook": "https://facebook.com/intuitivo.pt/",
-      "crunchbase": "https://crunchbase.com/organization/intuitivo"
-    },
-    "extra": {
-      "brief_description": "All-in-one digital assessment platform for schools.",
-      "city": "Porto",
-      "company_id": "8501dc38-d013-433d-abe8-cadca78933e2",
-      "company_name": "Intuitivo",
-      "country": "Portugal",
-      "crunchbase_url": "crunchbase.com/organization/intuitivo",
-      "facebook_url": "facebook.com/intuitivo.pt/",
-      "first_session_year": 2023,
-      "first_session_year_s": "2023",
-      "id": "8501dc38-d013-433d-abe8-cadca78933e2",
-      "industry_vertical": [
-        "Edtech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/intuitivo-edu",
-      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_eaa62f11994db60cd95be8249.png",
-      "program_names": [
-        "Techstars Transformative World Torino"
-      ],
-      "program_slugs": [
-        "transformative-world-torino"
-      ],
-      "updated_at": 1782813621,
-      "website": "en.intuitivo.pt",
-      "website_order": 2249,
-      "worldregion": "Europe",
-      "worldsubregion": "Southern Europe"
     }
   },
   {
@@ -5609,9 +5553,9 @@
       ],
       "state_province": "North Dakota",
       "twitter_url": "twitter.com/enlightapp_co",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "enlightapp.co",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5670,9 +5614,9 @@
         "chicago"
       ],
       "twitter_url": "twitter.com/Brocali4",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "brocali.io",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -5737,9 +5681,9 @@
         "minnesota-twins"
       ],
       "twitter_url": "twitter.com/tchzant",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "biiah.com",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -5795,9 +5739,9 @@
       ],
       "state_province": "North Carolina",
       "twitter_url": "twitter.com/EXIQ_Notecast",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ex-iq.com",
-      "website_order": 2317,
+      "website_order": 2319,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5858,9 +5802,9 @@
         "london"
       ],
       "twitter_url": "twitter.com/Medtribe_",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "medtribe.com",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -5920,9 +5864,9 @@
         "economic-mobility-samvid-ventures"
       ],
       "twitter_url": "twitter.com/lattemkt",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "latteconnect.com",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5985,9 +5929,9 @@
         "economic-mobility-samvid-ventures"
       ],
       "state_province": "Ohio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "innerpeak.ai",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6046,9 +5990,9 @@
         "economic-mobility-samvid-ventures"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "inkwire.co",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6111,9 +6055,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "joingroopie.com",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -6178,9 +6122,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "capyble.com",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -6235,9 +6179,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/cahillresources",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cahilltech.com",
-      "website_order": 2392,
+      "website_order": 2394,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6300,9 +6244,9 @@
         "anywhere"
       ],
       "state_province": "Maryland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gogoodtimer.com",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6367,9 +6311,9 @@
       ],
       "state_province": "Michigan",
       "twitter_url": "twitter.com/KonnectedXCare",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "konnectedwithcare.us",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6435,7 +6379,7 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/quartolio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "quartolio.com",
       "website_order": 2634,
       "worldregion": "Americas",
@@ -6495,7 +6439,7 @@
       "program_slugs": [
         "transformative-world-torino"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "voovostudy.com",
       "website_order": 2637,
       "worldregion": "Europe",
@@ -6558,7 +6502,7 @@
         "boston"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "truleague.com",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -6619,7 +6563,7 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getpico.co",
       "website_order": 2637,
       "worldregion": "Oceania",
@@ -6686,7 +6630,7 @@
         "boston"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bloomforall.com",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -6752,9 +6696,9 @@
       ],
       "state_province": "Rhode Island",
       "twitter_url": "twitter.com/wing_spans",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wingspans.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6818,9 +6762,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/@WELFIEdotcom",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "welfie.ai",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6880,9 +6824,9 @@
         "economic-mobility-samvid-ventures"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "verolearning.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6944,9 +6888,9 @@
       ],
       "state_province": "Maryland",
       "twitter_url": "twitter.com/SparcTheWorld",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sparcopen.org",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7007,9 +6951,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sofiit.io",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7071,9 +7015,9 @@
       "program_slugs": [
         "dc-jp-morgan"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "slait.school",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -7133,9 +7077,9 @@
         "dc-jp-morgan"
       ],
       "state_province": "Pennsylvania",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "scaffolded.io",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7200,9 +7144,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/pelicaninvests",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pelicaninvests.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7265,9 +7209,9 @@
         "dc-jp-morgan"
       ],
       "state_province": "South Carolina",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "notey.co",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7326,9 +7270,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/LlamaMili",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "milillama.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7390,9 +7334,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/themarketgames",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "marketgames.io",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7452,9 +7396,9 @@
         "economic-mobility-samvid-ventures"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "making-space.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7519,9 +7463,9 @@
         "workforce-development"
       ],
       "state_province": "Washington",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "incskill.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7585,9 +7529,9 @@
         "workforce-development"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "flexspeak.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7652,9 +7596,9 @@
       ],
       "state_province": "Tennessee",
       "twitter_url": "twitter.com/fathom_pbc",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "fathompbc.org",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7715,9 +7659,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/Edifii314",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "edifii.me",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7778,9 +7722,9 @@
       ],
       "state_province": "Federal District",
       "twitter_url": "twitter.com/devflatam",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "devf.la",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7842,9 +7786,9 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/ailamoapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "deltagen.ai",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7910,9 +7854,9 @@
       ],
       "state_province": "Maryland",
       "twitter_url": "twitter.com/ClymbUp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "clymbup.io",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7975,9 +7919,9 @@
         "workforce-development"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "careergenie.app",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8041,9 +7985,9 @@
       ],
       "state_province": "Oklahoma",
       "twitter_url": "twitter.com/risingbillion",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "billionminds.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8105,9 +8049,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/beepboopus",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "beepboop.us",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8172,9 +8116,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/GoAKALA",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "goakala.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8245,9 +8189,9 @@
         "equitech"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "8lab.ai",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8304,9 +8248,9 @@
       "program_slugs": [
         "berlin"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "optimo.so",
-      "website_order": 2866,
+      "website_order": 2865,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -8362,9 +8306,9 @@
         "san-diego-state-university-accelerator"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "everlearncampus-student.com",
-      "website_order": 2866,
+      "website_order": 2865,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8429,9 +8373,9 @@
         "san-diego-state-university-accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ellyhealth.com",
-      "website_order": 2866,
+      "website_order": 2865,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8486,9 +8430,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/outofthebox_edu",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ootb.education",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8552,9 +8496,9 @@
       ],
       "state_province": "New Jersey",
       "twitter_url": "twitter.com/clevergirlcgf",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "clevergirlfinance.com",
-      "website_order": 3022,
+      "website_order": 3020,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8612,9 +8556,9 @@
       "program_slugs": [
         "miami-jp-morgan"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "topset.app",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -8676,9 +8620,9 @@
         "san-diego-state-university-accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "oblio.ai",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8733,9 +8677,9 @@
         "USC and Techstars University Catalyst"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nativespeaking.ai",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8794,9 +8738,9 @@
         "boulder"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ride-iq.com",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8861,9 +8805,9 @@
         "tulsa"
       ],
       "state_province": "Oklahoma",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "realityjourneys.com",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8923,9 +8867,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "besample.app",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8987,9 +8931,9 @@
       ],
       "state_province": "Delaware",
       "twitter_url": "twitter.com/filipc_sara",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "behumane.co",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9051,9 +8995,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/myxcredit",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "myxcredit.com",
-      "website_order": 3177,
+      "website_order": 3174,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9117,9 +9061,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/upskls",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "worksimplr.com",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9181,9 +9125,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/studiousnet",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "studious.net",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9248,9 +9192,9 @@
         "workforce-development"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pique.so",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9312,9 +9256,9 @@
       ],
       "state_province": "Delaware",
       "twitter_url": "twitter.com/getpeadbo",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "peadbo.com",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9380,9 +9324,9 @@
         "detroit-jp-morgan"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "learnhaus.ai",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9448,9 +9392,9 @@
       ],
       "state_province": "Missouri",
       "twitter_url": "twitter.com/healthy_hip_hop",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "healthy.hiphop",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9516,9 +9460,9 @@
       ],
       "state_province": "Pennsylvania",
       "twitter_url": "twitter.com/hardlytech",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hardly-work.com",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9585,9 +9529,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/enrich_ly",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "enrichly.world",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9646,9 +9590,9 @@
         "workforce-development"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "earnlearn.us",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9710,9 +9654,9 @@
       ],
       "state_province": "Georgia",
       "twitter_url": "twitter.com/bestfit_app",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "best-fit.app",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9776,9 +9720,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/grow_arbol",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "growarbol.com",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9844,9 +9788,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/UpfrontOnline",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "allupfront.com",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9906,9 +9850,9 @@
       ],
       "state_province": "Ohio",
       "twitter_url": "twitter.com/TinnCannCo",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tinncann.com",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9974,9 +9918,9 @@
       ],
       "state_province": "Arizona",
       "twitter_url": "twitter.com/playkeepwol",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "keepwol.com",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10034,9 +9978,9 @@
         "atlanta-cox"
       ],
       "state_province": "Illinois",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "herskillacademy.com",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10095,9 +10039,9 @@
         "chicago"
       ],
       "state_province": "Pennsylvania",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "joinequipt.com",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10158,9 +10102,9 @@
         "boston"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "beakid.com",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10222,9 +10166,9 @@
       ],
       "state_province": "Oklahoma",
       "twitter_url": "twitter.com/socialpreneurlb",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "socialpreneurlab.org",
-      "website_order": 3420,
+      "website_order": 3418,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10288,9 +10232,9 @@
         "atlanta-jp-morgan"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getshur.com",
-      "website_order": 3420,
+      "website_order": 3418,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10359,9 +10303,9 @@
         "atlanta-jp-morgan"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kiritoys.com",
-      "website_order": 3420,
+      "website_order": 3418,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10417,9 +10361,9 @@
         "Sprint Accelerator, powered by Techstars"
       ],
       "twitter_url": "twitter.com/weareleka",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "leka.io",
-      "website_order": 3481,
+      "website_order": 3479,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -10480,9 +10424,9 @@
         "chicago"
       ],
       "state_province": "Illinois",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "overture.games",
-      "website_order": 3486,
+      "website_order": 3484,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10544,9 +10488,9 @@
         "chicago-jp-morgan"
       ],
       "state_province": "Iowa",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mymeddefend.com",
-      "website_order": 3486,
+      "website_order": 3484,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10607,9 +10551,9 @@
         "chicago"
       ],
       "state_province": "Connecticut",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "immersioned.org",
-      "website_order": 3486,
+      "website_order": 3484,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10667,9 +10611,9 @@
         "chicago-jp-morgan"
       ],
       "state_province": "New Jersey",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "earlyinterventionsystems.com",
-      "website_order": 3486,
+      "website_order": 3484,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10734,9 +10678,9 @@
         "new-orleans-jp-morgan"
       ],
       "state_province": "Alaska",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "beautyvoyage.co",
-      "website_order": 3589,
+      "website_order": 3587,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10798,9 +10742,9 @@
         "tulsa"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nurovant.com",
-      "website_order": 3628,
+      "website_order": 3626,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10859,9 +10803,71 @@
         "tulsa"
       ],
       "state_province": "Georgia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hacklatino.com",
-      "website_order": 3628,
+      "website_order": 3626,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "Designlab",
+    "description": "We unlock creative potential and empower people to do the work they love.",
+    "logo": "https://apimg.techstars.com/profiles/1713795755880_710129.png",
+    "website": "https://designlab.com",
+    "location": "Seattle, Washington, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Edtech"
+    ],
+    "year": 2013,
+    "program": "Techstars Seattle Accelerator",
+    "programSlugs": [
+      "seattle"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/designlab-learning",
+      "twitter": "https://twitter.com/trydesignlab",
+      "facebook": "https://facebook.com/trydesignlab",
+      "crunchbase": "https://crunchbase.com/organization/designlab"
+    },
+    "extra": {
+      "brief_description": "We unlock creative potential and empower people to do the work they love.",
+      "city": "Seattle",
+      "company_id": "bedde802-f751-4d3e-9a4c-59bd5be023ea",
+      "company_name": "Designlab",
+      "country": "United States",
+      "crunchbase_url": "crunchbase.com/organization/designlab",
+      "facebook_url": "facebook.com/trydesignlab",
+      "first_session_year": 2013,
+      "first_session_year_s": "2013",
+      "id": "bedde802-f751-4d3e-9a4c-59bd5be023ea",
+      "industry_vertical": [
+        "Edtech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/designlab-learning",
+      "logo_url": "https://apimg.techstars.com/profiles/1713795755880_710129.png",
+      "program_names": [
+        "Techstars Seattle Accelerator"
+      ],
+      "program_slugs": [
+        "seattle"
+      ],
+      "state_province": "Washington",
+      "twitter_url": "twitter.com/trydesignlab",
+      "updated_at": 1782900627,
+      "website": "designlab.com",
+      "website_order": 3662,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10923,9 +10929,9 @@
         "miami-jp-morgan"
       ],
       "state_province": "Antioquia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "galileilearning.com",
-      "website_order": 3664,
+      "website_order": 3663,
       "worldregion": "Americas",
       "worldsubregion": "South America"
     }
@@ -10993,9 +10999,9 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/stagekeep",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "stagekeep.com",
-      "website_order": 3703,
+      "website_order": 3702,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11053,9 +11059,9 @@
         "toronto"
       ],
       "twitter_url": "twitter.com/tryklas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tryklas.com",
-      "website_order": 3703,
+      "website_order": 3702,
       "worldregion": "Africa",
       "worldsubregion": "Western Africa"
     }
@@ -11116,9 +11122,9 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/ezcheckme",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ezcheck.me",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -11180,132 +11186,9 @@
       ],
       "state_province": "Delaware",
       "twitter_url": "twitter.com/al_gooru",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "algooru.com",
-      "website_order": 3723,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "Adaptively Education",
-    "description": "Adaptively Education seamlessly delivers live virtual teacher-led classroom experiences to help students reach their academic goals.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/6217da95209581000880df23/original/Adaptively_icon_only_small.png",
-    "website": "",
-    "location": "Bellevue, Washington, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Edtech"
-    ],
-    "year": 2021,
-    "program": "Techstars Seattle Accelerator",
-    "programSlugs": [
-      "seattle"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/adaptively-education",
-      "twitter": "https://twitter.com/adaptivelyeducation",
-      "facebook": "https://facebook.com/adaptivelyeducation",
-      "crunchbase": "https://crunchbase.com/organization/adaptively-education"
-    },
-    "extra": {
-      "brief_description": "Adaptively Education seamlessly delivers live virtual teacher-led classroom experiences to help students reach their academic goals.",
-      "city": "Bellevue",
-      "company_id": "c5774b44-afd6-3647-a2bc-7044e09b0166",
-      "company_name": "Adaptively Education",
-      "country": "United States",
-      "crunchbase_url": "crunchbase.com/organization/adaptively-education",
-      "facebook_url": "facebook.com/adaptivelyeducation",
-      "first_session_year": 2021,
-      "first_session_year_s": "2021",
-      "id": "c5774b44-afd6-3647-a2bc-7044e09b0166",
-      "industry_vertical": [
-        "Edtech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/adaptively-education",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/6217da95209581000880df23/original/Adaptively_icon_only_small.png",
-      "program_names": [
-        "Techstars Seattle Accelerator"
-      ],
-      "program_slugs": [
-        "seattle"
-      ],
-      "state_province": "Washington",
-      "twitter_url": "twitter.com/adaptivelyeducation",
-      "updated_at": 1782813621,
-      "website_order": 3723,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "Designlab",
-    "description": "We unlock creative potential and empower people to do the work they love.",
-    "logo": "https://apimg.techstars.com/profiles/1713795755880_710129.png",
-    "website": "https://designlab.com",
-    "location": "Seattle, Washington, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Edtech"
-    ],
-    "year": 2013,
-    "program": "Techstars Seattle Accelerator",
-    "programSlugs": [
-      "seattle"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/designlab-learning",
-      "twitter": "https://twitter.com/trydesignlab",
-      "facebook": "https://facebook.com/trydesignlab",
-      "crunchbase": "https://crunchbase.com/organization/designlab"
-    },
-    "extra": {
-      "brief_description": "We unlock creative potential and empower people to do the work they love.",
-      "city": "Seattle",
-      "company_id": "bedde802-f751-4d3e-9a4c-59bd5be023ea",
-      "company_name": "Designlab",
-      "country": "United States",
-      "crunchbase_url": "crunchbase.com/organization/designlab",
-      "facebook_url": "facebook.com/trydesignlab",
-      "first_session_year": 2013,
-      "first_session_year_s": "2013",
-      "id": "bedde802-f751-4d3e-9a4c-59bd5be023ea",
-      "industry_vertical": [
-        "Edtech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/designlab-learning",
-      "logo_url": "https://apimg.techstars.com/profiles/1713795755880_710129.png",
-      "program_names": [
-        "Techstars Seattle Accelerator"
-      ],
-      "program_slugs": [
-        "seattle"
-      ],
-      "state_province": "Washington",
-      "twitter_url": "twitter.com/trydesignlab",
-      "updated_at": 1782813621,
-      "website": "designlab.com",
-      "website_order": 3757,
+      "website_order": 3722,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11372,9 +11255,9 @@
       ],
       "state_province": "Dublin",
       "twitter_url": "twitter.com/ltdDruid",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "druidlearning.com",
-      "website_order": 3761,
+      "website_order": 3756,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -11433,9 +11316,9 @@
       ],
       "state_province": "Pennsylvania",
       "twitter_url": "twitter.com/playpower",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "playpowerlabs.com",
-      "website_order": 3779,
+      "website_order": 3773,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11496,9 +11379,9 @@
         "tulsa"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "plurawl.com",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11555,9 +11438,9 @@
         "tulsa"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "altior.academy",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11616,9 +11499,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/Uvize",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "uvize.com",
-      "website_order": 3843,
+      "website_order": 3837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11684,9 +11567,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/Learn",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "lore.com",
-      "website_order": 3851,
+      "website_order": 3845,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11745,9 +11628,9 @@
       ],
       "state_province": "British Columbia",
       "twitter_url": "twitter.com/educhainio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "educhain.io",
-      "website_order": 3872,
+      "website_order": 3866,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11802,9 +11685,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/Story2",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "story2.com",
-      "website_order": 3956,
+      "website_order": 3950,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11867,9 +11750,9 @@
         "tel-aviv"
       ],
       "state_province": "North Holland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "anywyse.audio",
-      "website_order": 3962,
+      "website_order": 3956,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -11926,9 +11809,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/trueability",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trueability.com",
-      "website_order": 3972,
+      "website_order": 3966,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11988,8 +11871,8 @@
       "program_slugs": [
         "detroit-jp-morgan"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -12051,8 +11934,8 @@
         "anywhere"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12104,8 +11987,8 @@
         "Techstars San Francisco"
       ],
       "state_province": "England",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -12164,8 +12047,8 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/tutorialtab",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12228,8 +12111,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/truanttoday",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12293,8 +12176,8 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/treasure_fi",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12354,8 +12237,8 @@
       ],
       "state_province": "Georgia",
       "twitter_url": "twitter.com/TaraEdTech1",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12414,8 +12297,8 @@
         "workforce-development"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12474,8 +12357,8 @@
         "berlin"
       ],
       "twitter_url": "twitter.com/subhelearning",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Asia",
       "worldsubregion": "Southern Asia"
     }
@@ -12535,8 +12418,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/StudyFreeWorld",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12596,8 +12479,8 @@
       ],
       "state_province": "Federal District",
       "twitter_url": "twitter.com/somos",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12658,8 +12541,8 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/Its_Skilbi",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12719,8 +12602,8 @@
       ],
       "state_province": "Delaware",
       "twitter_url": "twitter.com/LearningGyms",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12783,8 +12666,8 @@
       ],
       "state_province": "Florida",
       "twitter_url": "twitter.com/seed_europe",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12847,8 +12730,8 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/redroverhq",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12910,8 +12793,8 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/RecInnovation",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12970,8 +12853,8 @@
       ],
       "state_province": "New Hampshire",
       "twitter_url": "twitter.com/WeAreReable",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13031,8 +12914,64 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/poppdco",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "PanOpen",
+    "description": "The platform that faculty and students use to engage with Open Educational Resources.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/59c55be39c66a94030000013/original/l8RzDqbW_400x400.png",
+    "website": "",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Edtech"
+    ],
+    "year": 2013,
+    "program": "Kaplan EdTech Accelerator, powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/panopen",
+      "twitter": "https://twitter.com/panopen",
+      "facebook": "https://facebook.com/panopenoer",
+      "crunchbase": "https://crunchbase.com/organization/panopen"
+    },
+    "extra": {
+      "brief_description": "The platform that faculty and students use to engage with Open Educational Resources.",
+      "city": "New York City",
+      "company_id": "62e8a2e2-09b1-4242-90d6-ef79887ca976",
+      "company_name": "PanOpen",
+      "country": "United States",
+      "crunchbase_url": "crunchbase.com/organization/panopen",
+      "facebook_url": "facebook.com/panopenoer",
+      "first_session_year": 2013,
+      "first_session_year_s": "2013",
+      "id": "62e8a2e2-09b1-4242-90d6-ef79887ca976",
+      "industry_vertical": [
+        "Edtech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/panopen",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/59c55be39c66a94030000013/original/l8RzDqbW_400x400.png",
+      "program_names": [
+        "Kaplan EdTech Accelerator, powered by Techstars"
+      ],
+      "state_province": "New York",
+      "twitter_url": "twitter.com/panopen",
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13093,8 +13032,8 @@
         "london"
       ],
       "twitter_url": "twitter.com/osper",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -13152,8 +13091,8 @@
         "MetLife Digital Accelerator powered by Techstars"
       ],
       "twitter_url": "twitter.com/mellowsousvide",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Asia",
       "worldsubregion": "Eastern Asia"
     }
@@ -13215,8 +13154,8 @@
       ],
       "state_province": "Georgia",
       "twitter_url": "twitter.com/medsembly",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13275,8 +13214,8 @@
         "london"
       ],
       "twitter_url": "twitter.com/matuttodotcom",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -13340,8 +13279,8 @@
       ],
       "state_province": "North Carolina",
       "twitter_url": "twitter.com/maptapp",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13398,8 +13337,8 @@
       ],
       "state_province": "Karnataka",
       "twitter_url": "twitter.com/lancifyofficial",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Asia",
       "worldsubregion": "Southern Asia"
     }
@@ -13461,8 +13400,8 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/jewelbots",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13522,8 +13461,8 @@
       ],
       "state_province": "Delaware",
       "twitter_url": "twitter.com/AeInsights",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13584,8 +13523,8 @@
         "berlin"
       ],
       "twitter_url": "twitter.com/highre_co",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -13644,8 +13583,8 @@
         "nyc-jp-morgan"
       ],
       "twitter_url": "twitter.com/joinhighbrow",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -13709,8 +13648,8 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/Gritly_HQ",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13784,8 +13723,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/nabulife",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13844,8 +13783,8 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/floopedu",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13904,8 +13843,8 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/ver_prep",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13970,8 +13909,8 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/empiricalab",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -14031,8 +13970,8 @@
       ],
       "state_province": "Michigan",
       "twitter_url": "twitter.com/embark_live",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -14093,8 +14032,8 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/DodoSmart_",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -14153,8 +14092,8 @@
         "miami-jp-morgan"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -14214,8 +14153,8 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/cottageclass",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -14275,8 +14214,8 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/beanstalk_co",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -14334,8 +14273,8 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/beaglelearning",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -14397,8 +14336,69 @@
       "program_slugs": [
         "boulder"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "Adaptively Education",
+    "description": "Adaptively Education seamlessly delivers live virtual teacher-led classroom experiences to help students reach their academic goals.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/6217da95209581000880df23/original/Adaptively_icon_only_small.png",
+    "website": "",
+    "location": "Bellevue, Washington, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Edtech"
+    ],
+    "year": 2021,
+    "program": "Techstars Seattle Accelerator",
+    "programSlugs": [
+      "seattle"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/adaptively-education",
+      "twitter": "https://twitter.com/adaptivelyeducation",
+      "facebook": "https://facebook.com/adaptivelyeducation",
+      "crunchbase": "https://crunchbase.com/organization/adaptively-education"
+    },
+    "extra": {
+      "brief_description": "Adaptively Education seamlessly delivers live virtual teacher-led classroom experiences to help students reach their academic goals.",
+      "city": "Bellevue",
+      "company_id": "c5774b44-afd6-3647-a2bc-7044e09b0166",
+      "company_name": "Adaptively Education",
+      "country": "United States",
+      "crunchbase_url": "crunchbase.com/organization/adaptively-education",
+      "facebook_url": "facebook.com/adaptivelyeducation",
+      "first_session_year": 2021,
+      "first_session_year_s": "2021",
+      "id": "c5774b44-afd6-3647-a2bc-7044e09b0166",
+      "industry_vertical": [
+        "Edtech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/adaptively-education",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/6217da95209581000880df23/original/Adaptively_icon_only_small.png",
+      "program_names": [
+        "Techstars Seattle Accelerator"
+      ],
+      "program_slugs": [
+        "seattle"
+      ],
+      "state_province": "Washington",
+      "twitter_url": "twitter.com/adaptivelyeducation",
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -14451,9 +14451,9 @@
       "program_slugs": [
         "riyadh"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "weflawless.co",
-      "website_order": 5093,
+      "website_order": 5094,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -14513,9 +14513,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/turingschool",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "turing.edu",
-      "website_order": 5093,
+      "website_order": 5094,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -14577,9 +14577,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/aieduorg",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "aiedu.org",
-      "website_order": 5093,
+      "website_order": 5094,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -14632,9 +14632,9 @@
       "program_slugs": [
         "riyadh"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "almakhfi.com",
-      "website_order": 5093,
+      "website_order": 5094,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -14693,9 +14693,9 @@
         "workforce-development"
       ],
       "state_province": "Colorado",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "myadvanceedu.org",
-      "website_order": 5093,
+      "website_order": 5094,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }

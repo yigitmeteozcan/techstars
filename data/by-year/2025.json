@@ -1,5 +1,72 @@
 [
   {
+    "name": "Allswell",
+    "description": "Allswell is reimagining mental health care with AI-enabled, group-based therapy built for the LGBTQ+ community.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d764eec6c6e6e80b780add749.png",
+    "website": "https://joinallswell.com",
+    "location": "San Francisco, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Digital health",
+      "Femtech",
+      "Healthtech"
+    ],
+    "year": 2025,
+    "program": "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States",
+    "programSlugs": [
+      "permanente-medicine"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/105197856",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/joinallswell"
+    },
+    "extra": {
+      "brief_description": "Allswell is reimagining mental health care with AI-enabled, group-based therapy built for the LGBTQ+ community.",
+      "city": "San Francisco",
+      "company_id": "987bc224-2c7d-4336-a054-df90d0a2a584",
+      "company_name": "Allswell",
+      "country": "United States",
+      "crunchbase_url": "crunchbase.com/organization/joinallswell",
+      "first_session_year": 2025,
+      "first_session_year_s": "2025",
+      "id": "987bc224-2c7d-4336-a054-df90d0a2a584",
+      "industry_vertical": [
+        "Digital health",
+        "Femtech",
+        "Healthtech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "latest_class_for": [
+        "permanente-medicine"
+      ],
+      "linkedin_url": "linkedin.com/company/105197856",
+      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_d764eec6c6e6e80b780add749.png",
+      "program_names": [
+        "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States"
+      ],
+      "program_slugs": [
+        "permanente-medicine"
+      ],
+      "state_province": "California",
+      "updated_at": 1782900627,
+      "website": "joinallswell.com",
+      "website_order": 488,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
     "name": "Petra Power",
     "description": "Petra Power is a manufacturing company that focuses on Solid Oxide Fuel Cells (SOFC) for APU systems.",
     "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/x6nkacbq6eylx64qt00i",
@@ -63,9 +130,9 @@
       ],
       "state_province": "Ohio",
       "twitter_url": "twitter.com/PetraPower1",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "petrapower.com",
-      "website_order": 671,
+      "website_order": 673,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -125,9 +192,9 @@
         "anywhere"
       ],
       "state_province": "Virginia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bitedata.io",
-      "website_order": 817,
+      "website_order": 820,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -184,9 +251,72 @@
         "nyc"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kaavio.ai",
-      "website_order": 843,
+      "website_order": 846,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "Evrim",
+    "description": "Provides automated, multi-modal web data collection infrastructure for government and commercial intelligence analysts.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6acd21c5f147e0eb4dc81ce92.jpeg",
+    "website": "https://evrim.ai",
+    "location": "Norfolk, Virginia, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Big Data",
+      "SaaS"
+    ],
+    "year": 2025,
+    "program": "Techstars New York City Accelerator",
+    "programSlugs": [
+      "nyc"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/evrimai",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "brief_description": "Provides automated, multi-modal web data collection infrastructure for government and commercial intelligence analysts.",
+      "city": "Norfolk",
+      "company_id": "69047c1b-8680-423f-8865-7198dcae38f1",
+      "company_name": "Evrim",
+      "country": "United States",
+      "first_session_year": 2025,
+      "first_session_year_s": "2025",
+      "id": "69047c1b-8680-423f-8865-7198dcae38f1",
+      "industry_vertical": [
+        "Artificial intelligence and machine learning",
+        "Big Data",
+        "SaaS"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/evrimai",
+      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_6acd21c5f147e0eb4dc81ce92.jpeg",
+      "program_names": [
+        "Techstars New York City Accelerator"
+      ],
+      "program_slugs": [
+        "nyc"
+      ],
+      "state_province": "Virginia",
+      "updated_at": 1782900627,
+      "website": "evrim.ai",
+      "website_order": 900,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -246,9 +376,9 @@
       ],
       "state_province": "Alabama",
       "twitter_url": "twitter.com/auditocity",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "auditocity.com",
-      "website_order": 904,
+      "website_order": 909,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -310,9 +440,9 @@
       ],
       "state_province": "England",
       "twitter_url": "twitter.com/frnthq/",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "frnt.co",
-      "website_order": 1007,
+      "website_order": 1012,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -371,9 +501,9 @@
         "abn-amro-techstars-future-of-finance-accelerator"
       ],
       "state_province": "Bavaria",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "auxilius.ai",
-      "website_order": 1102,
+      "website_order": 1105,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -432,9 +562,9 @@
         "london"
       ],
       "state_province": "England",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "alethica.com",
-      "website_order": 1269,
+      "website_order": 1274,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -494,9 +624,9 @@
         "space"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cisgam.com",
-      "website_order": 1298,
+      "website_order": 1304,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -560,9 +690,9 @@
         "space"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "azora.space",
-      "website_order": 1298,
+      "website_order": 1304,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -626,9 +756,9 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/ANT61COM",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ant61.com",
-      "website_order": 1298,
+      "website_order": 1304,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -694,9 +824,9 @@
         "space"
       ],
       "state_province": "Nouvelle-Aquitaine",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "parsimoni.co",
-      "website_order": 1302,
+      "website_order": 1308,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -757,9 +887,9 @@
         "chicago"
       ],
       "state_province": "Nebraska",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "plexusaero.space",
-      "website_order": 1373,
+      "website_order": 1379,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -826,9 +956,9 @@
         "alabama-power"
       ],
       "state_province": "Arizona",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wattsupev.io",
-      "website_order": 1385,
+      "website_order": 1391,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -893,9 +1023,9 @@
         "alabama-power"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "promex.energy",
-      "website_order": 1385,
+      "website_order": 1391,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -956,9 +1086,9 @@
         "alabama-power"
       ],
       "state_province": "Illinois",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "powerboxtech.com",
-      "website_order": 1385,
+      "website_order": 1391,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1020,9 +1150,9 @@
         "alabama-power"
       ],
       "state_province": "Colorado",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "opendrawing.ai",
-      "website_order": 1385,
+      "website_order": 1391,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1085,9 +1215,9 @@
         "alabama-power"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "emissionfreegenerators.com",
-      "website_order": 1385,
+      "website_order": 1391,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1151,9 +1281,9 @@
         "economic-mobility-samvid-ventures"
       ],
       "state_province": "Tennessee",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "unifiedtrack.ai",
-      "website_order": 1394,
+      "website_order": 1400,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1221,9 +1351,9 @@
         "economic-mobility-samvid-ventures"
       ],
       "state_province": "Virginia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hirenimbus.com",
-      "website_order": 1394,
+      "website_order": 1400,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1290,9 +1420,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/monaventuresco",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "monaventures.co",
-      "website_order": 1394,
+      "website_order": 1400,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1354,9 +1484,9 @@
         "economic-mobility-samvid-ventures"
       ],
       "state_province": "Ontario",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hutsy.ca",
-      "website_order": 1394,
+      "website_order": 1400,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1422,9 +1552,9 @@
         "economic-mobility-samvid-ventures"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "axcces.com",
-      "website_order": 1394,
+      "website_order": 1400,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1483,9 +1613,9 @@
         "economic-mobility-samvid-ventures"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "apriority.ai",
-      "website_order": 1394,
+      "website_order": 1400,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1549,9 +1679,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/KestrelLabs",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kestrellabs.com",
-      "website_order": 1422,
+      "website_order": 1427,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1615,9 +1745,9 @@
         "boston"
       ],
       "state_province": "Utah",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "healthkeri.com",
-      "website_order": 1422,
+      "website_order": 1427,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1681,9 +1811,9 @@
         "boston"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "grably.us",
-      "website_order": 1422,
+      "website_order": 1427,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1748,9 +1878,9 @@
         "boston"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "empallo.com",
-      "website_order": 1422,
+      "website_order": 1427,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1817,9 +1947,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/gobundled",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gobundled.com",
-      "website_order": 1422,
+      "website_order": 1427,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1884,9 +2014,9 @@
         "boston"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "brixely.com",
-      "website_order": 1422,
+      "website_order": 1427,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1951,9 +2081,9 @@
         "boston"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "accelidea.com",
-      "website_order": 1422,
+      "website_order": 1427,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2019,9 +2149,9 @@
       ],
       "state_province": "Mazovia",
       "twitter_url": "twitter.com/TRUSTBYTES_X",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trustbytes.io",
-      "website_order": 1429,
+      "website_order": 1434,
       "worldregion": "Europe",
       "worldsubregion": "Eastern Europe"
     }
@@ -2082,9 +2212,9 @@
       ],
       "state_province": "Delaware",
       "twitter_url": "twitter.com/nodes_garden",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nodes.garden",
-      "website_order": 1429,
+      "website_order": 1434,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2149,9 +2279,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/NeraSystems",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nera.systems",
-      "website_order": 1429,
+      "website_order": 1434,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2214,9 +2344,9 @@
       ],
       "state_province": "Connecticut",
       "twitter_url": "twitter.com/its_DABL",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "dabl.io",
-      "website_order": 1429,
+      "website_order": 1434,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2272,9 +2402,9 @@
       ],
       "state_province": "Ohio",
       "twitter_url": "twitter.com/AutonomRWA",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "autonom.cc",
-      "website_order": 1429,
+      "website_order": 1434,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2335,9 +2465,9 @@
       ],
       "state_province": "Uttar Pradesh",
       "twitter_url": "twitter.com/0xbridgeHQ",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "0xbridge.xyz",
-      "website_order": 1429,
+      "website_order": 1434,
       "worldregion": "Asia",
       "worldsubregion": "Southern Asia"
     }
@@ -2403,9 +2533,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Ohio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "theanna.io",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2471,9 +2601,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Colorado",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "origamispace.com",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2534,9 +2664,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "heynouri.com",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2604,9 +2734,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Ohio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "khaki.email",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2667,9 +2797,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Ohio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "keystonebio.co",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2737,9 +2867,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Nevada",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "fibrx.io",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2801,9 +2931,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "felixfusion.ai",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2871,9 +3001,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "clearsolarco.com",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2936,9 +3066,9 @@
         "abn-amro-techstars-future-of-finance-accelerator"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "orionfinance.ai",
-      "website_order": 1452,
+      "website_order": 1457,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2997,9 +3127,9 @@
         "abn-amro-techstars-future-of-finance-accelerator"
       ],
       "state_province": "Dublin",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "narrativebanking.com",
-      "website_order": 1452,
+      "website_order": 1457,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3059,9 +3189,9 @@
         "abn-amro-techstars-future-of-finance-accelerator"
       ],
       "state_province": "Vaud",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "humbrela.com",
-      "website_order": 1452,
+      "website_order": 1457,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3120,9 +3250,9 @@
         "abn-amro-techstars-future-of-finance-accelerator"
       ],
       "state_province": "England",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "haboomoney.com",
-      "website_order": 1452,
+      "website_order": 1457,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3189,9 +3319,9 @@
         "abn-amro-techstars-future-of-finance-accelerator"
       ],
       "state_province": "Bavaria",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "fintalo.com",
-      "website_order": 1452,
+      "website_order": 1457,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3251,9 +3381,9 @@
         "abn-amro-techstars-future-of-finance-accelerator"
       ],
       "state_province": "Tel Aviv",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bettercharge.ai",
-      "website_order": 1452,
+      "website_order": 1457,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3314,9 +3444,9 @@
         "abn-amro-techstars-future-of-finance-accelerator"
       ],
       "state_province": "Capital Region",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "avidoai.com",
-      "website_order": 1452,
+      "website_order": 1457,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -3381,9 +3511,9 @@
         "abn-amro-techstars-future-of-finance-accelerator"
       ],
       "state_province": "Hesse",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "one-cp.com",
-      "website_order": 1452,
+      "website_order": 1457,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3445,9 +3575,9 @@
         "san-diego-state-university-accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "orbes.space",
-      "website_order": 1485,
+      "website_order": 1490,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3512,9 +3642,9 @@
         "san-diego-state-university-accelerator"
       ],
       "state_province": "Hawaii",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "landng.com",
-      "website_order": 1485,
+      "website_order": 1490,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3580,9 +3710,9 @@
         "san-diego-state-university-accelerator"
       ],
       "state_province": "Nova Scotia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "laibl.co",
-      "website_order": 1485,
+      "website_order": 1490,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3648,9 +3778,9 @@
         "san-diego-state-university-accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getklira.com",
-      "website_order": 1485,
+      "website_order": 1490,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3711,9 +3841,9 @@
         "san-diego-state-university-accelerator"
       ],
       "state_province": "Colorado",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hapware.com",
-      "website_order": 1485,
+      "website_order": 1490,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3777,9 +3907,9 @@
         "san-diego-state-university-accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cytodyme.com",
-      "website_order": 1485,
+      "website_order": 1490,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3843,9 +3973,9 @@
         "nyc"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "zmode.com",
-      "website_order": 1517,
+      "website_order": 1522,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3909,9 +4039,9 @@
         "nyc"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "reflector.bio",
-      "website_order": 1517,
+      "website_order": 1522,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3976,9 +4106,9 @@
         "nyc"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "rakeml.com",
-      "website_order": 1517,
+      "website_order": 1522,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4040,9 +4170,9 @@
         "nyc"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nephrogenbiotech.com",
-      "website_order": 1517,
+      "website_order": 1522,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4106,72 +4236,9 @@
         "nyc"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "intelital.com",
-      "website_order": 1517,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "Evrim",
-    "description": "Provides automated, multi-modal web data collection infrastructure for government and commercial intelligence analysts.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6acd21c5f147e0eb4dc81ce92.jpeg",
-    "website": "https://evrim.ai",
-    "location": "Norfolk, Virginia, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Big Data",
-      "SaaS"
-    ],
-    "year": 2025,
-    "program": "Techstars New York City Accelerator",
-    "programSlugs": [
-      "nyc"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/evrimai",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "brief_description": "Provides automated, multi-modal web data collection infrastructure for government and commercial intelligence analysts.",
-      "city": "Norfolk",
-      "company_id": "69047c1b-8680-423f-8865-7198dcae38f1",
-      "company_name": "Evrim",
-      "country": "United States",
-      "first_session_year": 2025,
-      "first_session_year_s": "2025",
-      "id": "69047c1b-8680-423f-8865-7198dcae38f1",
-      "industry_vertical": [
-        "Artificial intelligence and machine learning",
-        "Big Data",
-        "SaaS"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/evrimai",
-      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_6acd21c5f147e0eb4dc81ce92.jpeg",
-      "program_names": [
-        "Techstars New York City Accelerator"
-      ],
-      "program_slugs": [
-        "nyc"
-      ],
-      "state_province": "Virginia",
-      "updated_at": 1782813621,
-      "website": "evrim.ai",
-      "website_order": 1517,
+      "website_order": 1522,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4228,9 +4295,9 @@
         "nyc"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "crossxcheck.com",
-      "website_order": 1517,
+      "website_order": 1522,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4289,9 +4356,9 @@
         "nyc"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cloud9.money",
-      "website_order": 1517,
+      "website_order": 1522,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4350,9 +4417,9 @@
         "london"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tova.earth",
-      "website_order": 1527,
+      "website_order": 1531,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4409,9 +4476,9 @@
         "london"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "solimhealth.com",
-      "website_order": 1527,
+      "website_order": 1531,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4471,9 +4538,9 @@
       ],
       "state_province": "Haifa",
       "twitter_url": "twitter.com/@renn_women",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getrenn.com",
-      "website_order": 1527,
+      "website_order": 1531,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4533,9 +4600,9 @@
         "london"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "prettydata.co",
-      "website_order": 1527,
+      "website_order": 1531,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4594,9 +4661,9 @@
         "london"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "parasolplatforms.com",
-      "website_order": 1527,
+      "website_order": 1531,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4656,9 +4723,9 @@
         "london"
       ],
       "state_province": "England",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ovida.org",
-      "website_order": 1527,
+      "website_order": 1531,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -4731,9 +4798,9 @@
         "future-of-food"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vocadian.ai",
-      "website_order": 1545,
+      "website_order": 1549,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4801,9 +4868,9 @@
         "future-of-food"
       ],
       "state_province": "Louisiana",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "qms2go.com",
-      "website_order": 1545,
+      "website_order": 1549,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4865,9 +4932,9 @@
         "future-of-food"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "platepost.io",
-      "website_order": 1545,
+      "website_order": 1549,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4933,9 +5000,9 @@
         "future-of-food"
       ],
       "state_province": "Dubai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "openfarming.earth",
-      "website_order": 1545,
+      "website_order": 1549,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -5002,9 +5069,9 @@
         "future-of-food"
       ],
       "state_province": "Alaska",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kartorium.com",
-      "website_order": 1545,
+      "website_order": 1549,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5070,9 +5137,9 @@
         "future-of-food"
       ],
       "state_province": "British Columbia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tryfabrisight.com",
-      "website_order": 1545,
+      "website_order": 1549,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5138,9 +5205,9 @@
         "future-of-food"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "backhouseshop.com",
-      "website_order": 1545,
+      "website_order": 1549,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5206,9 +5273,9 @@
         "future-of-food"
       ],
       "state_province": "British Columbia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "arbia.io",
-      "website_order": 1545,
+      "website_order": 1549,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5268,9 +5335,9 @@
         "anywhere"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "secureai.us",
-      "website_order": 1556,
+      "website_order": 1560,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5329,9 +5396,9 @@
         "anywhere"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "luminadata.ai",
-      "website_order": 1556,
+      "website_order": 1560,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5390,9 +5457,9 @@
         "anywhere"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kindredpm.ai",
-      "website_order": 1556,
+      "website_order": 1560,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5451,9 +5518,9 @@
         "anywhere"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bild-engineering.io",
-      "website_order": 1556,
+      "website_order": 1560,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5510,9 +5577,9 @@
         "anywhere"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bestdefense.io",
-      "website_order": 1556,
+      "website_order": 1560,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5571,9 +5638,9 @@
         "anywhere"
       ],
       "state_province": "Missouri",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "athion.io",
-      "website_order": 1556,
+      "website_order": 1560,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5639,9 +5706,9 @@
         "permanente-medicine"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "valenehealth.com",
-      "website_order": 1616,
+      "website_order": 1621,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5701,9 +5768,9 @@
         "permanente-medicine"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "unephra.com",
-      "website_order": 1616,
+      "website_order": 1621,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5771,9 +5838,9 @@
         "permanente-medicine"
       ],
       "state_province": "Central District",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trackimed.com",
-      "website_order": 1616,
+      "website_order": 1621,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -5835,9 +5902,9 @@
         "permanente-medicine"
       ],
       "state_province": "Maryland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "statpointmedical.com",
-      "website_order": 1616,
+      "website_order": 1621,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -5900,9 +5967,9 @@
       "program_slugs": [
         "permanente-medicine"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mindframe.care",
-      "website_order": 1616,
+      "website_order": 1621,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -5971,9 +6038,9 @@
         "permanente-medicine"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "medicusai.co",
-      "website_order": 1616,
+      "website_order": 1621,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6037,9 +6104,9 @@
         "permanente-medicine"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "feyenally.com",
-      "website_order": 1616,
+      "website_order": 1621,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6105,9 +6172,9 @@
         "permanente-medicine"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cipra.ai",
-      "website_order": 1616,
+      "website_order": 1621,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6169,76 +6236,9 @@
         "permanente-medicine"
       ],
       "state_province": "Maryland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "benekinetic.com",
-      "website_order": 1616,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "Allswell",
-    "description": "Allswell is reimagining mental health care with AI-enabled, group-based therapy built for the LGBTQ+ community.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_d764eec6c6e6e80b780add749.png",
-    "website": "https://joinallswell.com",
-    "location": "San Francisco, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Digital health",
-      "Femtech",
-      "Healthtech"
-    ],
-    "year": 2025,
-    "program": "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States",
-    "programSlugs": [
-      "permanente-medicine"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/105197856",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/joinallswell"
-    },
-    "extra": {
-      "brief_description": "Allswell is reimagining mental health care with AI-enabled, group-based therapy built for the LGBTQ+ community.",
-      "city": "San Francisco",
-      "company_id": "987bc224-2c7d-4336-a054-df90d0a2a584",
-      "company_name": "Allswell",
-      "country": "United States",
-      "crunchbase_url": "crunchbase.com/organization/joinallswell",
-      "first_session_year": 2025,
-      "first_session_year_s": "2025",
-      "id": "987bc224-2c7d-4336-a054-df90d0a2a584",
-      "industry_vertical": [
-        "Digital health",
-        "Femtech",
-        "Healthtech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "latest_class_for": [
-        "permanente-medicine"
-      ],
-      "linkedin_url": "linkedin.com/company/105197856",
-      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_d764eec6c6e6e80b780add749.png",
-      "program_names": [
-        "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States"
-      ],
-      "program_slugs": [
-        "permanente-medicine"
-      ],
-      "state_province": "California",
-      "updated_at": 1782813621,
-      "website": "joinallswell.com",
-      "website_order": 1616,
+      "website_order": 1621,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6302,9 +6302,9 @@
         "tokyo"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hiresteve.ai",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6356,9 +6356,9 @@
         "Techstars San Francisco"
       ],
       "state_province": "West Bengal",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trinzz.com",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Asia",
       "worldsubregion": "Southern Asia"
     }
@@ -6425,9 +6425,9 @@
         "tokyo"
       ],
       "state_province": "Tokyo",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "birtht.xyz",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Asia",
       "worldsubregion": "Eastern Asia"
     }
@@ -6479,9 +6479,9 @@
         "Techstars San Francisco"
       ],
       "state_province": "Centre",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "brio.ink",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -6545,9 +6545,9 @@
         "tokyo"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sorano.co",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6599,9 +6599,9 @@
         "Techstars San Francisco"
       ],
       "state_province": "Hawaii",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "salesplayx.com",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6653,9 +6653,9 @@
         "Techstars San Francisco"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "reeli.ai",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6723,9 +6723,9 @@
         "tokyo"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "plexis.ai",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6793,9 +6793,9 @@
         "tokyo"
       ],
       "state_province": "Catalonia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "overwatch-ai.com",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -6855,9 +6855,9 @@
         "Techstars San Francisco"
       ],
       "state_province": "Ontario",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "opti-fab.com",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6921,9 +6921,9 @@
         "tokyo"
       ],
       "state_province": "Oregon",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "oneinbox.ai",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -6989,9 +6989,9 @@
         "tokyo"
       ],
       "state_province": "Tokyo",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "o-id.net",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Asia",
       "worldsubregion": "Eastern Asia"
     }
@@ -7042,9 +7042,9 @@
       "program_names": [
         "Techstars San Francisco"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "neuraldefend.com",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Asia",
       "worldsubregion": "Southern Asia"
     }
@@ -7096,9 +7096,9 @@
         "Techstars San Francisco"
       ],
       "state_province": "British Columbia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "makingautoeasy.com",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7150,9 +7150,9 @@
         "Techstars San Francisco"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "legaleaze.co",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7204,9 +7204,9 @@
         "Techstars San Francisco"
       ],
       "state_province": "New Jersey",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "goharvest.ai",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7259,9 +7259,9 @@
         "Techstars San Francisco"
       ],
       "state_province": "England",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "exordi.io",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -7323,9 +7323,9 @@
         "tokyo"
       ],
       "state_province": "Osaka",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "dleader.co.jp",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Asia",
       "worldsubregion": "Eastern Asia"
     }
@@ -7389,9 +7389,9 @@
         "tokyo"
       ],
       "state_province": "Brașov County",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "contera.ai",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Europe",
       "worldsubregion": "Eastern Europe"
     }
@@ -7451,9 +7451,9 @@
         "tokyo"
       ],
       "state_province": "Tokyo",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cascaded.ai",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Asia",
       "worldsubregion": "Eastern Asia"
     }
@@ -7519,9 +7519,9 @@
         "tokyo"
       ],
       "state_province": "North Carolina",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "boxtree.gg",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7583,9 +7583,9 @@
         "tokyo"
       ],
       "state_province": "Assam",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "theblueconomy.ai",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Asia",
       "worldsubregion": "Southern Asia"
     }
@@ -7642,9 +7642,9 @@
         "nyc"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vakya.ai",
-      "website_order": 1809,
+      "website_order": 1813,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7701,9 +7701,9 @@
         "nyc"
       ],
       "state_province": "Oklahoma",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tobe.energy",
-      "website_order": 1809,
+      "website_order": 1813,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7760,9 +7760,9 @@
         "nyc"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tablender.com",
-      "website_order": 1809,
+      "website_order": 1813,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7823,9 +7823,9 @@
         "nyc"
       ],
       "state_province": "Dubai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "smart-bricks.com",
-      "website_order": 1809,
+      "website_order": 1813,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7881,9 +7881,9 @@
         "nyc"
       ],
       "state_province": "New Hampshire",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nee-ai.com",
-      "website_order": 1809,
+      "website_order": 1813,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7939,9 +7939,9 @@
         "nyc"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "lendkoi.com",
-      "website_order": 1809,
+      "website_order": 1813,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -7998,9 +7998,9 @@
         "nyc"
       ],
       "state_province": "Georgia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cronwell.ai",
-      "website_order": 1809,
+      "website_order": 1813,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8061,9 +8061,9 @@
         "USC and Techstars University Catalyst"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "jamfamilycalendar.com",
-      "website_order": 1833,
+      "website_order": 1837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8120,9 +8120,9 @@
         "USC and Techstars University Catalyst"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "avariefemcare.com",
-      "website_order": 1833,
+      "website_order": 1837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -8190,9 +8190,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Queensland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "xillions.ai",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -8255,9 +8255,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vetnotes.com",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -8311,9 +8311,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Queensland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "surflab.ai",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -8376,9 +8376,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Auckland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "slicetobuy.com",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -8438,9 +8438,9 @@
       "program_slugs": [
         "tech-central-sydney-nsw"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sedso.ai",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Asia",
       "worldsubregion": "Southeastern Asia"
     }
@@ -8507,9 +8507,9 @@
       ],
       "state_province": "Victoria",
       "twitter_url": "twitter.com/@ourlegup",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ourlegup.com",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -8569,9 +8569,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "onsite.fm",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -8637,9 +8637,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Victoria",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "oncorevive.com",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -8702,9 +8702,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "museai.au",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -8766,9 +8766,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "juxtabyte.com",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -8834,9 +8834,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Victoria",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "crystalaos.com",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -8897,9 +8897,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "briefcase.technology",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -8958,9 +8958,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "New Jersey",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "technovatime.com",
-      "website_order": 2049,
+      "website_order": 2053,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9017,9 +9017,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Georgia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "promptwrx.com",
-      "website_order": 2049,
+      "website_order": 2053,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9075,9 +9075,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "District of Columbia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pensehealth.com",
-      "website_order": 2049,
+      "website_order": 2053,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9142,9 +9142,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "District of Columbia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "lucor.ai",
-      "website_order": 2049,
+      "website_order": 2053,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9201,9 +9201,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Michigan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "juniper.tech",
-      "website_order": 2049,
+      "website_order": 2053,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9264,9 +9264,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "halstedhealth.ai",
-      "website_order": 2049,
+      "website_order": 2053,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9329,9 +9329,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Maryland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "codahx.com",
-      "website_order": 2049,
+      "website_order": 2053,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9388,9 +9388,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "New Jersey",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "birthmodel.com",
-      "website_order": 2049,
+      "website_order": 2053,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9448,9 +9448,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Île-de-France",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hoopcare.com",
-      "website_order": 2057,
+      "website_order": 2061,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -9510,9 +9510,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Ohio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sonnetai.com",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9572,9 +9572,9 @@
       ],
       "state_province": "Ohio",
       "twitter_url": "twitter.com/smalltalk_tech",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "smalltalk.tech",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9637,9 +9637,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Ohio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "therynapp.com",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9703,9 +9703,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/refreshingearth/",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pulltorefresh.earth",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9766,9 +9766,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Wisconsin",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "okkanti.com",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9831,9 +9831,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ofspectrum.com",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9900,9 +9900,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "generationenvironment.com",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -9965,9 +9965,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "fovionics.com",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10026,9 +10026,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Ohio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "avionova.tech",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10089,9 +10089,9 @@
         "transformative-world-torino"
       ],
       "state_province": "Milan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vocations.io",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -10151,9 +10151,9 @@
       "program_slugs": [
         "transformative-world-torino"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "spacebrains.tech",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Europe",
       "worldsubregion": "Eastern Europe"
     }
@@ -10213,9 +10213,9 @@
       "program_slugs": [
         "transformative-world-torino"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "recrewty.com",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -10275,9 +10275,9 @@
         "transformative-world-torino"
       ],
       "state_province": "Rome",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "materiaintel.com",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -10338,9 +10338,9 @@
         "transformative-world-torino"
       ],
       "state_province": "Rome",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "litlyx.com",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -10400,9 +10400,9 @@
         "transformative-world-torino"
       ],
       "state_province": "Florence",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "lemonsintheroom.com",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -10462,9 +10462,9 @@
       "program_slugs": [
         "transformative-world-torino"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "granter.ai",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -10525,9 +10525,9 @@
         "transformative-world-torino"
       ],
       "state_province": "Prato",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bettaknit.com",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -10588,9 +10588,9 @@
         "transformative-world-torino"
       ],
       "state_province": "Dublin",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "axemsolutions.io",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -10653,9 +10653,9 @@
         "transformative-world-torino"
       ],
       "state_province": "Wisconsin",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "arbor-insight.com",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -10724,9 +10724,9 @@
         "transformative-world-torino"
       ],
       "state_province": "Capital Region",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "alterecho.io",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -10788,7 +10788,7 @@
         "tulsa"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trysonify.com",
       "website_order": 2586,
       "worldregion": "Americas",
@@ -10856,7 +10856,7 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/seaspireskin",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "seaspireskincare.com",
       "website_order": 2586,
       "worldregion": "Americas",
@@ -10918,7 +10918,7 @@
         "tulsa"
       ],
       "state_province": "Georgia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "permiguide.com",
       "website_order": 2586,
       "worldregion": "Americas",
@@ -10986,7 +10986,7 @@
         "tulsa"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "montecaldera.com",
       "website_order": 2586,
       "worldregion": "Americas",
@@ -11058,7 +11058,7 @@
         "tulsa"
       ],
       "state_province": "Louisiana",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gophrapp.com",
       "website_order": 2586,
       "worldregion": "Americas",
@@ -11124,7 +11124,7 @@
         "tulsa"
       ],
       "state_province": "Georgia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "goldilockssmartsolutions.com",
       "website_order": 2586,
       "worldregion": "Americas",
@@ -11191,7 +11191,7 @@
         "tulsa"
       ],
       "state_province": "Alberta",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cropmind.ca",
       "website_order": 2586,
       "worldregion": "Americas",
@@ -11257,7 +11257,7 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/ajalabs_co",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ajalabs.co",
       "website_order": 2586,
       "worldregion": "Americas",
@@ -11320,9 +11320,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Indiana",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "myvalio.com",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11383,72 +11383,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sloop.ai",
-      "website_order": 2950,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "HeyOpal",
-    "description": "We connect the dots in mental healthcare by unifying its landscape around the client. We give clients agency to inform their treatment, and support clinicians to deliver high-quality, scalable care by making communication more effective. We help progress continue between sessions using clinician-driven conversational AI interventions to promote higher engagement, retention, and ultimately better, faster treatment outcomes.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4fdb011b5a683247ca3f99090.png",
-    "website": "https://heyopal.com",
-    "location": "Pinellas Park, Florida, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Cybersecurity",
-      "Healthtech"
-    ],
-    "year": 2025,
-    "program": "Techstars AI Health Baltimore",
-    "programSlugs": [
-      "baltimore-ai-health"
-    ],
-    "isExit": true,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/heyopal",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "brief_description": "We connect the dots in mental healthcare by unifying its landscape around the client. We give clients agency to inform their treatment, and support clinicians to deliver high-quality, scalable care by making communication more effective. We help progress continue between sessions using clinician-driven conversational AI interventions to promote higher engagement, retention, and ultimately better, faster treatment outcomes.",
-      "city": "Pinellas Park",
-      "company_id": "258ae8fa-5ba6-4db1-aec3-2145ad9d5306",
-      "company_name": "HeyOpal",
-      "country": "United States",
-      "first_session_year": 2025,
-      "first_session_year_s": "2025",
-      "id": "258ae8fa-5ba6-4db1-aec3-2145ad9d5306",
-      "industry_vertical": [
-        "Artificial intelligence and machine learning",
-        "Cybersecurity",
-        "Healthtech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": true,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/heyopal",
-      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_4fdb011b5a683247ca3f99090.png",
-      "program_names": [
-        "Techstars AI Health Baltimore"
-      ],
-      "program_slugs": [
-        "baltimore-ai-health"
-      ],
-      "state_province": "Florida",
-      "updated_at": 1782813621,
-      "website": "heyopal.com",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11509,9 +11446,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Pennsylvania",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "galenhealth.org",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11573,9 +11510,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "embryoxite.life",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11636,9 +11573,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Ontario",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "composehealth.ai",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11702,9 +11639,9 @@
       ],
       "state_province": "Pennsylvania",
       "twitter_url": "twitter.com/BehaiviorAI",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "behaivior.com",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11765,9 +11702,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Alberta",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "aidrx.app",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11819,9 +11756,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "videodraft.ai",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11873,9 +11810,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "silverspurtx.com",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11927,9 +11864,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "prismia.so",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -11982,9 +11919,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "prefacehealth.com",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12036,9 +11973,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "praxi.io",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12090,9 +12027,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "Oregon",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "askhenna.com",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12144,9 +12081,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "easyshake.xyz",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12198,9 +12135,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "alstenimedical.com",
-      "website_order": 3025,
+      "website_order": 3023,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12255,9 +12192,9 @@
         "Northwestern Medicine & Techstars Healthcare Accelerator"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "voythos.io",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12310,9 +12247,9 @@
         "Northwestern Medicine & Techstars Healthcare Accelerator"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trylastminute.com",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12366,9 +12303,9 @@
         "Northwestern Medicine & Techstars Healthcare Accelerator"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "exactrx.ai",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12422,9 +12359,9 @@
         "Northwestern Medicine & Techstars Healthcare Accelerator"
       ],
       "state_province": "New Jersey",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "efficientsc.com",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12478,9 +12415,9 @@
         "Northwestern Medicine & Techstars Healthcare Accelerator"
       ],
       "state_province": "Michigan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "decimalcode.com",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12535,9 +12472,9 @@
         "Northwestern Medicine & Techstars Healthcare Accelerator"
       ],
       "state_province": "Alabama",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "aimedica.ai",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12601,9 +12538,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/upskls",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "worksimplr.com",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12665,9 +12602,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/studiousnet",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "studious.net",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12730,9 +12667,9 @@
       ],
       "state_province": "Colorado",
       "twitter_url": "twitter.com/SpeakCareers",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "speak.careers",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12797,9 +12734,9 @@
         "workforce-development"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pique.so",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12861,9 +12798,9 @@
         "workforce-development"
       ],
       "state_province": "Alabama",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "joinkaya.com",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12924,9 +12861,9 @@
         "workforce-development"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "immigify.com",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -12992,9 +12929,9 @@
       ],
       "state_province": "Pennsylvania",
       "twitter_url": "twitter.com/hardlytech",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hardly-work.com",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13055,9 +12992,9 @@
         "workforce-development"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "exitous.co",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13116,9 +13053,9 @@
         "workforce-development"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "earnlearn.us",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13180,9 +13117,9 @@
         "workforce-development"
       ],
       "state_province": "Louisiana",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trycantaloupe.com",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13246,9 +13183,72 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/grow_arbol",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "growarbol.com",
-      "website_order": 3211,
+      "website_order": 3208,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "HeyOpal",
+    "description": "We connect the dots in mental healthcare by unifying its landscape around the client. We give clients agency to inform their treatment, and support clinicians to deliver high-quality, scalable care by making communication more effective. We help progress continue between sessions using clinician-driven conversational AI interventions to promote higher engagement, retention, and ultimately better, faster treatment outcomes.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_4fdb011b5a683247ca3f99090.png",
+    "website": "https://heyopal.com",
+    "location": "Pinellas Park, Florida, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cybersecurity",
+      "Healthtech"
+    ],
+    "year": 2025,
+    "program": "Techstars AI Health Baltimore",
+    "programSlugs": [
+      "baltimore-ai-health"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/heyopal",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "brief_description": "We connect the dots in mental healthcare by unifying its landscape around the client. We give clients agency to inform their treatment, and support clinicians to deliver high-quality, scalable care by making communication more effective. We help progress continue between sessions using clinician-driven conversational AI interventions to promote higher engagement, retention, and ultimately better, faster treatment outcomes.",
+      "city": "Pinellas Park",
+      "company_id": "258ae8fa-5ba6-4db1-aec3-2145ad9d5306",
+      "company_name": "HeyOpal",
+      "country": "United States",
+      "first_session_year": 2025,
+      "first_session_year_s": "2025",
+      "id": "258ae8fa-5ba6-4db1-aec3-2145ad9d5306",
+      "industry_vertical": [
+        "Artificial intelligence and machine learning",
+        "Cybersecurity",
+        "Healthtech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": true,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/heyopal",
+      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_4fdb011b5a683247ca3f99090.png",
+      "program_names": [
+        "Techstars AI Health Baltimore"
+      ],
+      "program_slugs": [
+        "baltimore-ai-health"
+      ],
+      "state_province": "Florida",
+      "updated_at": 1782900627,
+      "website": "heyopal.com",
+      "website_order": 3280,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13308,9 +13308,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/wekeza",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wekeza.com",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13369,9 +13369,9 @@
         "tulsa"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tintedhealth.com",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13428,9 +13428,9 @@
         "tulsa"
       ],
       "state_province": "Michigan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "thyim.com",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13489,9 +13489,9 @@
         "tulsa"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "securethebags.co",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13557,9 +13557,9 @@
       ],
       "state_province": "Michigan",
       "twitter_url": "twitter.com/@www.mesenzi.com",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pathogenix.ai",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13620,9 +13620,9 @@
         "tulsa"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "plurawl.com",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13678,9 +13678,9 @@
         "tulsa"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "humansdeliver.com",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13740,9 +13740,9 @@
         "tulsa"
       ],
       "state_province": "Alabama",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "datatherm.net",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13800,9 +13800,9 @@
         "tulsa"
       ],
       "state_province": "Oklahoma",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "customerbase.ai",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13867,9 +13867,9 @@
         "tulsa"
       ],
       "state_province": "Oklahoma",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "creativo.ai",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13925,9 +13925,9 @@
         "tulsa"
       ],
       "state_province": "Georgia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wecoopify.com",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -13984,9 +13984,9 @@
         "tulsa"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "altior.academy",
-      "website_order": 3792,
+      "website_order": 3786,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }

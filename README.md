@@ -8,13 +8,13 @@ The open API for every company in the [Techstars](https://www.techstars.com/port
 
 ## ℹ️ Metadata
 
-> Last updated: **2026-06-30**
+> Last updated: **2026-07-01**
 
 - **5,106** companies
 - **157** accelerator programs
 - **57** industry verticals
 - **6** world regions, across **20** cohort years
-- 🦄 **23** unicorns · 💰 **624** exits · 🌱 **29** B Corps
+- 🦄 **23** unicorns · 💰 **625** exits · 🌱 **29** B Corps
 
 ## 🚀 Quick start
 
@@ -300,9 +300,9 @@ https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/
 | Techstars Allied Space Accelerator | 10 | [`by-program/techstars-allied-space-accelerator.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/techstars-allied-space-accelerator.json) |
 | Alchemist Blockchain Techstars Accelerator | 10 | [`by-program/alchemist-blockchain-techstars-accelerator.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/alchemist-blockchain-techstars-accelerator.json) |
 | Microsoft Accelerator for Kinect, powered by Techstars | 10 | [`by-program/microsoft-accelerator-for-kinect-powered-by-techstars.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/microsoft-accelerator-for-kinect-powered-by-techstars.json) |
+| Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States | 10 | [`by-program/techstars-healthcare-accelerator-powered-by-permanente-medicine-mid-atlantic-states.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/techstars-healthcare-accelerator-powered-by-permanente-medicine-mid-atlantic-states.json) |
 | Techstars Adelaide | 10 | [`by-program/techstars-adelaide.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/techstars-adelaide.json) |
 | Northwestern Medicine & Techstars Healthcare Accelerator | 10 | [`by-program/northwestern-medicine-techstars-healthcare-accelerator.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/northwestern-medicine-techstars-healthcare-accelerator.json) |
-| Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States | 10 | [`by-program/techstars-healthcare-accelerator-powered-by-permanente-medicine-mid-atlantic-states.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/techstars-healthcare-accelerator-powered-by-permanente-medicine-mid-atlantic-states.json) |
 | Qualcomm Robotics Accelerator, powered by Techstars | 9 | [`by-program/qualcomm-robotics-accelerator-powered-by-techstars.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/qualcomm-robotics-accelerator-powered-by-techstars.json) |
 | Techstars Connection | 9 | [`by-program/techstars-connection.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/techstars-connection.json) |
 | Virgin Media Accelerator powered by Techstars | 9 | [`by-program/virgin-media-accelerator-powered-by-techstars.json`](https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/virgin-media-accelerator-powered-by-techstars.json) |

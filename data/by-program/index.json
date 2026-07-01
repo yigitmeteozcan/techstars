@@ -209,10 +209,10 @@
     "count": 30,
     "file": "by-program/techstars-future-of-longevity-accelerator.json"
   },
-  "Comcast NBCUniversal LIFT Labs Accelerator Powered by Techstars": {
-    "slug": "comcast-nbcuniversal-lift-labs-accelerator-powered-by-techstars",
-    "count": 55,
-    "file": "by-program/comcast-nbcuniversal-lift-labs-accelerator-powered-by-techstars.json"
+  "The Heritage Group Accelerator powered by Techstars": {
+    "slug": "the-heritage-group-accelerator-powered-by-techstars",
+    "count": 27,
+    "file": "by-program/the-heritage-group-accelerator-powered-by-techstars.json"
   },
   "METRO Retail Accelerator powered by Techstars": {
     "slug": "metro-retail-accelerator-powered-by-techstars",
@@ -228,11 +228,6 @@
     "slug": "techstars-western-union-accelerator",
     "count": 29,
     "file": "by-program/techstars-western-union-accelerator.json"
-  },
-  "The Heritage Group Accelerator powered by Techstars": {
-    "slug": "the-heritage-group-accelerator-powered-by-techstars",
-    "count": 27,
-    "file": "by-program/the-heritage-group-accelerator-powered-by-techstars.json"
   },
   "Techstars Future of Food Powered by Ecolab": {
     "slug": "techstars-future-of-food-powered-by-ecolab",
@@ -294,6 +289,11 @@
     "count": 100,
     "file": "by-program/techstars-toronto-accelerator.json"
   },
+  "UnitedHealthcare Accelerator Powered by Techstars": {
+    "slug": "unitedhealthcare-accelerator-powered-by-techstars",
+    "count": 30,
+    "file": "by-program/unitedhealthcare-accelerator-powered-by-techstars.json"
+  },
   "Sprint Accelerator, powered by Techstars": {
     "slug": "sprint-accelerator-powered-by-techstars",
     "count": 29,
@@ -309,15 +309,20 @@
     "count": 48,
     "file": "by-program/abn-amro-techstars-future-of-finance-accelerator.json"
   },
-  "UnitedHealthcare Accelerator Powered by Techstars": {
-    "slug": "unitedhealthcare-accelerator-powered-by-techstars",
-    "count": 30,
-    "file": "by-program/unitedhealthcare-accelerator-powered-by-techstars.json"
-  },
   "Techstars Healthcare sponsored by Cedars-Sinai, Point32Health, UCI Health, and UnitedHealthcare": {
     "slug": "techstars-healthcare-sponsored-by-cedars-sinai-point32health-uci-health-and-unitedhealthcare",
     "count": 24,
     "file": "by-program/techstars-healthcare-sponsored-by-cedars-sinai-point32health-uci-health-and-unitedhealthcare.json"
+  },
+  "The Riyadh Techstars Accelerator": {
+    "slug": "the-riyadh-techstars-accelerator",
+    "count": 22,
+    "file": "by-program/the-riyadh-techstars-accelerator.json"
+  },
+  "Comcast NBCUniversal LIFT Labs Accelerator Powered by Techstars": {
+    "slug": "comcast-nbcuniversal-lift-labs-accelerator-powered-by-techstars",
+    "count": 55,
+    "file": "by-program/comcast-nbcuniversal-lift-labs-accelerator-powered-by-techstars.json"
   },
   "Alexa Next Stage, Powered by Techstars, Techstars London Accelerator": {
     "slug": "alexa-next-stage-powered-by-techstars-techstars-london-accelerator",
@@ -384,6 +389,11 @@
     "count": 20,
     "file": "by-program/the-arcadis-city-of-2030-accelerator-powered-by-techstars.json"
   },
+  "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States": {
+    "slug": "techstars-healthcare-accelerator-powered-by-permanente-medicine-mid-atlantic-states",
+    "count": 10,
+    "file": "by-program/techstars-healthcare-accelerator-powered-by-permanente-medicine-mid-atlantic-states.json"
+  },
   "Techstars Equitech Accelerator": {
     "slug": "techstars-equitech-accelerator",
     "count": 27,
@@ -424,15 +434,15 @@
     "count": 8,
     "file": "by-program/nike-accelerator-powered-by-techstars.json"
   },
-  "Sustainability Paris Techstars Accelerator": {
-    "slug": "sustainability-paris-techstars-accelerator",
-    "count": 68,
-    "file": "by-program/sustainability-paris-techstars-accelerator.json"
-  },
   "The Minnesota Twins Accelerator by Techstars": {
     "slug": "the-minnesota-twins-accelerator-by-techstars",
     "count": 30,
     "file": "by-program/the-minnesota-twins-accelerator-by-techstars.json"
+  },
+  "Sustainability Paris Techstars Accelerator": {
+    "slug": "sustainability-paris-techstars-accelerator",
+    "count": 68,
+    "file": "by-program/sustainability-paris-techstars-accelerator.json"
   },
   "Techstars London Powered by Polygon": {
     "slug": "techstars-london-powered-by-polygon",
@@ -454,11 +464,6 @@
     "count": 49,
     "file": "by-program/techstars-new-york-city-powered-by-j-p-morgan.json"
   },
-  "The Riyadh Techstars Accelerator": {
-    "slug": "the-riyadh-techstars-accelerator",
-    "count": 22,
-    "file": "by-program/the-riyadh-techstars-accelerator.json"
-  },
   "Techstars Connection": {
     "slug": "techstars-connection",
     "count": 9,
@@ -478,6 +483,11 @@
     "slug": "build-in-tulsa-techstars-accelerator",
     "count": 79,
     "file": "by-program/build-in-tulsa-techstars-accelerator.json"
+  },
+  "Northwestern Medicine & Techstars Healthcare Accelerator": {
+    "slug": "northwestern-medicine-techstars-healthcare-accelerator",
+    "count": 10,
+    "file": "by-program/northwestern-medicine-techstars-healthcare-accelerator.json"
   },
   "Founder Catalyst in partnership with J.P. Morgan, Techstars Economic Mobility Powered by Samvid Ventures": {
     "slug": "founder-catalyst-in-partnership-with-j-p-morgan-techstars-economic-mobility-powered-by-samvid-ventures",
@@ -549,11 +559,6 @@
     "count": 1,
     "file": "by-program/techstars-chicago-techstars-founder-catalyst-global-program.json"
   },
-  "Northwestern Medicine & Techstars Healthcare Accelerator": {
-    "slug": "northwestern-medicine-techstars-healthcare-accelerator",
-    "count": 10,
-    "file": "by-program/northwestern-medicine-techstars-healthcare-accelerator.json"
-  },
   "Founder Catalyst sponsored by Stanley Black & Decker, Northwestern Medicine & Techstars Healthcare Accelerator": {
     "slug": "founder-catalyst-sponsored-by-stanley-black-decker-northwestern-medicine-techstars-healthcare-accelerator",
     "count": 1,
@@ -573,11 +578,6 @@
     "slug": "techstars-ai-health-baltimore",
     "count": 25,
     "file": "by-program/techstars-ai-health-baltimore.json"
-  },
-  "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States": {
-    "slug": "techstars-healthcare-accelerator-powered-by-permanente-medicine-mid-atlantic-states",
-    "count": 10,
-    "file": "by-program/techstars-healthcare-accelerator-powered-by-permanente-medicine-mid-atlantic-states.json"
   },
   "ARM Labs Lagos Techstars Accelerator": {
     "slug": "arm-labs-lagos-techstars-accelerator",

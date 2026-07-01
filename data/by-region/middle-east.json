@@ -53,7 +53,7 @@
         "atlanta-cox"
       ],
       "twitter_url": "twitter.com/splittytravel",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "splittytravel.com",
       "website_order": 34,
       "worldregion": "Middle East",
@@ -113,7 +113,7 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/GreeneyeAg",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "greeneye.ag",
       "website_order": 122,
       "worldregion": "Middle East",
@@ -173,9 +173,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "retravel.io",
-      "website_order": 203,
+      "website_order": 202,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -233,9 +233,9 @@
         "Techstars Detroit Accelerator"
       ],
       "twitter_url": "twitter.com/DerqAI",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "derq.com",
-      "website_order": 205,
+      "website_order": 204,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -303,7 +303,7 @@
         "New York Barclays Accelerator, powered by Techstars"
       ],
       "twitter_url": "twitter.com/wavebl",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wavebl.com",
       "website_order": 228,
       "worldregion": "Middle East",
@@ -363,9 +363,9 @@
         "Techstars Hub71 Accelerator"
       ],
       "twitter_url": "twitter.com/drklaimai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "klaim.ai",
-      "website_order": 263,
+      "website_order": 264,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -424,7 +424,7 @@
         "seattle"
       ],
       "twitter_url": "twitter.com/SmoreNewsletter",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "smore.com",
       "website_order": 291,
       "worldregion": "Middle East",
@@ -491,9 +491,69 @@
         "future-of-food"
       ],
       "twitter_url": "twitter.com/Ecoplant2017",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ecoplant.co",
       "website_order": 291,
+      "worldregion": "Middle East",
+      "worldsubregion": "Middle East"
+    }
+  },
+  {
+    "name": "Autobia",
+    "description": "B2B marketplace leveraging the data to solve the infrastructure & after-sales challenges in the automotive industry",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/626834d533ea2400085bbd3d/original/autobia_Logo.png",
+    "website": "https://auto.sa",
+    "location": "Dhahran, Saudi Arabia",
+    "region": "Middle East",
+    "subregion": "Middle East",
+    "tags": [
+      "Supply chain technology"
+    ],
+    "year": 2021,
+    "program": "The Riyadh Techstars Accelerator",
+    "programSlugs": [
+      "riyadh"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/auto-sa",
+      "twitter": "https://twitter.com/autobia_sa",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/autobia"
+    },
+    "extra": {
+      "brief_description": "B2B marketplace leveraging the data to solve the infrastructure & after-sales challenges in the automotive industry",
+      "city": "Dhahran",
+      "company_id": "151ada2d-56bb-39ed-ad4d-207af8250546",
+      "company_name": "Autobia",
+      "country": "Saudi Arabia",
+      "crunchbase_url": "crunchbase.com/organization/autobia",
+      "first_session_year": 2021,
+      "first_session_year_s": "2021",
+      "id": "151ada2d-56bb-39ed-ad4d-207af8250546",
+      "industry_vertical": [
+        "Supply chain technology"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/auto-sa",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/626834d533ea2400085bbd3d/original/autobia_Logo.png",
+      "program_names": [
+        "The Riyadh Techstars Accelerator"
+      ],
+      "program_slugs": [
+        "riyadh"
+      ],
+      "twitter_url": "twitter.com/autobia_sa",
+      "updated_at": 1782900627,
+      "website": "auto.sa",
+      "website_order": 324,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -548,7 +608,7 @@
         "METRO Retail Accelerator powered by Techstars"
       ],
       "twitter_url": "twitter.com/wholesurplus",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wholesurplus.com",
       "website_order": 332,
       "worldregion": "Middle East",
@@ -608,9 +668,9 @@
         "METRO Retail Accelerator powered by Techstars"
       ],
       "twitter_url": "twitter.com/oriient_me",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "oriient.me",
-      "website_order": 372,
+      "website_order": 373,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -666,9 +726,9 @@
         "Techstars Hub71 Accelerator"
       ],
       "twitter_url": "twitter.com/aumet_me",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "aumet.me",
-      "website_order": 374,
+      "website_order": 375,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -724,9 +784,9 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/SafeHouseTech",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "safehousetech.com",
-      "website_order": 386,
+      "website_order": 387,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -793,9 +853,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "validit.ai",
-      "website_order": 512,
+      "website_order": 517,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -850,9 +910,9 @@
         "Alexa Accelerator, Powered by Techstars"
       ],
       "twitter_url": "twitter.com/Voice_Itt",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "voiceitt.com",
-      "website_order": 516,
+      "website_order": 520,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -917,9 +977,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "i-brain.tech",
-      "website_order": 520,
+      "website_order": 524,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -973,9 +1033,9 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/LeoChiefOfStuff",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "meetleo.co",
-      "website_order": 532,
+      "website_order": 536,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1036,9 +1096,9 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/inthegameapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "inthegame.io",
-      "website_order": 554,
+      "website_order": 559,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1094,9 +1154,9 @@
         "Techstars Dubai Accelerator in Partnership with GINCO"
       ],
       "twitter_url": "twitter.com/TPSEngage",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "seeblindspot.com",
-      "website_order": 573,
+      "website_order": 575,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1150,9 +1210,9 @@
       "program_names": [
         "Eastern Pacific Accelerator Powered by Techstars"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "captain-eye.com",
-      "website_order": 580,
+      "website_order": 582,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1209,9 +1269,9 @@
       "program_slugs": [
         "nyc"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kimba.ai",
-      "website_order": 647,
+      "website_order": 650,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1269,9 +1329,9 @@
         "Techstars Dubai Accelerator in Partnership with GINCO"
       ],
       "twitter_url": "twitter.com/claradotco",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "clara.co",
-      "website_order": 660,
+      "website_order": 663,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1323,9 +1383,9 @@
       "program_names": [
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wenspiredata.com",
-      "website_order": 715,
+      "website_order": 717,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1378,9 +1438,9 @@
       "program_names": [
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "feezback.com",
-      "website_order": 716,
+      "website_order": 718,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1437,9 +1497,9 @@
       "program_names": [
         "METRO Accelerator for Hospitality powered by Techstars"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "easyway.ai",
-      "website_order": 719,
+      "website_order": 721,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1500,9 +1560,9 @@
         "riyadh"
       ],
       "twitter_url": "twitter.com/GagaApp_",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gaga-app.com",
-      "website_order": 812,
+      "website_order": 815,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1564,9 +1624,9 @@
         "Comcast NBCUniversal LIFT Labs Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/zooghq",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getzoog.com",
-      "website_order": 879,
+      "website_order": 883,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1625,9 +1685,9 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/Maya_HuberHR",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tatio.io",
-      "website_order": 899,
+      "website_order": 903,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1687,9 +1747,9 @@
         "Barclays Accelerator, Powered by Techstars - Cape Town"
       ],
       "twitter_url": "twitter.com/Avenews_gt",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "avenews-gt.com",
-      "website_order": 910,
+      "website_order": 915,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1756,9 +1816,9 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/agadolive",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "agadolive.com",
-      "website_order": 931,
+      "website_order": 936,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1827,9 +1887,9 @@
         "dc-jp-morgan"
       ],
       "twitter_url": "twitter.com/righthearapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "right-hear.com",
-      "website_order": 939,
+      "website_order": 944,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1889,9 +1949,9 @@
       "program_slugs": [
         "atlanta-cox"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cemento.ai",
-      "website_order": 1059,
+      "website_order": 1063,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1946,9 +2006,9 @@
         "Techstars Paris Accelerator"
       ],
       "twitter_url": "twitter.com/albert_health",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "albert.health",
-      "website_order": 1067,
+      "website_order": 1071,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2009,9 +2069,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "insure.tax",
-      "website_order": 1109,
+      "website_order": 1112,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2074,9 +2134,9 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/Replacefund",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "renewableenergy.place",
-      "website_order": 1121,
+      "website_order": 1125,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2136,9 +2196,9 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/Claro_AI",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "claroai.com",
-      "website_order": 1183,
+      "website_order": 1187,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2199,9 +2259,9 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/BridgifyTravel",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bridgify.io",
-      "website_order": 1204,
+      "website_order": 1297,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2257,9 +2317,9 @@
         "Techstars Dubai Accelerator in Partnership with GINCO"
       ],
       "twitter_url": "twitter.com/Nestrom",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nestrom.com",
-      "website_order": 1313,
+      "website_order": 1319,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2317,9 +2377,9 @@
       "program_slugs": [
         "industries-of-the-future"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "digrobotics.com",
-      "website_order": 1313,
+      "website_order": 1319,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2379,9 +2439,9 @@
         "abn-amro-techstars-future-of-finance-accelerator"
       ],
       "state_province": "Tel Aviv",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bettercharge.ai",
-      "website_order": 1452,
+      "website_order": 1457,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2435,9 +2495,9 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/Cyber_DriveWare",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cyberdriveware.com",
-      "website_order": 1469,
+      "website_order": 1474,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2498,9 +2558,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "snapland.ai",
-      "website_order": 1510,
+      "website_order": 1515,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2558,9 +2618,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "raddcontent.com",
-      "website_order": 1510,
+      "website_order": 1515,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2618,9 +2678,9 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tutoit.io",
-      "website_order": 1510,
+      "website_order": 1515,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2678,9 +2738,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "itsjuly.com",
-      "website_order": 1510,
+      "website_order": 1515,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2739,9 +2799,9 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/realGorillaLink",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gorilla.link",
-      "website_order": 1510,
+      "website_order": 1515,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2797,9 +2857,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "immagnify.com",
-      "website_order": 1526,
+      "website_order": 1530,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2859,9 +2919,9 @@
       ],
       "state_province": "Haifa",
       "twitter_url": "twitter.com/@renn_women",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getrenn.com",
-      "website_order": 1527,
+      "website_order": 1531,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2920,9 +2980,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "data-lagoon.com",
-      "website_order": 1535,
+      "website_order": 1539,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2988,9 +3048,9 @@
         "future-of-food"
       ],
       "state_province": "Dubai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "openfarming.earth",
-      "website_order": 1545,
+      "website_order": 1549,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3058,9 +3118,9 @@
         "permanente-medicine"
       ],
       "state_province": "Central District",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trackimed.com",
-      "website_order": 1616,
+      "website_order": 1621,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3123,9 +3183,9 @@
       "program_slugs": [
         "riyadh"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sthrive.com",
-      "website_order": 1639,
+      "website_order": 1643,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3183,9 +3243,9 @@
       "program_slugs": [
         "riyadh"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "thesecretskin.com",
-      "website_order": 1639,
+      "website_order": 1643,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3246,9 +3306,9 @@
       "program_slugs": [
         "riyadh"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "permi.tech",
-      "website_order": 1639,
+      "website_order": 1643,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3309,9 +3369,9 @@
         "riyadh"
       ],
       "twitter_url": "twitter.com/ithnainofficial",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ithnain.com",
-      "website_order": 1639,
+      "website_order": 1643,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3370,9 +3430,9 @@
       "program_slugs": [
         "riyadh"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "amplifaihealth.com",
-      "website_order": 1639,
+      "website_order": 1643,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3430,9 +3490,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "senseit360.com",
-      "website_order": 1654,
+      "website_order": 1658,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3489,9 +3549,9 @@
       "program_names": [
         "Eastern Pacific Accelerator Powered by Techstars"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "marine-edge.com",
-      "website_order": 1680,
+      "website_order": 1684,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3549,9 +3609,9 @@
       "program_slugs": [
         "nyc-jp-morgan"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "predictive.vision",
-      "website_order": 1774,
+      "website_order": 1778,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3612,9 +3672,9 @@
         "nyc"
       ],
       "state_province": "Dubai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "smart-bricks.com",
-      "website_order": 1809,
+      "website_order": 1813,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3673,9 +3733,9 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/zoftwarehub",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "zoftwarehub.com",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3727,9 +3787,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "yow-hr.com",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3786,9 +3846,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "storywise.ai",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3845,9 +3905,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "shoook.io",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3904,9 +3964,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "propin.ai",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3967,9 +4027,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "noledgeloss.com",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4030,9 +4090,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nayamwings.com",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4085,9 +4145,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "merrypopin.com",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4150,9 +4210,9 @@
       "program_slugs": [
         "indy-sports"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mybodypro.fit",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4208,9 +4268,9 @@
         "Rakuten Accelerator, Powered by Techstars"
       ],
       "twitter_url": "twitter.com/GroovyAntoid",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "groovyantoid.com",
-      "website_order": 1944,
+      "website_order": 1949,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4273,9 +4333,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/razfintech",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "razfinance.io",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4337,9 +4397,9 @@
         "miami-jp-morgan"
       ],
       "twitter_url": "twitter.com/fortyguard",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "fortyguard.com",
-      "website_order": 2032,
+      "website_order": 2036,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4398,9 +4458,9 @@
         "Techstars Lisbon in Partnership with Semapa Next"
       ],
       "twitter_url": "twitter.com/QseeIO",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "qsee.io",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4457,9 +4517,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "synergym.ai",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4517,9 +4577,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "provengo.tech",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4580,9 +4640,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "intelis.ai",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4641,9 +4701,9 @@
         "chicago"
       ],
       "twitter_url": "twitter.com/Brocali4",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "brocali.io",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4699,9 +4759,9 @@
       "program_names": [
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "madaanalytics.com",
-      "website_order": 2320,
+      "website_order": 2322,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4758,9 +4818,9 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/We don't have a website. The link above is to our presentation. We didn't want to miss the registration deadline today.",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "listfunding.com",
-      "website_order": 2320,
+      "website_order": 2322,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4816,9 +4876,9 @@
       "program_slugs": [
         "economic-mobility-samvid-ventures"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "workrz.net",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4876,9 +4936,9 @@
       "program_slugs": [
         "nyc"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "huntr.app",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4936,9 +4996,9 @@
       "program_slugs": [
         "nyc"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "boosstme.com",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -4996,9 +5056,9 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/OptionSamurai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "optionsamurai.com",
-      "website_order": 2382,
+      "website_order": 2384,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -5064,9 +5124,9 @@
       "program_names": [
         "Stockholm Techstars Accelerator"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "maygia.com",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -5130,7 +5190,7 @@
         "tel-aviv"
       ],
       "state_province": "Tel Aviv",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "soltrex.io",
       "website_order": 2637,
       "worldregion": "Middle East",
@@ -5209,7 +5269,7 @@
       ],
       "state_province": "Istanbul",
       "twitter_url": "twitter.com/Pardon_tr",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pardon-app.com",
       "website_order": 2637,
       "worldregion": "Middle East",
@@ -5279,7 +5339,7 @@
         "tel-aviv"
       ],
       "state_province": "Northern District",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "firewave.earth",
       "website_order": 2637,
       "worldregion": "Middle East",
@@ -5344,7 +5404,7 @@
         "tel-aviv"
       ],
       "state_province": "Tel Aviv",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "edenmaterials.io",
       "website_order": 2637,
       "worldregion": "Middle East",
@@ -5408,7 +5468,7 @@
       "program_slugs": [
         "tech-central-sydney-nsw"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "dogbase.co",
       "website_order": 2637,
       "worldregion": "Middle East",
@@ -5479,7 +5539,7 @@
       ],
       "state_province": "Haifa",
       "twitter_url": "twitter.com/DOConvert",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "doconvert.co",
       "website_order": 2637,
       "worldregion": "Middle East",
@@ -5546,7 +5606,7 @@
         "tel-aviv"
       ],
       "state_province": "Tel Aviv",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "caesarealabs.com",
       "website_order": 2637,
       "worldregion": "Middle East",
@@ -5612,7 +5672,7 @@
         "london-polygon"
       ],
       "twitter_url": "twitter.com/aware_labs",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "awarelabs.xyz",
       "website_order": 2637,
       "worldregion": "Middle East",
@@ -5669,9 +5729,9 @@
         "Techstars Hub71 Accelerator"
       ],
       "twitter_url": "twitter.com/sensgreen",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sensgreen.com",
-      "website_order": 2724,
+      "website_order": 2723,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -5732,9 +5792,9 @@
       "program_slugs": [
         "indy-sports"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "senswim.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -5800,9 +5860,9 @@
       "program_slugs": [
         "seattle"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "oversight-ar.com",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -5860,9 +5920,9 @@
         "atlanta-jp-morgan"
       ],
       "twitter_url": "twitter.com/branda_ai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "branda.ai",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -5920,9 +5980,9 @@
         "transformative-world-torino"
       ],
       "twitter_url": "twitter.com/CrispifyIo",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "crispify.io",
-      "website_order": 3267,
+      "website_order": 3264,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -5984,9 +6044,9 @@
         "chicago"
       ],
       "twitter_url": "twitter.com/AeViewit",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "viewit.ae",
-      "website_order": 3486,
+      "website_order": 3484,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6058,9 +6118,9 @@
       ],
       "state_province": "Dubai",
       "twitter_url": "twitter.com/AiDodocs11493",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "dodocs.ai",
-      "website_order": 3589,
+      "website_order": 3587,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6119,9 +6179,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "yieldx.biz",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6185,9 +6245,9 @@
         "riyadh"
       ],
       "twitter_url": "twitter.com/torodco",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "torod.co",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6240,9 +6300,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "renbizz.com",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6301,9 +6361,9 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/Ovvio_io",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ovvio.io",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6361,9 +6421,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "optimusq.com",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6422,9 +6482,9 @@
         "riyadh"
       ],
       "twitter_url": "twitter.com/medicalonex",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "medicalonex.com",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6482,9 +6542,9 @@
       "program_slugs": [
         "riyadh"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "meattodoor.ae",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6543,9 +6603,9 @@
         "riyadh"
       ],
       "twitter_url": "twitter.com/getjalebi",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "jalebi.io",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6606,9 +6666,9 @@
         "riyadh"
       ],
       "twitter_url": "twitter.com/glameraegy",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "business.glamera.com",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6669,9 +6729,9 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/ezcheckme",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ezcheck.me",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6731,9 +6791,9 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "eyeknow.ai",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6791,69 +6851,9 @@
       "program_slugs": [
         "riyadh"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "dawafast.com",
-      "website_order": 3723,
-      "worldregion": "Middle East",
-      "worldsubregion": "Middle East"
-    }
-  },
-  {
-    "name": "Autobia",
-    "description": "B2B marketplace leveraging the data to solve the infrastructure & after-sales challenges in the automotive industry",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/626834d533ea2400085bbd3d/original/autobia_Logo.png",
-    "website": "https://auto.sa",
-    "location": "Dhahran, Saudi Arabia",
-    "region": "Middle East",
-    "subregion": "Middle East",
-    "tags": [
-      "Supply chain technology"
-    ],
-    "year": 2021,
-    "program": "The Riyadh Techstars Accelerator",
-    "programSlugs": [
-      "riyadh"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/auto-sa",
-      "twitter": "https://twitter.com/autobia_sa",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/autobia"
-    },
-    "extra": {
-      "brief_description": "B2B marketplace leveraging the data to solve the infrastructure & after-sales challenges in the automotive industry",
-      "city": "Dhahran",
-      "company_id": "151ada2d-56bb-39ed-ad4d-207af8250546",
-      "company_name": "Autobia",
-      "country": "Saudi Arabia",
-      "crunchbase_url": "crunchbase.com/organization/autobia",
-      "first_session_year": 2021,
-      "first_session_year_s": "2021",
-      "id": "151ada2d-56bb-39ed-ad4d-207af8250546",
-      "industry_vertical": [
-        "Supply chain technology"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/auto-sa",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/626834d533ea2400085bbd3d/original/autobia_Logo.png",
-      "program_names": [
-        "The Riyadh Techstars Accelerator"
-      ],
-      "program_slugs": [
-        "riyadh"
-      ],
-      "twitter_url": "twitter.com/autobia_sa",
-      "updated_at": 1782813621,
-      "website": "auto.sa",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6908,9 +6908,9 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/INVioUplatform",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "inviou.com",
-      "website_order": 3878,
+      "website_order": 3872,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -6963,9 +6963,9 @@
       "program_names": [
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "corrbi.com",
-      "website_order": 3900,
+      "website_order": 3894,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7025,9 +7025,9 @@
       "program_slugs": [
         "berlin"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cassiopeia.tech",
-      "website_order": 3958,
+      "website_order": 3952,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7081,8 +7081,8 @@
         "Techstars Dubai Accelerator in Partnership with GINCO"
       ],
       "twitter_url": "twitter.com/hiyacob",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7138,8 +7138,8 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/Wisor_io",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7193,8 +7193,8 @@
         "New York Barclays Accelerator, powered by Techstars"
       ],
       "twitter_url": "twitter.com/iwayerz",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7254,8 +7254,8 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7313,8 +7313,8 @@
       "program_slugs": [
         "transformative-world-torino"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7367,8 +7367,8 @@
       "program_names": [
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7420,8 +7420,8 @@
       "program_names": [
         "Techstars Detroit Accelerator"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7475,8 +7475,8 @@
         "Techstars Dubai Accelerator in Partnership with GINCO"
       ],
       "twitter_url": "twitter.com/solukicom",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7530,8 +7530,8 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/SlidePiper",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7594,8 +7594,8 @@
         "london"
       ],
       "twitter_url": "twitter.com/",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7647,8 +7647,8 @@
       "program_names": [
         "Eastern Pacific Accelerator Powered by Techstars"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7712,8 +7712,8 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7769,8 +7769,8 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/robinhoodapp",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7826,8 +7826,8 @@
         "New York Barclays Accelerator, powered by Techstars"
       ],
       "twitter_url": "twitter.com/qantaAI",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7884,8 +7884,8 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7944,8 +7944,8 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -7999,8 +7999,8 @@
         "Sprint Accelerator, powered by Techstars"
       ],
       "twitter_url": "twitter.com/oxieco",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8056,8 +8056,8 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/TheOwnerhood",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8115,8 +8115,8 @@
       "program_slugs": [
         "nyc"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8170,8 +8170,8 @@
         "METRO Retail Accelerator powered by Techstars"
       ],
       "twitter_url": "twitter.com/NeuroApplied",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8232,8 +8232,8 @@
         "stanley"
       ],
       "twitter_url": "twitter.com/Micron3DP",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8289,8 +8289,8 @@
         "BSH Future Home Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/MagichoApp",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8351,8 +8351,8 @@
       "program_slugs": [
         "seattle"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8412,8 +8412,8 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8471,8 +8471,8 @@
         "chicago"
       ],
       "twitter_url": "twitter.com/meetkai",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8527,8 +8527,8 @@
         "METRO Accelerator for Hospitality powered by Techstars"
       ],
       "twitter_url": "twitter.com/jagger_ai",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8589,8 +8589,8 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8642,8 +8642,8 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8701,8 +8701,8 @@
         "Techstars Dubai Accelerator in Partnership with GINCO"
       ],
       "twitter_url": "twitter.com/felix_insure",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8756,8 +8756,8 @@
         "Techstars Cloud"
       ],
       "twitter_url": "twitter.com/elasticode",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8818,8 +8818,8 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/DodoSmart_",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8878,8 +8878,8 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8938,8 +8938,8 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -8997,8 +8997,8 @@
         "Techstars Detroit Accelerator"
       ],
       "twitter_url": "twitter.com/cycuro",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -9058,8 +9058,8 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/Crowdsenseai",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -9112,8 +9112,8 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/Cred_Invest",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -9178,8 +9178,8 @@
         "stanley"
       ],
       "twitter_url": "twitter.com/Castor86786352",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -9234,8 +9234,8 @@
       "program_names": [
         "Techstars Dubai Accelerator in Partnership with GINCO"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -9296,8 +9296,8 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -9359,8 +9359,8 @@
         "berlin"
       ],
       "twitter_url": "twitter.com/platfarm",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -9415,8 +9415,8 @@
         "Barclays Accelerator, Powered by Techstars - Tel Aviv"
       ],
       "twitter_url": "twitter.com/algosave_RS",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -9481,8 +9481,8 @@
         "tel-aviv"
       ],
       "twitter_url": "twitter.com/AlboClimate",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -9541,8 +9541,8 @@
       "program_slugs": [
         "tel-aviv"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -9595,9 +9595,9 @@
       "program_slugs": [
         "riyadh"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "weflawless.co",
-      "website_order": 5093,
+      "website_order": 5094,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -9650,9 +9650,9 @@
       "program_slugs": [
         "riyadh"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "almakhfi.com",
-      "website_order": 5093,
+      "website_order": 5094,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }

@@ -57,7 +57,7 @@
       ],
       "state_province": "Queensland",
       "twitter_url": "twitter.com/popgunlabs",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "splashmusic.com",
       "website_order": 173,
       "worldregion": "Oceania",
@@ -119,9 +119,9 @@
       ],
       "state_province": "Victoria",
       "twitter_url": "twitter.com/EsperSats",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "espersatellites.co",
-      "website_order": 510,
+      "website_order": 515,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -185,9 +185,73 @@
       ],
       "state_province": "Queensland",
       "twitter_url": "twitter.com/replica_ai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "replicastudios.com",
-      "website_order": 645,
+      "website_order": 648,
+      "worldregion": "Oceania",
+      "worldsubregion": "Oceania"
+    }
+  },
+  {
+    "name": "VXB Aerospace",
+    "description": "Breakthrough space systems enhanced by evolutionary AI.",
+    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/mmnubfjtuhozf6xtn5rq",
+    "website": "https://vxbaerospace.com",
+    "location": "Eveleigh, New South Wales, Australia",
+    "region": "Oceania",
+    "subregion": "Oceania",
+    "tags": [
+      "3D printing",
+      "Artificial intelligence and machine learning",
+      "Space tech"
+    ],
+    "year": 2024,
+    "program": "Techstars Space Accelerator",
+    "programSlugs": [
+      "space"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/vxb-aerospace",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/vxb-aerospace"
+    },
+    "extra": {
+      "brief_description": "Breakthrough space systems enhanced by evolutionary AI.",
+      "city": "Eveleigh",
+      "company_id": "5f57053b-99b9-4412-ac1a-4636c0e3c722",
+      "company_name": "VXB Aerospace",
+      "country": "Australia",
+      "crunchbase_url": "crunchbase.com/organization/vxb-aerospace",
+      "first_session_year": 2024,
+      "first_session_year_s": "2024",
+      "id": "5f57053b-99b9-4412-ac1a-4636c0e3c722",
+      "industry_vertical": [
+        "3D printing",
+        "Artificial intelligence and machine learning",
+        "Space tech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/vxb-aerospace",
+      "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mmnubfjtuhozf6xtn5rq",
+      "program_names": [
+        "Techstars Space Accelerator"
+      ],
+      "program_slugs": [
+        "space"
+      ],
+      "state_province": "New South Wales",
+      "updated_at": 1782900627,
+      "website": "vxbaerospace.com",
+      "website_order": 657,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -245,9 +309,9 @@
       "program_names": [
         "Eastern Pacific Accelerator Powered by Techstars"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mushroommaterial.com",
-      "website_order": 673,
+      "website_order": 675,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -300,9 +364,9 @@
         "Techstars Adelaide"
       ],
       "twitter_url": "twitter.com/dottereluav",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "dotterel.co.nz",
-      "website_order": 681,
+      "website_order": 683,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -369,9 +433,9 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/tagSpaceCo",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tagspace.com",
-      "website_order": 884,
+      "website_order": 888,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -433,9 +497,9 @@
         "techstars-ecommerce-powered-by-ebay"
       ],
       "state_province": "Victoria",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "okkular.io",
-      "website_order": 1056,
+      "website_order": 1060,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -490,9 +554,9 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/tenxpro",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tenxpro.com",
-      "website_order": 1143,
+      "website_order": 1146,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -552,9 +616,9 @@
         "tech-central-sydney-nsw"
       ],
       "twitter_url": "twitter.com/shutterspeed",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "shutterspeed.io",
-      "website_order": 1186,
+      "website_order": 1190,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -608,9 +672,9 @@
       ],
       "state_province": "South Australia",
       "twitter_url": "twitter.com/DaitumAnalytics",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "daitum.com",
-      "website_order": 1193,
+      "website_order": 1197,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -663,9 +727,9 @@
         "Techstars Korea Accelerator"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bountifarm.com",
-      "website_order": 1194,
+      "website_order": 1198,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -724,9 +788,9 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/CancerAid_app",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "canceraid.com",
-      "website_order": 1220,
+      "website_order": 1224,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -783,9 +847,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nevamcx.com",
-      "website_order": 1242,
+      "website_order": 1246,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -842,9 +906,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "essentialshift.co",
-      "website_order": 1270,
+      "website_order": 1275,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -908,9 +972,9 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/ANT61COM",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ant61.com",
-      "website_order": 1298,
+      "website_order": 1304,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -970,9 +1034,9 @@
       ],
       "state_province": "Queensland",
       "twitter_url": "twitter.com/gosavers",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gosavehq.com",
-      "website_order": 1352,
+      "website_order": 1358,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1031,9 +1095,9 @@
       ],
       "state_province": "Victoria",
       "twitter_url": "twitter.com/getduck_io",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getduck.io",
-      "website_order": 1632,
+      "website_order": 1636,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1098,9 +1162,9 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/NicslabOfficial",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nicslab.com",
-      "website_order": 1656,
+      "website_order": 1660,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1155,9 +1219,9 @@
       ],
       "state_province": "South Australia",
       "twitter_url": "twitter.com/teamgage",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "teamgage.com",
-      "website_order": 1805,
+      "website_order": 1809,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1225,9 +1289,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Queensland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "xillions.ai",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1290,9 +1354,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vetnotes.com",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1346,9 +1410,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Queensland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "surflab.ai",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1411,9 +1475,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Auckland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "slicetobuy.com",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1480,9 +1544,9 @@
       ],
       "state_province": "Victoria",
       "twitter_url": "twitter.com/@ourlegup",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ourlegup.com",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1542,9 +1606,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "onsite.fm",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1610,9 +1674,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Victoria",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "oncorevive.com",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1675,9 +1739,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "museai.au",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1739,9 +1803,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "juxtabyte.com",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1807,9 +1871,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Victoria",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "crystalaos.com",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1870,9 +1934,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "briefcase.technology",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -1927,9 +1991,9 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/yellowbox_au",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "yellowbox.app",
-      "website_order": 1917,
+      "website_order": 1922,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -2000,9 +2064,9 @@
       ],
       "state_province": "Victoria",
       "twitter_url": "twitter.com/NeedEnergyzw",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "needenergy.io",
-      "website_order": 1954,
+      "website_order": 1959,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -2055,9 +2119,9 @@
         "Techstars San Francisco"
       ],
       "state_province": "Victoria",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "noeticdigital.info",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -2117,9 +2181,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "visuopro.com",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -2184,9 +2248,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Victoria",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "jaimee.ai",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -2248,9 +2312,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Queensland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "heatseeker.ai",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -2313,9 +2377,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "joingroopie.com",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -2373,9 +2437,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gether.life",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -2434,9 +2498,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Queensland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "earthletica.com",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -2493,9 +2557,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Bay of Plenty",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "disputebuddy.co",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -2560,73 +2624,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "capyble.com",
-      "website_order": 2322,
-      "worldregion": "Oceania",
-      "worldsubregion": "Oceania"
-    }
-  },
-  {
-    "name": "VXB Aerospace",
-    "description": "Breakthrough space systems enhanced by evolutionary AI.",
-    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/mmnubfjtuhozf6xtn5rq",
-    "website": "https://vxbaerospace.com",
-    "location": "Eveleigh, New South Wales, Australia",
-    "region": "Oceania",
-    "subregion": "Oceania",
-    "tags": [
-      "3D printing",
-      "Artificial intelligence and machine learning",
-      "Space tech"
-    ],
-    "year": 2024,
-    "program": "Techstars Space Accelerator",
-    "programSlugs": [
-      "space"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/vxb-aerospace",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/vxb-aerospace"
-    },
-    "extra": {
-      "brief_description": "Breakthrough space systems enhanced by evolutionary AI.",
-      "city": "Eveleigh",
-      "company_id": "5f57053b-99b9-4412-ac1a-4636c0e3c722",
-      "company_name": "VXB Aerospace",
-      "country": "Australia",
-      "crunchbase_url": "crunchbase.com/organization/vxb-aerospace",
-      "first_session_year": 2024,
-      "first_session_year_s": "2024",
-      "id": "5f57053b-99b9-4412-ac1a-4636c0e3c722",
-      "industry_vertical": [
-        "3D printing",
-        "Artificial intelligence and machine learning",
-        "Space tech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/vxb-aerospace",
-      "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mmnubfjtuhozf6xtn5rq",
-      "program_names": [
-        "Techstars Space Accelerator"
-      ],
-      "program_slugs": [
-        "space"
-      ],
-      "state_province": "New South Wales",
-      "updated_at": 1782813621,
-      "website": "vxbaerospace.com",
-      "website_order": 2392,
+      "website_order": 2324,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -2686,9 +2686,9 @@
         "space"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "spiralblue.space",
-      "website_order": 2392,
+      "website_order": 2394,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -2744,9 +2744,9 @@
         "Launchpool Web3 Techstars Accelerator"
       ],
       "twitter_url": "twitter.com/YourDiamondsCom",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "yourdiamonds.com",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -2804,7 +2804,7 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "violet.org.au",
       "website_order": 2637,
       "worldregion": "Oceania",
@@ -2865,7 +2865,7 @@
       ],
       "state_province": "Victoria",
       "twitter_url": "twitter.com/seenculture",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "seenculture.com",
       "website_order": 2637,
       "worldregion": "Oceania",
@@ -2926,7 +2926,7 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getpico.co",
       "website_order": 2637,
       "worldregion": "Oceania",
@@ -2986,7 +2986,7 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "South Australia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "out-read.com",
       "website_order": 2637,
       "worldregion": "Oceania",
@@ -3048,7 +3048,7 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "latentknowledge.co",
       "website_order": 2637,
       "worldregion": "Oceania",
@@ -3110,7 +3110,7 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "larki.au",
       "website_order": 2637,
       "worldregion": "Oceania",
@@ -3173,7 +3173,7 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "Victoria",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kyricycles.co",
       "website_order": 2637,
       "worldregion": "Oceania",
@@ -3235,7 +3235,7 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/geckorent",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gecko.rent",
       "website_order": 2637,
       "worldregion": "Oceania",
@@ -3295,9 +3295,9 @@
       ],
       "state_province": "Victoria",
       "twitter_url": "twitter.com/NIMISCyber",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nimis.ai",
-      "website_order": 3152,
+      "website_order": 3150,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -3358,9 +3358,9 @@
       ],
       "state_province": "Victoria",
       "twitter_url": "twitter.com/getarete",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "fitmind.app",
-      "website_order": 3280,
+      "website_order": 3277,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -3420,9 +3420,9 @@
         "boston"
       ],
       "state_province": "Victoria",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tucannmedical.co",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -3485,9 +3485,9 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "musaventures.com",
-      "website_order": 3420,
+      "website_order": 3418,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -3544,9 +3544,9 @@
       ],
       "state_province": "South Australia",
       "twitter_url": "twitter.com/voxonphotonics",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "voxon.co",
-      "website_order": 3723,
+      "website_order": 3722,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -3605,8 +3605,8 @@
       ],
       "state_province": "Queensland",
       "twitter_url": "twitter.com/VAUXai",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -3668,8 +3668,8 @@
       ],
       "state_province": "Queensland",
       "twitter_url": "twitter.com/uuvipak",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -3727,8 +3727,8 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/some_place",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -3788,8 +3788,8 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/senscity_",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -3854,8 +3854,8 @@
       ],
       "state_province": "Queensland",
       "twitter_url": "twitter.com/realarspaces",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -3912,8 +3912,8 @@
       ],
       "state_province": "Queensland",
       "twitter_url": "twitter.com/paraspacevr",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -3968,8 +3968,8 @@
       ],
       "state_province": "Victoria",
       "twitter_url": "twitter.com/pantreeco",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -4023,8 +4023,8 @@
       ],
       "state_province": "South Australia",
       "twitter_url": "twitter.com/MyskyAdelaide",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -4094,8 +4094,8 @@
         "boston"
       ],
       "twitter_url": "twitter.com/Marli_Tech",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -4151,8 +4151,8 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -4206,8 +4206,8 @@
       ],
       "state_province": "South Australia",
       "twitter_url": "twitter.com/IRSensors",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -4263,8 +4263,8 @@
         "Techstars Adelaide"
       ],
       "twitter_url": "twitter.com/iridiumdynamics",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -4324,8 +4324,8 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/gotradie",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -4382,8 +4382,8 @@
       ],
       "state_province": "New South Wales",
       "twitter_url": "twitter.com/elanationapp",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -4442,8 +4442,8 @@
       ],
       "state_province": "Queensland",
       "twitter_url": "twitter.com/deltalabsai",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -4502,8 +4502,8 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }

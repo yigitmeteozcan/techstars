@@ -49,7 +49,7 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/mathpixapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "mathpix.com",
       "website_order": 83,
       "worldregion": "Americas",
@@ -109,7 +109,7 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/GreeneyeAg",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "greeneye.ag",
       "website_order": 122,
       "worldregion": "Middle East",
@@ -168,7 +168,7 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/nixtlainc",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nixtla.io",
       "website_order": 146,
       "worldregion": "Americas",
@@ -229,186 +229,9 @@
       ],
       "state_province": "Quebec",
       "twitter_url": "twitter.com/valence_ai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "valencediscovery.com",
       "website_order": 291,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "Alexsei",
-    "description": "Provides precise answers to complex legal questions for lawyers, and is building the first fully autonomous lawyer for legal research.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5bf815cba36c112315000005/original/LinkedIn_logo.png",
-    "website": "https://alexi.com",
-    "location": "Toronto, Ontario, Canada",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning"
-    ],
-    "year": 2018,
-    "program": "Techstars Montréal AI Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/24769364",
-      "twitter": "https://twitter.com/AlexseiLaw",
-      "facebook": "https://facebook.com/AlexseiInc",
-      "crunchbase": "https://crunchbase.com/organization/alexsei"
-    },
-    "extra": {
-      "brief_description": "Provides precise answers to complex legal questions for lawyers, and is building the first fully autonomous lawyer for legal research.",
-      "city": "Toronto",
-      "company_id": "194b6bac-d10b-4c84-8109-032b7f090681",
-      "company_name": "Alexsei",
-      "country": "Canada",
-      "crunchbase_url": "crunchbase.com/organization/alexsei",
-      "facebook_url": "facebook.com/AlexseiInc",
-      "first_session_year": 2018,
-      "first_session_year_s": "2018",
-      "id": "194b6bac-d10b-4c84-8109-032b7f090681",
-      "industry_vertical": [
-        "Artificial intelligence and machine learning"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/24769364",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/5bf815cba36c112315000005/original/LinkedIn_logo.png",
-      "program_names": [
-        "Techstars Montréal AI Accelerator"
-      ],
-      "state_province": "Ontario",
-      "twitter_url": "twitter.com/AlexseiLaw",
-      "updated_at": 1782813621,
-      "website": "alexi.com",
-      "website_order": 406,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "Eli",
-    "description": "Eli enables women to take control of their health across their lives, by providing them with their daily hormone profile.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/61f198d4e838a39eb60e0c1c/original/eli_logo.png",
-    "website": "https://eli.health",
-    "location": "Montréal, Quebec, Canada",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Femtech",
-      "Mobile"
-    ],
-    "year": 2019,
-    "program": "Techstars Montréal AI Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/elihealth",
-      "twitter": "https://twitter.com/elidothealth",
-      "facebook": "https://facebook.com/elidothealth/",
-      "crunchbase": "https://crunchbase.com/organization/eli"
-    },
-    "extra": {
-      "brief_description": "Eli enables women to take control of their health across their lives, by providing them with their daily hormone profile.",
-      "city": "Montréal",
-      "company_id": "623e7708-8daa-434e-b39f-24f594275c40",
-      "company_name": "Eli",
-      "country": "Canada",
-      "crunchbase_url": "crunchbase.com/organization/eli",
-      "facebook_url": "facebook.com/elidothealth/",
-      "first_session_year": 2019,
-      "first_session_year_s": "2019",
-      "id": "623e7708-8daa-434e-b39f-24f594275c40",
-      "industry_vertical": [
-        "Artificial intelligence and machine learning",
-        "Femtech",
-        "Mobile"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/elihealth",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/61f198d4e838a39eb60e0c1c/original/eli_logo.png",
-      "program_names": [
-        "Techstars Montréal AI Accelerator"
-      ],
-      "state_province": "Quebec",
-      "twitter_url": "twitter.com/elidothealth",
-      "updated_at": 1782813621,
-      "website": "eli.health",
-      "website_order": 409,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "ReelData AI",
-    "description": "AI for aquaculture. Delivers real time weight distributions, feeding analysis, health analysis and growth analysis",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5de54c9fa36c11772c000021/original/ReelDatLogo7black2.png",
-    "website": "https://reeldata.ai",
-    "location": "Halifax, Nova Scotia, Canada",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Climate tech"
-    ],
-    "year": 2019,
-    "program": "Techstars Montréal AI Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/reeldata",
-      "twitter": "https://twitter.com/reeldataai",
-      "facebook": "https://facebook.com/ReelDataAI",
-      "crunchbase": "https://crunchbase.com/organization/reeldata-ai"
-    },
-    "extra": {
-      "brief_description": "AI for aquaculture. Delivers real time weight distributions, feeding analysis, health analysis and growth analysis",
-      "city": "Halifax",
-      "company_id": "9ebca2cd-fbe3-48fa-b118-24e47a9faf18",
-      "company_name": "ReelData AI",
-      "country": "Canada",
-      "crunchbase_url": "crunchbase.com/organization/reeldata-ai",
-      "facebook_url": "facebook.com/ReelDataAI",
-      "first_session_year": 2019,
-      "first_session_year_s": "2019",
-      "id": "9ebca2cd-fbe3-48fa-b118-24e47a9faf18",
-      "industry_vertical": [
-        "Artificial intelligence and machine learning",
-        "Climate tech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/reeldata",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/5de54c9fa36c11772c000021/original/ReelDatLogo7black2.png",
-      "program_names": [
-        "Techstars Montréal AI Accelerator"
-      ],
-      "state_province": "Nova Scotia",
-      "twitter_url": "twitter.com/reeldataai",
-      "updated_at": 1782813621,
-      "website": "reeldata.ai",
-      "website_order": 412,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -473,26 +296,25 @@
       ],
       "state_province": "New Brunswick",
       "twitter_url": "twitter.com/TrojAISec",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "troj.ai",
-      "website_order": 465,
+      "website_order": 351,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
   },
   {
-    "name": "Veesual",
-    "description": "Mix&Match Styling Experience for fashion e-commerce. Powered by Generative AI.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/6287b919cd87f60008d498a5/original/Black_bg_-_Logo_only_-_Squre.jpg",
-    "website": "",
-    "location": "Paris, France",
-    "region": "Europe",
-    "subregion": "Western Europe",
+    "name": "Alexsei",
+    "description": "Provides precise answers to complex legal questions for lawyers, and is building the first fully autonomous lawyer for legal research.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5bf815cba36c112315000005/original/LinkedIn_logo.png",
+    "website": "https://alexi.com",
+    "location": "Toronto, Ontario, Canada",
+    "region": "Americas",
+    "subregion": "North America",
     "tags": [
-      "Artificial intelligence and machine learning",
-      "Virtual reality"
+      "Artificial intelligence and machine learning"
     ],
-    "year": 2020,
+    "year": 2018,
     "program": "Techstars Montréal AI Accelerator",
     "programSlugs": [],
     "isExit": false,
@@ -500,40 +322,162 @@
     "isBCorp": false,
     "isCurrentSession": false,
     "social": {
-      "linkedin": "https://linkedin.com/company/veesual",
-      "twitter": "https://twitter.com/VeesualAI",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/veesual"
+      "linkedin": "https://linkedin.com/company/24769364",
+      "twitter": "https://twitter.com/AlexseiLaw",
+      "facebook": "https://facebook.com/AlexseiInc",
+      "crunchbase": "https://crunchbase.com/organization/alexsei"
     },
     "extra": {
-      "brief_description": "Mix&Match Styling Experience for fashion e-commerce. Powered by Generative AI.",
-      "city": "Paris",
-      "company_id": "084a4ae9-02db-4d8e-9a60-942d7010b4f4",
-      "company_name": "Veesual",
-      "country": "France",
-      "crunchbase_url": "crunchbase.com/organization/veesual",
-      "first_session_year": 2020,
-      "first_session_year_s": "2020",
-      "id": "084a4ae9-02db-4d8e-9a60-942d7010b4f4",
+      "brief_description": "Provides precise answers to complex legal questions for lawyers, and is building the first fully autonomous lawyer for legal research.",
+      "city": "Toronto",
+      "company_id": "194b6bac-d10b-4c84-8109-032b7f090681",
+      "company_name": "Alexsei",
+      "country": "Canada",
+      "crunchbase_url": "crunchbase.com/organization/alexsei",
+      "facebook_url": "facebook.com/AlexseiInc",
+      "first_session_year": 2018,
+      "first_session_year_s": "2018",
+      "id": "194b6bac-d10b-4c84-8109-032b7f090681",
       "industry_vertical": [
-        "Artificial intelligence and machine learning",
-        "Virtual reality"
+        "Artificial intelligence and machine learning"
       ],
       "is_1b": false,
       "is_accelerator_company": true,
       "is_current_session": false,
       "is_exit": false,
       "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/veesual",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/6287b919cd87f60008d498a5/original/Black_bg_-_Logo_only_-_Squre.jpg",
+      "linkedin_url": "linkedin.com/company/24769364",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/5bf815cba36c112315000005/original/LinkedIn_logo.png",
       "program_names": [
         "Techstars Montréal AI Accelerator"
       ],
-      "twitter_url": "twitter.com/VeesualAI",
-      "updated_at": 1782813621,
-      "website_order": 655,
-      "worldregion": "Europe",
-      "worldsubregion": "Western Europe"
+      "state_province": "Ontario",
+      "twitter_url": "twitter.com/AlexseiLaw",
+      "updated_at": 1782900627,
+      "website": "alexi.com",
+      "website_order": 407,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "Eli",
+    "description": "Eli enables women to take control of their health across their lives, by providing them with their daily hormone profile.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/61f198d4e838a39eb60e0c1c/original/eli_logo.png",
+    "website": "https://eli.health",
+    "location": "Montréal, Quebec, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Femtech",
+      "Mobile"
+    ],
+    "year": 2019,
+    "program": "Techstars Montréal AI Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/elihealth",
+      "twitter": "https://twitter.com/elidothealth",
+      "facebook": "https://facebook.com/elidothealth/",
+      "crunchbase": "https://crunchbase.com/organization/eli"
+    },
+    "extra": {
+      "brief_description": "Eli enables women to take control of their health across their lives, by providing them with their daily hormone profile.",
+      "city": "Montréal",
+      "company_id": "623e7708-8daa-434e-b39f-24f594275c40",
+      "company_name": "Eli",
+      "country": "Canada",
+      "crunchbase_url": "crunchbase.com/organization/eli",
+      "facebook_url": "facebook.com/elidothealth/",
+      "first_session_year": 2019,
+      "first_session_year_s": "2019",
+      "id": "623e7708-8daa-434e-b39f-24f594275c40",
+      "industry_vertical": [
+        "Artificial intelligence and machine learning",
+        "Femtech",
+        "Mobile"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/elihealth",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/61f198d4e838a39eb60e0c1c/original/eli_logo.png",
+      "program_names": [
+        "Techstars Montréal AI Accelerator"
+      ],
+      "state_province": "Quebec",
+      "twitter_url": "twitter.com/elidothealth",
+      "updated_at": 1782900627,
+      "website": "eli.health",
+      "website_order": 410,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "ReelData AI",
+    "description": "AI for aquaculture. Delivers real time weight distributions, feeding analysis, health analysis and growth analysis",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5de54c9fa36c11772c000021/original/ReelDatLogo7black2.png",
+    "website": "https://reeldata.ai",
+    "location": "Halifax, Nova Scotia, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Climate tech"
+    ],
+    "year": 2019,
+    "program": "Techstars Montréal AI Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/reeldata",
+      "twitter": "https://twitter.com/reeldataai",
+      "facebook": "https://facebook.com/ReelDataAI",
+      "crunchbase": "https://crunchbase.com/organization/reeldata-ai"
+    },
+    "extra": {
+      "brief_description": "AI for aquaculture. Delivers real time weight distributions, feeding analysis, health analysis and growth analysis",
+      "city": "Halifax",
+      "company_id": "9ebca2cd-fbe3-48fa-b118-24e47a9faf18",
+      "company_name": "ReelData AI",
+      "country": "Canada",
+      "crunchbase_url": "crunchbase.com/organization/reeldata-ai",
+      "facebook_url": "facebook.com/ReelDataAI",
+      "first_session_year": 2019,
+      "first_session_year_s": "2019",
+      "id": "9ebca2cd-fbe3-48fa-b118-24e47a9faf18",
+      "industry_vertical": [
+        "Artificial intelligence and machine learning",
+        "Climate tech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/reeldata",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/5de54c9fa36c11772c000021/original/ReelDatLogo7black2.png",
+      "program_names": [
+        "Techstars Montréal AI Accelerator"
+      ],
+      "state_province": "Nova Scotia",
+      "twitter_url": "twitter.com/reeldataai",
+      "updated_at": 1782900627,
+      "website": "reeldata.ai",
+      "website_order": 413,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
     }
   },
   {
@@ -586,9 +530,9 @@
       ],
       "state_province": "Delaware",
       "twitter_url": "twitter.com/morphlio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "morphl.ai",
-      "website_order": 730,
+      "website_order": 732,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -646,9 +590,9 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/wiseario",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wisear.io",
-      "website_order": 855,
+      "website_order": 858,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -706,9 +650,9 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/nabu_io",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nabu.io",
-      "website_order": 966,
+      "website_order": 972,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -761,9 +705,9 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/EtiqAI",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "etiq.ai",
-      "website_order": 1069,
+      "website_order": 1073,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -820,9 +764,9 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/deepflowai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "deepflow.ai",
-      "website_order": 1171,
+      "website_order": 1174,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -875,9 +819,9 @@
         "Techstars Montréal AI Accelerator"
       ],
       "state_province": "Ontario",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "neurolytixs.com",
-      "website_order": 1251,
+      "website_order": 1255,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -941,9 +885,9 @@
         "Techstars Montréal AI Accelerator"
       ],
       "state_province": "Quebec",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "injoy.bio",
-      "website_order": 1356,
+      "website_order": 1362,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1002,9 +946,9 @@
       ],
       "state_province": "Quebec",
       "twitter_url": "twitter.com/Whale_Seeker",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "whaleseeker.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1061,9 +1005,9 @@
       ],
       "state_province": "Quebec",
       "twitter_url": "twitter.com/ThermoAi",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "thermoai.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1116,9 +1060,9 @@
         "Techstars Montréal AI Accelerator"
       ],
       "state_province": "Ontario",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "syntaxiq.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1174,9 +1118,9 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/intelistyle",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "intelistyle.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1233,9 +1177,9 @@
       ],
       "state_province": "Quebec",
       "twitter_url": "twitter.com/flod_ai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "flod.ai",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1300,9 +1244,9 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/EatSleepRide",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "eatsleepride.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1357,9 +1301,9 @@
       ],
       "state_province": "Quebec",
       "twitter_url": "twitter.com/wearebridgr",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bridgr.co",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1416,9 +1360,9 @@
       ],
       "state_province": "Quebec",
       "twitter_url": "twitter.com/blaisetransit",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "blaisetransit.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1472,9 +1416,9 @@
       ],
       "state_province": "Quebec",
       "twitter_url": "twitter.com/afxmedical",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "afxmedical.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1528,9 +1472,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/ShaztraAI",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "shaztra.ai",
-      "website_order": 3566,
+      "website_order": 3564,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1591,9 +1535,9 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/Periculumdotio",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "periculum.io",
-      "website_order": 3566,
+      "website_order": 3564,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1647,9 +1591,9 @@
       ],
       "state_province": "Quebec",
       "twitter_url": "twitter.com/mia__ml",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "miamarketplace.com",
-      "website_order": 3566,
+      "website_order": 3564,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1706,9 +1650,9 @@
       "program_names": [
         "Techstars Montréal AI Accelerator"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "marionettexr.com",
-      "website_order": 3566,
+      "website_order": 3564,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -1765,9 +1709,9 @@
       ],
       "state_province": "Quebec",
       "twitter_url": "twitter.com/maketplans",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "maket.ca",
-      "website_order": 3566,
+      "website_order": 3564,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1823,9 +1767,9 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/cedience",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cedience.com",
-      "website_order": 3566,
+      "website_order": 3564,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1882,9 +1826,9 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/atlasai_co",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "atlasai.co.uk",
-      "website_order": 3566,
+      "website_order": 3564,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1940,11 +1884,67 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/YData_ai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ydata.ai",
-      "website_order": 3972,
+      "website_order": 3966,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
+    }
+  },
+  {
+    "name": "Veesual",
+    "description": "Mix&Match Styling Experience for fashion e-commerce. Powered by Generative AI.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/6287b919cd87f60008d498a5/original/Black_bg_-_Logo_only_-_Squre.jpg",
+    "website": "",
+    "location": "Paris, France",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Virtual reality"
+    ],
+    "year": 2020,
+    "program": "Techstars Montréal AI Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/veesual",
+      "twitter": "https://twitter.com/VeesualAI",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/veesual"
+    },
+    "extra": {
+      "brief_description": "Mix&Match Styling Experience for fashion e-commerce. Powered by Generative AI.",
+      "city": "Paris",
+      "company_id": "084a4ae9-02db-4d8e-9a60-942d7010b4f4",
+      "company_name": "Veesual",
+      "country": "France",
+      "crunchbase_url": "crunchbase.com/organization/veesual",
+      "first_session_year": 2020,
+      "first_session_year_s": "2020",
+      "id": "084a4ae9-02db-4d8e-9a60-942d7010b4f4",
+      "industry_vertical": [
+        "Artificial intelligence and machine learning",
+        "Virtual reality"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/veesual",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/6287b919cd87f60008d498a5/original/Black_bg_-_Logo_only_-_Squre.jpg",
+      "program_names": [
+        "Techstars Montréal AI Accelerator"
+      ],
+      "twitter_url": "twitter.com/VeesualAI",
+      "updated_at": 1782900627,
+      "website_order": 3975,
+      "worldregion": "Europe",
+      "worldsubregion": "Western Europe"
     }
   },
   {
@@ -1999,8 +1999,8 @@
       ],
       "state_province": "British Columbia",
       "twitter_url": "twitter.com/spliqs_ai",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2055,8 +2055,8 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/SpexAI",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2110,8 +2110,8 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/nopilot_ai",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Asia",
       "worldsubregion": "Southeastern Asia"
     }
@@ -2165,8 +2165,8 @@
       ],
       "state_province": "Tamil Nadu",
       "twitter_url": "twitter.com/NimbleBoxAI",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Asia",
       "worldsubregion": "Southern Asia"
     }
@@ -2220,8 +2220,8 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/LightmassD",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -2280,8 +2280,8 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/goodpeoplehouse",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2346,8 +2346,8 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/CrescendoWork",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2402,8 +2402,8 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/thatchefconnie",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }

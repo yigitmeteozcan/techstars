@@ -57,9 +57,9 @@
       "program_slugs": [
         "london-polygon"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "joinpopp.com",
-      "website_order": 709,
+      "website_order": 711,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -126,9 +126,9 @@
       ],
       "state_province": "British Columbia",
       "twitter_url": "twitter.com/WellMeAi",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wellme.ai",
-      "website_order": 1308,
+      "website_order": 1314,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -194,7 +194,7 @@
       "program_slugs": [
         "london-polygon"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getraml.com",
       "website_order": 2637,
       "worldregion": "Europe",
@@ -257,7 +257,7 @@
         "london-polygon"
       ],
       "twitter_url": "twitter.com/ musiqmesh",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "musiqmesh.com",
       "website_order": 2637,
       "worldregion": "Europe",
@@ -322,7 +322,7 @@
         "london-polygon"
       ],
       "twitter_url": "twitter.com/liquifyglobal",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "liquify.digital",
       "website_order": 2637,
       "worldregion": "Europe",
@@ -388,69 +388,8 @@
         "london-polygon"
       ],
       "state_province": "Westmeath",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "esca.finance",
-      "website_order": 2637,
-      "worldregion": "Europe",
-      "worldsubregion": "Western Europe"
-    }
-  },
-  {
-    "name": "Cryptive",
-    "description": "An insurance provider, offering Captives-as-a-Service for Web3 businesses",
-    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/b1cf38dymgenrc7jujjr",
-    "website": "",
-    "location": "London, United Kingdom",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Insurtech"
-    ],
-    "year": 2023,
-    "program": "Techstars London Powered by Polygon",
-    "programSlugs": [
-      "london-polygon"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/cryptive-io",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/cryptive-io"
-    },
-    "extra": {
-      "brief_description": "An insurance provider, offering Captives-as-a-Service for Web3 businesses",
-      "city": "London",
-      "company_id": "e9c4e678-b0dd-3825-9f94-e65f914fb6b9",
-      "company_name": "Cryptive",
-      "country": "United Kingdom",
-      "crunchbase_url": "crunchbase.com/organization/cryptive-io",
-      "first_session_year": 2023,
-      "first_session_year_s": "2023",
-      "id": "e9c4e678-b0dd-3825-9f94-e65f914fb6b9",
-      "industry_vertical": [
-        "Insurtech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "latest_class_for": [
-        "london-polygon"
-      ],
-      "linkedin_url": "linkedin.com/company/cryptive-io",
-      "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/b1cf38dymgenrc7jujjr",
-      "program_names": [
-        "Techstars London Powered by Polygon"
-      ],
-      "program_slugs": [
-        "london-polygon"
-      ],
-      "updated_at": 1782813621,
       "website_order": 2637,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
@@ -521,7 +460,7 @@
         "london-polygon"
       ],
       "state_province": "Ontario",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "combatiq.io",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -585,7 +524,7 @@
       ],
       "state_province": "Maharashtra",
       "twitter_url": "twitter.com/ buildoorxyz",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "buildoor.xyz",
       "website_order": 2637,
       "worldregion": "Asia",
@@ -651,7 +590,7 @@
         "london-polygon"
       ],
       "twitter_url": "twitter.com/aware_labs",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "awarelabs.xyz",
       "website_order": 2637,
       "worldregion": "Middle East",
@@ -715,7 +654,7 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/Asterizm_layer",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "asterizm.io",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -778,8 +717,69 @@
       "program_slugs": [
         "london-polygon"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
+      "worldregion": "Europe",
+      "worldsubregion": "Western Europe"
+    }
+  },
+  {
+    "name": "Cryptive",
+    "description": "An insurance provider, offering Captives-as-a-Service for Web3 businesses",
+    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/b1cf38dymgenrc7jujjr",
+    "website": "",
+    "location": "London, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Insurtech"
+    ],
+    "year": 2023,
+    "program": "Techstars London Powered by Polygon",
+    "programSlugs": [
+      "london-polygon"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/cryptive-io",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/cryptive-io"
+    },
+    "extra": {
+      "brief_description": "An insurance provider, offering Captives-as-a-Service for Web3 businesses",
+      "city": "London",
+      "company_id": "e9c4e678-b0dd-3825-9f94-e65f914fb6b9",
+      "company_name": "Cryptive",
+      "country": "United Kingdom",
+      "crunchbase_url": "crunchbase.com/organization/cryptive-io",
+      "first_session_year": 2023,
+      "first_session_year_s": "2023",
+      "id": "e9c4e678-b0dd-3825-9f94-e65f914fb6b9",
+      "industry_vertical": [
+        "Insurtech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "latest_class_for": [
+        "london-polygon"
+      ],
+      "linkedin_url": "linkedin.com/company/cryptive-io",
+      "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/b1cf38dymgenrc7jujjr",
+      "program_names": [
+        "Techstars London Powered by Polygon"
+      ],
+      "program_slugs": [
+        "london-polygon"
+      ],
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }

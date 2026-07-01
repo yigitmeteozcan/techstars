@@ -1,5 +1,63 @@
 [
   {
+    "name": "Soihtu DTx",
+    "description": "Soihtu DTx is the first personalized, precision digital therapeutic (DTx) as a video game for depression.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3be117074ef161adc66d343bd.jpg",
+    "website": "https://soihtudtx.com",
+    "location": "AALTO, Uusimaa, Finland",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "tags": [
+      "Digital health",
+      "Gaming",
+      "Healthtech"
+    ],
+    "year": 2026,
+    "program": "Northwestern Medicine & Techstars Healthcare Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/soihtu-dtx",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "brief_description": "Soihtu DTx is the first personalized, precision digital therapeutic (DTx) as a video game for depression.",
+      "city": "AALTO",
+      "company_id": "c4ee4569-ebf9-4b36-a363-fc0e0eef5ff4",
+      "company_name": "Soihtu DTx",
+      "country": "Finland",
+      "first_session_year": 2026,
+      "first_session_year_s": "2026",
+      "id": "c4ee4569-ebf9-4b36-a363-fc0e0eef5ff4",
+      "industry_vertical": [
+        "Digital health",
+        "Gaming",
+        "Healthtech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/soihtu-dtx",
+      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_3be117074ef161adc66d343bd.jpg",
+      "program_names": [
+        "Northwestern Medicine & Techstars Healthcare Accelerator"
+      ],
+      "state_province": "Uusimaa",
+      "updated_at": 1782900627,
+      "website": "soihtudtx.com",
+      "website_order": 955,
+      "worldregion": "Europe",
+      "worldsubregion": "Northern Europe"
+    }
+  },
+  {
     "name": "Systellar Space",
     "description": "Systellar is enabling Vibe Engineering for complex physical systems. Just like vibe coding lets anyone create software with AI, our platform lets engineers design satellites, aircraft, and other complex machines without needing deep expertise in every dis",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_c09a68536bfd9c90c4ff1d89e.png",
@@ -58,9 +116,9 @@
         "london"
       ],
       "state_province": "Catalonia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "systellar-space.com",
-      "website_order": 1340,
+      "website_order": 1346,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -126,9 +184,9 @@
         "london"
       ],
       "state_province": "England",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "stemma-ai.com",
-      "website_order": 1340,
+      "website_order": 1346,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -192,9 +250,9 @@
         "london"
       ],
       "state_province": "England",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "simicx.com",
-      "website_order": 1340,
+      "website_order": 1346,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -261,9 +319,9 @@
         "london"
       ],
       "state_province": "England",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kensai.ai",
-      "website_order": 1340,
+      "website_order": 1346,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -326,9 +384,9 @@
         "london"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "auron.solutions",
-      "website_order": 1340,
+      "website_order": 1346,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -390,9 +448,9 @@
         "london"
       ],
       "state_province": "England",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "neurotype.uk",
-      "website_order": 1345,
+      "website_order": 1351,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -459,9 +517,9 @@
         "chicago"
       ],
       "state_province": "Illinois",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wattshift.com",
-      "website_order": 1373,
+      "website_order": 1379,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -523,9 +581,9 @@
         "chicago"
       ],
       "state_province": "Michigan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "seatedwithlove.com",
-      "website_order": 1373,
+      "website_order": 1379,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -589,9 +647,9 @@
         "chicago"
       ],
       "state_province": "Illinois",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "offlinetalent.com",
-      "website_order": 1373,
+      "website_order": 1379,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -657,9 +715,9 @@
         "chicago"
       ],
       "state_province": "Illinois",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "linesight-ai.com",
-      "website_order": 1373,
+      "website_order": 1379,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -725,9 +783,9 @@
         "chicago"
       ],
       "state_province": "Nebraska",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "thekaizendesign.com",
-      "website_order": 1373,
+      "website_order": 1379,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -793,9 +851,9 @@
         "chicago"
       ],
       "state_province": "Illinois",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "forgebee.buzz",
-      "website_order": 1373,
+      "website_order": 1379,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -855,9 +913,9 @@
         "chicago"
       ],
       "state_province": "Illinois",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cloudrenovation.com",
-      "website_order": 1373,
+      "website_order": 1379,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -917,69 +975,11 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/TryVerbal",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tryverbal.com",
-      "website_order": 1416,
+      "website_order": 1422,
       "worldregion": "Americas",
       "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "Soihtu DTx",
-    "description": "Soihtu DTx is the first personalized, precision digital therapeutic (DTx) as a video game for depression.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3be117074ef161adc66d343bd.jpg",
-    "website": "https://soihtudtx.com",
-    "location": "AALTO, Uusimaa, Finland",
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "tags": [
-      "Digital health",
-      "Gaming",
-      "Healthtech"
-    ],
-    "year": 2026,
-    "program": "Northwestern Medicine & Techstars Healthcare Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/soihtu-dtx",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "brief_description": "Soihtu DTx is the first personalized, precision digital therapeutic (DTx) as a video game for depression.",
-      "city": "AALTO",
-      "company_id": "c4ee4569-ebf9-4b36-a363-fc0e0eef5ff4",
-      "company_name": "Soihtu DTx",
-      "country": "Finland",
-      "first_session_year": 2026,
-      "first_session_year_s": "2026",
-      "id": "c4ee4569-ebf9-4b36-a363-fc0e0eef5ff4",
-      "industry_vertical": [
-        "Digital health",
-        "Gaming",
-        "Healthtech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/soihtu-dtx",
-      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_3be117074ef161adc66d343bd.jpg",
-      "program_names": [
-        "Northwestern Medicine & Techstars Healthcare Accelerator"
-      ],
-      "state_province": "Uusimaa",
-      "updated_at": 1782813621,
-      "website": "soihtudtx.com",
-      "website_order": 1416,
-      "worldregion": "Europe",
-      "worldsubregion": "Northern Europe"
     }
   },
   {
@@ -1035,9 +1035,9 @@
         "Northwestern Medicine & Techstars Healthcare Accelerator"
       ],
       "state_province": "Illinois",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "slideflow.ai",
-      "website_order": 1416,
+      "website_order": 1422,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1089,9 +1089,9 @@
         "Northwestern Medicine & Techstars Healthcare Accelerator"
       ],
       "state_province": "Illinois",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "immpro.net",
-      "website_order": 1416,
+      "website_order": 1422,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1156,9 +1156,9 @@
         "anywhere"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "zwipe.co",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1226,9 +1226,9 @@
         "anywhere"
       ],
       "state_province": "Connecticut",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "volumes.cloud",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1294,9 +1294,9 @@
       "program_slugs": [
         "anywhere"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "safety-bolt.com",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -1356,9 +1356,9 @@
         "anywhere"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nukleas.com",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1424,9 +1424,9 @@
         "anywhere"
       ],
       "state_province": "New Mexico",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "indoralabs.com",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1493,9 +1493,9 @@
         "anywhere"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cohesiverobotics.com",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1559,9 +1559,9 @@
         "nyc"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "qluulab.com",
-      "website_order": 1478,
+      "website_order": 1483,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1630,9 +1630,9 @@
         "nyc"
       ],
       "state_province": "Maine",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "powerdime.io",
-      "website_order": 1478,
+      "website_order": 1483,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1694,9 +1694,9 @@
         "nyc"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "papr.ai",
-      "website_order": 1478,
+      "website_order": 1483,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1756,9 +1756,9 @@
         "nyc"
       ],
       "state_province": "Federal District",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wechain.mx",
-      "website_order": 1478,
+      "website_order": 1483,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1818,9 +1818,9 @@
         "nyc"
       ],
       "state_province": "New Jersey",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "builtblock.com",
-      "website_order": 1478,
+      "website_order": 1483,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1886,9 +1886,9 @@
         "nyc"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "arcticar.com",
-      "website_order": 1478,
+      "website_order": 1483,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1945,9 +1945,9 @@
         "nyc"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "analogcraft.ai",
-      "website_order": 1478,
+      "website_order": 1483,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2009,9 +2009,9 @@
         "workforce-development"
       ],
       "state_province": "Maryland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "utiva.co",
-      "website_order": 1502,
+      "website_order": 1507,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2073,9 +2073,9 @@
         "workforce-development"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getsumly.com",
-      "website_order": 1502,
+      "website_order": 1507,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2135,9 +2135,9 @@
         "workforce-development"
       ],
       "state_province": "Washington",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "peakmojo.ai",
-      "website_order": 1502,
+      "website_order": 1507,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2203,9 +2203,9 @@
         "workforce-development"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "obertworkwear.com",
-      "website_order": 1502,
+      "website_order": 1507,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2267,9 +2267,9 @@
         "workforce-development"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hiveownership.com",
-      "website_order": 1502,
+      "website_order": 1507,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2331,9 +2331,9 @@
         "workforce-development"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getgild.com",
-      "website_order": 1502,
+      "website_order": 1507,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2397,9 +2397,9 @@
         "workforce-development"
       ],
       "state_province": "Kentucky",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "essentialinno.com",
-      "website_order": 1502,
+      "website_order": 1507,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2464,9 +2464,9 @@
         "workforce-development"
       ],
       "state_province": "Missouri",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "asksamie.com",
-      "website_order": 1502,
+      "website_order": 1507,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2532,9 +2532,9 @@
       ],
       "state_province": "Michigan",
       "twitter_url": "twitter.com/snowbotix",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "snowbotix.com",
-      "website_order": 1525,
+      "website_order": 1529,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2600,9 +2600,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "District of Columbia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "percysleep.com",
-      "website_order": 1584,
+      "website_order": 1588,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2667,9 +2667,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Pennsylvania",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "intelizen.co",
-      "website_order": 1584,
+      "website_order": 1588,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2731,9 +2731,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "concordaretrials.com",
-      "website_order": 1584,
+      "website_order": 1588,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2803,9 +2803,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "North Carolina",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "citrusoncology.com",
-      "website_order": 1584,
+      "website_order": 1588,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2867,9 +2867,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cerevanta.com",
-      "website_order": 1584,
+      "website_order": 1588,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2935,9 +2935,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Maryland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "biolinco.com",
-      "website_order": 1584,
+      "website_order": 1588,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3006,9 +3006,9 @@
       ],
       "state_province": "North Carolina",
       "twitter_url": "twitter.com/Amissa_App",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "amissa.com",
-      "website_order": 1584,
+      "website_order": 1588,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3073,9 +3073,9 @@
         "baltimore-ai-health"
       ],
       "state_province": "Colorado",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "allumbra.com",
-      "website_order": 1584,
+      "website_order": 1588,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3135,9 +3135,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vascai.com",
-      "website_order": 1833,
+      "website_order": 1837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3201,9 +3201,65 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sensate-robotics.com",
-      "website_order": 1833,
+      "website_order": 1837,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "nowfluence",
+    "description": "nowfluence is a software platform powering modern influencer and creator partnerships, giving brands and talent teams a single system to manage campaigns, track deliverables, automate communication, and handle secure payments, while layering in performance data and transactional infrastructure to turn influencer marketing from a messy, manual process into a scalable, accountable revenue channel.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_aaa4b85ee94d74d3a1d05a56c.png",
+    "website": "https://nowfluence.co",
+    "location": "Los Angeles, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Marketing tech"
+    ],
+    "year": 2026,
+    "program": "USC and Techstars Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/nowfluence",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "brief_description": "nowfluence is a software platform powering modern influencer and creator partnerships, giving brands and talent teams a single system to manage campaigns, track deliverables, automate communication, and handle secure payments, while layering in performance data and transactional infrastructure to turn influencer marketing from a messy, manual process into a scalable, accountable revenue channel.",
+      "city": "Los Angeles",
+      "company_id": "ade0b47b-c429-4334-9712-33804f32a8a8",
+      "company_name": "nowfluence",
+      "country": "United States",
+      "first_session_year": 2026,
+      "first_session_year_s": "2026",
+      "id": "ade0b47b-c429-4334-9712-33804f32a8a8",
+      "industry_vertical": [
+        "Artificial intelligence and machine learning",
+        "Marketing tech"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/nowfluence",
+      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_aaa4b85ee94d74d3a1d05a56c.png",
+      "program_names": [
+        "USC and Techstars Accelerator"
+      ],
+      "state_province": "California",
+      "updated_at": 1782900627,
+      "website": "nowfluence.co",
+      "website_order": 1837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3258,9 +3314,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/flextogether",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "flextogether.com",
-      "website_order": 1833,
+      "website_order": 1837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3316,9 +3372,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "joindrafted.com",
-      "website_order": 1833,
+      "website_order": 1837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3374,65 +3430,9 @@
         "USC and Techstars Accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bluenavy.org",
-      "website_order": 1833,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "nowfluence",
-    "description": "nowfluence is a software platform powering modern influencer and creator partnerships, giving brands and talent teams a single system to manage campaigns, track deliverables, automate communication, and handle secure payments, while layering in performance data and transactional infrastructure to turn influencer marketing from a messy, manual process into a scalable, accountable revenue channel.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_aaa4b85ee94d74d3a1d05a56c.png",
-    "website": "https://nowfluence.co",
-    "location": "Los Angeles, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Marketing tech"
-    ],
-    "year": 2026,
-    "program": "USC and Techstars Accelerator",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/nowfluence",
-      "twitter": "",
-      "facebook": "",
-      "crunchbase": ""
-    },
-    "extra": {
-      "brief_description": "nowfluence is a software platform powering modern influencer and creator partnerships, giving brands and talent teams a single system to manage campaigns, track deliverables, automate communication, and handle secure payments, while layering in performance data and transactional infrastructure to turn influencer marketing from a messy, manual process into a scalable, accountable revenue channel.",
-      "city": "Los Angeles",
-      "company_id": "ade0b47b-c429-4334-9712-33804f32a8a8",
-      "company_name": "nowfluence",
-      "country": "United States",
-      "first_session_year": 2026,
-      "first_session_year_s": "2026",
-      "id": "ade0b47b-c429-4334-9712-33804f32a8a8",
-      "industry_vertical": [
-        "Artificial intelligence and machine learning",
-        "Marketing tech"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/nowfluence",
-      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_aaa4b85ee94d74d3a1d05a56c.png",
-      "program_names": [
-        "USC and Techstars Accelerator"
-      ],
-      "state_province": "California",
-      "updated_at": 1782813621,
-      "website": "nowfluence.co",
-      "website_order": 5093,
+      "website_order": 1837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }

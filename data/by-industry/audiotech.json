@@ -1,5 +1,73 @@
 [
   {
+    "name": "EDGE Sound Research",
+    "description": "Bringing realism to sound experiences through patent-pending audio format that allows users to both HEAR and FEEL sound in high fidelity.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/6188ad05ab003f73c25591de/original/ESR_Icon_%282%29.png",
+    "website": "https://edgesoundresearch.com",
+    "location": "Riverside, California, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Audiotech",
+      "Cryptocurrency/Blockchain",
+      "Gaming",
+      "Internet of Things"
+    ],
+    "year": 2021,
+    "program": "The Minnesota Twins Accelerator by Techstars",
+    "programSlugs": [
+      "minnesota-twins"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/edge-sound-research",
+      "twitter": "https://twitter.com/official_esr_",
+      "facebook": "https://facebook.com/edgesoundresearch/",
+      "crunchbase": "https://crunchbase.com/organization/edge-sound-research"
+    },
+    "extra": {
+      "brief_description": "Bringing realism to sound experiences through patent-pending audio format that allows users to both HEAR and FEEL sound in high fidelity.",
+      "city": "Riverside",
+      "company_id": "51c4c890-9140-432d-a16c-984fe8955507",
+      "company_name": "EDGE Sound Research",
+      "country": "United States",
+      "crunchbase_url": "crunchbase.com/organization/edge-sound-research",
+      "facebook_url": "facebook.com/edgesoundresearch/",
+      "first_session_year": 2021,
+      "first_session_year_s": "2021",
+      "id": "51c4c890-9140-432d-a16c-984fe8955507",
+      "industry_vertical": [
+        "Audiotech",
+        "Cryptocurrency/Blockchain",
+        "Gaming",
+        "Internet of Things"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/edge-sound-research",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/6188ad05ab003f73c25591de/original/ESR_Icon_%282%29.png",
+      "program_names": [
+        "The Minnesota Twins Accelerator by Techstars"
+      ],
+      "program_slugs": [
+        "minnesota-twins"
+      ],
+      "state_province": "California",
+      "twitter_url": "twitter.com/official_esr_",
+      "updated_at": 1782900627,
+      "website": "edgesoundresearch.com",
+      "website_order": 626,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
     "name": "IndieFlow",
     "description": "A business management platform and professional marketplace for the music industry.",
     "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3c9d5932d916b042911b34a29.png",
@@ -53,9 +121,9 @@
         "tel-aviv"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "indieflow.me",
-      "website_order": 664,
+      "website_order": 667,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -117,77 +185,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/AudigoLabs",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "audigolabs.com",
-      "website_order": 665,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "EDGE Sound Research",
-    "description": "Bringing realism to sound experiences through patent-pending audio format that allows users to both HEAR and FEEL sound in high fidelity.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/6188ad05ab003f73c25591de/original/ESR_Icon_%282%29.png",
-    "website": "https://edgesoundresearch.com",
-    "location": "Riverside, California, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Audiotech",
-      "Cryptocurrency/Blockchain",
-      "Gaming",
-      "Internet of Things"
-    ],
-    "year": 2021,
-    "program": "The Minnesota Twins Accelerator by Techstars",
-    "programSlugs": [
-      "minnesota-twins"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/edge-sound-research",
-      "twitter": "https://twitter.com/official_esr_",
-      "facebook": "https://facebook.com/edgesoundresearch/",
-      "crunchbase": "https://crunchbase.com/organization/edge-sound-research"
-    },
-    "extra": {
-      "brief_description": "Bringing realism to sound experiences through patent-pending audio format that allows users to both HEAR and FEEL sound in high fidelity.",
-      "city": "Riverside",
-      "company_id": "51c4c890-9140-432d-a16c-984fe8955507",
-      "company_name": "EDGE Sound Research",
-      "country": "United States",
-      "crunchbase_url": "crunchbase.com/organization/edge-sound-research",
-      "facebook_url": "facebook.com/edgesoundresearch/",
-      "first_session_year": 2021,
-      "first_session_year_s": "2021",
-      "id": "51c4c890-9140-432d-a16c-984fe8955507",
-      "industry_vertical": [
-        "Audiotech",
-        "Cryptocurrency/Blockchain",
-        "Gaming",
-        "Internet of Things"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/edge-sound-research",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/6188ad05ab003f73c25591de/original/ESR_Icon_%282%29.png",
-      "program_names": [
-        "The Minnesota Twins Accelerator by Techstars"
-      ],
-      "program_slugs": [
-        "minnesota-twins"
-      ],
-      "state_province": "California",
-      "twitter_url": "twitter.com/official_esr_",
-      "updated_at": 1782813621,
-      "website": "edgesoundresearch.com",
-      "website_order": 695,
+      "website_order": 668,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -256,9 +256,9 @@
         "dc-jp-morgan"
       ],
       "twitter_url": "twitter.com/righthearapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "right-hear.com",
-      "website_order": 939,
+      "website_order": 944,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -316,9 +316,9 @@
         "Comcast NBCUniversal LIFT Labs Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/respeecher",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "respeecher.com",
-      "website_order": 1025,
+      "website_order": 1030,
       "worldregion": "Europe",
       "worldsubregion": "Eastern Europe"
     }
@@ -384,9 +384,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/choosepippa",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pippa.io",
-      "website_order": 1313,
+      "website_order": 1319,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -452,9 +452,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/SuperpoweredSDK",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "superpowered.com",
-      "website_order": 1356,
+      "website_order": 1362,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -518,9 +518,9 @@
         "boston"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "grably.us",
-      "website_order": 1422,
+      "website_order": 1427,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -584,9 +584,9 @@
       ],
       "state_province": "North Carolina",
       "twitter_url": "twitter.com/beepr_app",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "beeprmusic.com",
-      "website_order": 1595,
+      "website_order": 1599,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -649,9 +649,9 @@
       "program_slugs": [
         "indy-sports"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tzuka.com",
-      "website_order": 1846,
+      "website_order": 1851,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -714,9 +714,9 @@
         "tech-central-sydney-nsw"
       ],
       "state_province": "New South Wales",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "museai.au",
-      "website_order": 1900,
+      "website_order": 1905,
       "worldregion": "Oceania",
       "worldsubregion": "Oceania"
     }
@@ -783,9 +783,9 @@
       ],
       "state_province": "Rhode Island",
       "twitter_url": "twitter.com/MalamuteInc",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "malamute.us",
-      "website_order": 1948,
+      "website_order": 1953,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -855,9 +855,9 @@
         "Stockholm Techstars Accelerator"
       ],
       "twitter_url": "twitter.com/moonaiapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "moonai.app",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -918,9 +918,9 @@
       ],
       "state_province": "Georgia",
       "twitter_url": "twitter.com/followtheum",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "unitedmarket.com",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -983,9 +983,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ofspectrum.com",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1048,9 +1048,9 @@
         "Techstars Korea Accelerator"
       ],
       "state_province": "Ontario",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "between.co",
-      "website_order": 2504,
+      "website_order": 2505,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1112,7 +1112,7 @@
         "tulsa"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trysonify.com",
       "website_order": 2586,
       "worldregion": "Americas",
@@ -1172,7 +1172,7 @@
       "program_slugs": [
         "transformative-world-torino"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "shion.at",
       "website_order": 2637,
       "worldregion": "Europe",
@@ -1236,9 +1236,9 @@
       ],
       "state_province": "District of Columbia",
       "twitter_url": "twitter.com/alivepodcastapp",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "alivepodcastnetwork.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1304,9 +1304,9 @@
         "equitech"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "acrylic.la",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1366,9 +1366,9 @@
       ],
       "state_province": "Nevada",
       "twitter_url": "twitter.com/tonicaudiolabs",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tonicaudio.com",
-      "website_order": 2866,
+      "website_order": 2865,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1426,9 +1426,9 @@
       "program_slugs": [
         "new-orleans-jp-morgan"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cyphr.co",
-      "website_order": 3065,
+      "website_order": 3063,
       "worldregion": "Americas",
       "worldsubregion": "Central America"
     }
@@ -1495,9 +1495,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/vitalaudioinc",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vitalaudio.io",
-      "website_order": 3177,
+      "website_order": 3174,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1566,9 +1566,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/paralluxco",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "parallux.co",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1630,9 +1630,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/helloaudiofm",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "helloaudio.fm",
-      "website_order": 3211,
+      "website_order": 3208,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1694,9 +1694,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/JusticeText",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "justicetext.com",
-      "website_order": 3420,
+      "website_order": 3418,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1758,9 +1758,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/usehipclip",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hipclip.ai",
-      "website_order": 3420,
+      "website_order": 3418,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1821,9 +1821,9 @@
         "oakland-jp-morgan"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "dubprime.com",
-      "website_order": 3486,
+      "website_order": 3484,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1890,9 +1890,9 @@
         "chicago-jp-morgan"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "signalfusion.ai",
-      "website_order": 3566,
+      "website_order": 3564,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1952,9 +1952,9 @@
         "miami-jp-morgan"
       ],
       "state_province": "New York",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cai.audio",
-      "website_order": 3664,
+      "website_order": 3663,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2019,9 +2019,9 @@
         "atlanta-cox"
       ],
       "state_province": "Georgia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "aayats.com",
-      "website_order": 3664,
+      "website_order": 3663,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2076,9 +2076,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/messyfm",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "messy.fm",
-      "website_order": 3914,
+      "website_order": 3908,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2141,9 +2141,9 @@
         "tel-aviv"
       ],
       "state_province": "North Holland",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "anywyse.audio",
-      "website_order": 3962,
+      "website_order": 3956,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2198,9 +2198,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/Clyp_It",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "clyp.it",
-      "website_order": 3969,
+      "website_order": 3963,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2260,8 +2260,8 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/weavmusic",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2322,8 +2322,8 @@
         "chicago"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2388,8 +2388,8 @@
       "program_slugs": [
         "techstars-and-audi-mobility-accelerator"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2451,8 +2451,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/getcleverfm",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2509,8 +2509,8 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/voxable",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2573,8 +2573,8 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/theaudioland",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }

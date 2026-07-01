@@ -53,9 +53,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/canBthechange",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "regular.eu",
-      "website_order": 628,
+      "website_order": 631,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -120,9 +120,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pelikan-mobility.com",
-      "website_order": 705,
+      "website_order": 707,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -184,9 +184,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/Helio_Rec",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "heliorec.com",
-      "website_order": 795,
+      "website_order": 798,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -253,9 +253,9 @@
       ],
       "state_province": "Pistoia",
       "twitter_url": "twitter.com/illuminemNews",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "illuminem.com",
-      "website_order": 851,
+      "website_order": 854,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -312,9 +312,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "toasty.family",
-      "website_order": 858,
+      "website_order": 861,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -374,9 +374,9 @@
         "paris"
       ],
       "state_province": "Milan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "movopack.com",
-      "website_order": 911,
+      "website_order": 916,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -435,9 +435,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wastetide.ai",
-      "website_order": 1081,
+      "website_order": 1085,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -503,9 +503,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wind-fisher.com",
-      "website_order": 1100,
+      "website_order": 1103,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -561,9 +561,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "circularplace.fr",
-      "website_order": 1159,
+      "website_order": 1162,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -624,9 +624,73 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bib-batteries.fr",
-      "website_order": 1173,
+      "website_order": 1176,
+      "worldregion": "Europe",
+      "worldsubregion": "Western Europe"
+    }
+  },
+  {
+    "name": "FINDS",
+    "description": "The Retouch is a publisher of circular solutions for the fashion and textile industry.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ccb9eeb563c33b0a9db46c8e5.jpeg",
+    "website": "https://finds-upcycling.com",
+    "location": "Paris, France",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cleantech",
+      "Lifestyles of Health and Sustainability and wellness"
+    ],
+    "year": 2022,
+    "program": "Sustainability Paris Techstars Accelerator",
+    "programSlugs": [
+      "paris"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/finds-solutions",
+      "twitter": "",
+      "facebook": "https://facebook.com/theretouch/",
+      "crunchbase": "https://crunchbase.com/organization/the-retouch"
+    },
+    "extra": {
+      "brief_description": "The Retouch is a publisher of circular solutions for the fashion and textile industry.",
+      "city": "Paris",
+      "company_id": "b1639f12-9dc8-3fc4-89c6-7b4daac8516c",
+      "company_name": "FINDS",
+      "country": "France",
+      "crunchbase_url": "crunchbase.com/organization/the-retouch",
+      "facebook_url": "facebook.com/theretouch/",
+      "first_session_year": 2022,
+      "first_session_year_s": "2022",
+      "id": "b1639f12-9dc8-3fc4-89c6-7b4daac8516c",
+      "industry_vertical": [
+        "Artificial intelligence and machine learning",
+        "Cleantech",
+        "Lifestyles of Health and Sustainability and wellness"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/finds-solutions",
+      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_ccb9eeb563c33b0a9db46c8e5.jpeg",
+      "program_names": [
+        "Sustainability Paris Techstars Accelerator"
+      ],
+      "program_slugs": [
+        "paris"
+      ],
+      "updated_at": 1782900627,
+      "website": "finds-upcycling.com",
+      "website_order": 1185,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -688,9 +752,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "s-lab.bio",
-      "website_order": 1266,
+      "website_order": 1271,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -748,9 +812,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/Sustain_Soft",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sustainsoft.eu",
-      "website_order": 1277,
+      "website_order": 1282,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -811,9 +875,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/aricareofficial",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ari.shop",
-      "website_order": 1305,
+      "website_order": 1311,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -872,9 +936,9 @@
         "paris"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "h2oallegiant.com",
-      "website_order": 1311,
+      "website_order": 1317,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -937,9 +1001,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nix-iot.com",
-      "website_order": 1334,
+      "website_order": 1340,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1002,9 +1066,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/razfintech",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "razfinance.io",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -1067,9 +1131,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nyungu.care",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Africa",
       "worldsubregion": "Eastern Africa"
     }
@@ -1132,9 +1196,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/Kudoti_Waste",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kudoti.com",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Africa",
       "worldsubregion": "Southern Africa"
     }
@@ -1191,9 +1255,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hydroquo.com",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Asia",
       "worldsubregion": "Southern Asia"
     }
@@ -1252,73 +1316,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/ndbtechnology",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ndb.technology",
-      "website_order": 1984,
-      "worldregion": "Europe",
-      "worldsubregion": "Western Europe"
-    }
-  },
-  {
-    "name": "FINDS",
-    "description": "The Retouch is a publisher of circular solutions for the fashion and textile industry.",
-    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ccb9eeb563c33b0a9db46c8e5.jpeg",
-    "website": "https://finds-upcycling.com",
-    "location": "Paris, France",
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Cleantech",
-      "Lifestyles of Health and Sustainability and wellness"
-    ],
-    "year": 2022,
-    "program": "Sustainability Paris Techstars Accelerator",
-    "programSlugs": [
-      "paris"
-    ],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/finds-solutions",
-      "twitter": "",
-      "facebook": "https://facebook.com/theretouch/",
-      "crunchbase": "https://crunchbase.com/organization/the-retouch"
-    },
-    "extra": {
-      "brief_description": "The Retouch is a publisher of circular solutions for the fashion and textile industry.",
-      "city": "Paris",
-      "company_id": "b1639f12-9dc8-3fc4-89c6-7b4daac8516c",
-      "company_name": "FINDS",
-      "country": "France",
-      "crunchbase_url": "crunchbase.com/organization/the-retouch",
-      "facebook_url": "facebook.com/theretouch/",
-      "first_session_year": 2022,
-      "first_session_year_s": "2022",
-      "id": "b1639f12-9dc8-3fc4-89c6-7b4daac8516c",
-      "industry_vertical": [
-        "Artificial intelligence and machine learning",
-        "Cleantech",
-        "Lifestyles of Health and Sustainability and wellness"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/finds-solutions",
-      "logo_url": "http://apimg.techstars.com/sf/accounts/logo/Logo_ccb9eeb563c33b0a9db46c8e5.jpeg",
-      "program_names": [
-        "Sustainability Paris Techstars Accelerator"
-      ],
-      "program_slugs": [
-        "paris"
-      ],
-      "updated_at": 1782813621,
-      "website": "finds-upcycling.com",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1381,9 +1381,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/EnergyShift3",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "energyshift.eu",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1445,9 +1445,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "egreen.com",
-      "website_order": 1984,
+      "website_order": 1989,
       "worldregion": "Americas",
       "worldsubregion": "South America"
     }
@@ -1508,9 +1508,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wikimove.me",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1569,9 +1569,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "outlandermaterials.com",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1630,9 +1630,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/KumulusWater",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kumuluswater.com",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1699,9 +1699,9 @@
       ],
       "state_province": "Delaware",
       "twitter_url": "twitter.com/project_canopy",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "irokoanalytics.com",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1762,9 +1762,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/bioesol",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bioesol.com",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1825,9 +1825,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/BeeSageCo",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "beesage.co",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1883,7 +1883,7 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "trashboard.fr",
       "website_order": 2599,
       "worldregion": "Europe",
@@ -1953,7 +1953,7 @@
         "paris"
       ],
       "state_province": "Newfoundland and Labrador",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nditive.com",
       "website_order": 2599,
       "worldregion": "Americas",
@@ -2021,7 +2021,7 @@
         "paris"
       ],
       "state_province": "Lombardy",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "lambdai.space",
       "website_order": 2599,
       "worldregion": "Europe",
@@ -2085,7 +2085,7 @@
         "paris"
       ],
       "state_province": "Centre",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "consciesg.com",
       "website_order": 2599,
       "worldregion": "Europe",
@@ -2151,7 +2151,7 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "climerock.com",
       "website_order": 2599,
       "worldregion": "Europe",
@@ -2215,7 +2215,7 @@
         "paris"
       ],
       "twitter_url": "twitter.com/Carbontribeme",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "carbontribe.me",
       "website_order": 2599,
       "worldregion": "Europe",
@@ -2281,7 +2281,7 @@
         "paris"
       ],
       "state_province": "Oregon",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "agdatacenter.io",
       "website_order": 2599,
       "worldregion": "Americas",
@@ -2343,9 +2343,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "switchgrid.tech",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2408,9 +2408,9 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/SequestrIO",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sequestr.io",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2475,9 +2475,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ridecommerce.co",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2533,9 +2533,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "raiz.farm",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -2596,9 +2596,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/powerfull_tech",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "powerfull.tech",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2661,9 +2661,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "monsapo.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2725,9 +2725,9 @@
         "paris"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "lonereport.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2789,9 +2789,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "inverto.tech",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2851,9 +2851,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gstdao.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -2915,9 +2915,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "carbo.energy",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "South America"
     }
@@ -2977,9 +2977,9 @@
         "paris"
       ],
       "state_province": "Nova Scotia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "acuicy.com",
-      "website_order": 2735,
+      "website_order": 2734,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3042,9 +3042,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "windcredible.com",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -3103,9 +3103,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "enreport.io",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -3168,9 +3168,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/AvrioHQ",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "avrio.com",
-      "website_order": 3283,
+      "website_order": 3280,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3229,9 +3229,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "eolrobotics.fr",
-      "website_order": 3418,
+      "website_order": 3416,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3289,9 +3289,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "wemakechange.org",
-      "website_order": 3589,
+      "website_order": 3587,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3349,9 +3349,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "propellane.eu",
-      "website_order": 3589,
+      "website_order": 3587,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3413,9 +3413,9 @@
         "paris"
       ],
       "state_province": "Colorado",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "minersai.com",
-      "website_order": 3589,
+      "website_order": 3587,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3477,9 +3477,9 @@
       ],
       "state_province": "Delaware",
       "twitter_url": "twitter.com/greenfluidics",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "greenfluidics.com",
-      "website_order": 3589,
+      "website_order": 3587,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3536,9 +3536,9 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "greena.world",
-      "website_order": 3589,
+      "website_order": 3587,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3598,9 +3598,9 @@
         "paris"
       ],
       "state_province": "Oregon",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "carbonbright.co",
-      "website_order": 3589,
+      "website_order": 3587,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3661,9 +3661,9 @@
         "paris"
       ],
       "twitter_url": "twitter.com/canopeyuk",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "canopey.com",
-      "website_order": 3589,
+      "website_order": 3587,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3728,8 +3728,8 @@
         "paris"
       ],
       "twitter_url": "twitter.com/WINIMArgentina",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "South America"
     }
@@ -3788,8 +3788,8 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3865,8 +3865,8 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -3925,8 +3925,8 @@
         "paris"
       ],
       "twitter_url": "twitter.com/SavvyWorksHQ",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3993,8 +3993,8 @@
         "paris"
       ],
       "twitter_url": "twitter.com/mc_ledger",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -4059,8 +4059,8 @@
         "paris"
       ],
       "twitter_url": "twitter.com/mavunotech",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -4124,8 +4124,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/LisusEnergy",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4192,8 +4192,8 @@
       ],
       "state_province": "Turin",
       "twitter_url": "twitter.com/DedaloAi",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -4256,8 +4256,8 @@
       "program_slugs": [
         "paris"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -4316,8 +4316,8 @@
         "paris"
       ],
       "state_province": "Rome",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }

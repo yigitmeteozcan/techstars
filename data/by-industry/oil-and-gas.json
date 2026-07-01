@@ -58,9 +58,69 @@
         "Techstars Starburst Space Accelerator"
       ],
       "state_province": "Colorado",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "urbansky.com",
       "website_order": 132,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
+    "name": "EnviCore",
+    "description": "EnviCore aspires to revolutionize current tailings mitigation practices and promote a circular economy in the mining sector.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/60f89246b49cdd0007a31b0e/original/logo_Envicore.jpg",
+    "website": "https://envicoreinc.com",
+    "location": "Calgary, Alberta, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Cleantech",
+      "Climate tech",
+      "Oil and gas"
+    ],
+    "year": 2021,
+    "program": "The Heritage Group Accelerator powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/envicore-inc",
+      "twitter": "https://twitter.com/EnvicoreI",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/envicore-inc"
+    },
+    "extra": {
+      "brief_description": "EnviCore aspires to revolutionize current tailings mitigation practices and promote a circular economy in the mining sector.",
+      "city": "Calgary",
+      "company_id": "60215e20-c7a2-4289-808c-4945241afae6",
+      "company_name": "EnviCore",
+      "country": "Canada",
+      "crunchbase_url": "crunchbase.com/organization/envicore-inc",
+      "first_session_year": 2021,
+      "first_session_year_s": "2021",
+      "id": "60215e20-c7a2-4289-808c-4945241afae6",
+      "industry_vertical": [
+        "Cleantech",
+        "Climate tech",
+        "Oil and gas"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/envicore-inc",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/60f89246b49cdd0007a31b0e/original/logo_Envicore.jpg",
+      "program_names": [
+        "The Heritage Group Accelerator powered by Techstars"
+      ],
+      "state_province": "Alberta",
+      "twitter_url": "twitter.com/EnvicoreI",
+      "updated_at": 1782900627,
+      "website": "envicoreinc.com",
+      "website_order": 155,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -119,7 +179,7 @@
         "The Heritage Group Accelerator powered by Techstars"
       ],
       "state_province": "Colorado",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pretred.com",
       "website_order": 169,
       "worldregion": "Americas",
@@ -184,9 +244,9 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/HDataUS",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hdata.us",
-      "website_order": 399,
+      "website_order": 400,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -246,9 +306,9 @@
       ],
       "state_province": "Nova Scotia",
       "twitter_url": "twitter.com/GIT_Graphene",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "grapheneenterprise.ca",
-      "website_order": 415,
+      "website_order": 416,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -312,9 +372,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/ecolectroinc",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ecolectro.com",
-      "website_order": 424,
+      "website_order": 426,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -377,9 +437,9 @@
       ],
       "state_province": "Alberta",
       "twitter_url": "twitter.com/interfacefluids",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "interfacefluidics.com",
-      "website_order": 458,
+      "website_order": 463,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -447,9 +507,9 @@
       ],
       "state_province": "Connecticut",
       "twitter_url": "twitter.com/noteworthyai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "noteworthy.ai",
-      "website_order": 583,
+      "website_order": 585,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -521,9 +581,9 @@
       ],
       "state_province": "Idaho",
       "twitter_url": "twitter.com/pitchaero",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "pitchaero.com",
-      "website_order": 616,
+      "website_order": 618,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -592,9 +652,9 @@
       ],
       "state_province": "Ohio",
       "twitter_url": "twitter.com/PetraPower1",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "petrapower.com",
-      "website_order": 671,
+      "website_order": 673,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -652,9 +712,9 @@
         "Techstars Starburst Space Accelerator"
       ],
       "twitter_url": "twitter.com/SatimMonitoring",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "satim.co",
-      "website_order": 774,
+      "website_order": 776,
       "worldregion": "Europe",
       "worldsubregion": "Eastern Europe"
     }
@@ -712,9 +772,9 @@
         "Eastern Pacific Accelerator Powered by Techstars"
       ],
       "state_province": "Massachusetts",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "aliciabots.com",
-      "website_order": 816,
+      "website_order": 819,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -788,9 +848,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/partsimony",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "partsimony.com",
-      "website_order": 834,
+      "website_order": 837,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -856,9 +916,9 @@
       "program_slugs": [
         "equinor-energy"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "dimeq.no",
-      "website_order": 860,
+      "website_order": 863,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -917,9 +977,9 @@
       ],
       "state_province": "Ohio",
       "twitter_url": "twitter.com/MFluxLighting",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "getloris.com",
-      "website_order": 915,
+      "website_order": 920,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -981,9 +1041,9 @@
         "Techstars Allied Space Accelerator"
       ],
       "twitter_url": "twitter.com/EllipsisDrive",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ellipsis-drive.com",
-      "website_order": 952,
+      "website_order": 958,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1040,9 +1100,9 @@
       "program_names": [
         "Eastern Pacific Accelerator Powered by Techstars"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kanda.dk",
-      "website_order": 989,
+      "website_order": 994,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -1102,9 +1162,9 @@
         "equinor-energy"
       ],
       "state_province": "Alberta",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cnergreen.ca",
-      "website_order": 994,
+      "website_order": 999,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1170,9 +1230,9 @@
         "london"
       ],
       "twitter_url": "twitter.com/sees_ai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sees.ai",
-      "website_order": 1027,
+      "website_order": 1032,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1236,9 +1296,9 @@
         "alabama-power"
       ],
       "state_province": "Alabama",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tru-spin.com",
-      "website_order": 1058,
+      "website_order": 1062,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1306,9 +1366,9 @@
       "program_slugs": [
         "equinor-energy"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "oe-systems.com",
-      "website_order": 1124,
+      "website_order": 1128,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -1365,9 +1425,9 @@
         "Techstars Montréal AI Accelerator"
       ],
       "twitter_url": "twitter.com/deepflowai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "deepflow.ai",
-      "website_order": 1171,
+      "website_order": 1174,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1426,9 +1486,9 @@
       ],
       "state_province": "Oklahoma",
       "twitter_url": "twitter.com/Infinite_C_T",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "infinitecomposites.com",
-      "website_order": 1244,
+      "website_order": 1248,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1490,9 +1550,9 @@
         "equinor-energy"
       ],
       "state_province": "Milan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "f3nice.com",
-      "website_order": 1264,
+      "website_order": 1269,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -1557,9 +1617,9 @@
         "alabama-power"
       ],
       "state_province": "Delaware",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "promex.energy",
-      "website_order": 1385,
+      "website_order": 1391,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1627,9 +1687,9 @@
         "ohio-state-university-accelerator"
       ],
       "state_province": "Nevada",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "fibrx.io",
-      "website_order": 1438,
+      "website_order": 1443,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1689,9 +1749,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/TerraManta",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "terramanta.com",
-      "website_order": 1492,
+      "website_order": 1497,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1757,9 +1817,9 @@
         "workforce-development"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "obertworkwear.com",
-      "website_order": 1502,
+      "website_order": 1507,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1816,9 +1876,9 @@
       "program_slugs": [
         "equinor-energy"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "computerwell.com",
-      "website_order": 1556,
+      "website_order": 1560,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -1879,9 +1939,9 @@
       "program_slugs": [
         "equinor-energy"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bioledger.io",
-      "website_order": 1556,
+      "website_order": 1560,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -1939,9 +1999,9 @@
         "Eastern Pacific Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/volteotech",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "volteo.com",
-      "website_order": 1595,
+      "website_order": 1599,
       "worldregion": "Asia",
       "worldsubregion": "Southeastern Asia"
     }
@@ -1999,9 +2059,9 @@
       "program_names": [
         "Eastern Pacific Accelerator Powered by Techstars"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sanchip.net",
-      "website_order": 1680,
+      "website_order": 1684,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -2056,9 +2116,9 @@
         "Eastern Pacific Accelerator Powered by Techstars"
       ],
       "state_province": "Newfoundland and Labrador",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "qualiteas.ca",
-      "website_order": 1680,
+      "website_order": 1684,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2115,9 +2175,9 @@
       "program_names": [
         "Eastern Pacific Accelerator Powered by Techstars"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "marine-edge.com",
-      "website_order": 1680,
+      "website_order": 1684,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -2185,9 +2245,9 @@
         "tokyo"
       ],
       "state_province": "Catalonia",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "overwatch-ai.com",
-      "website_order": 1726,
+      "website_order": 1730,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -2246,9 +2306,9 @@
         "stanley"
       ],
       "state_province": "Alberta",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "productionar.com",
-      "website_order": 1948,
+      "website_order": 1953,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2315,9 +2375,9 @@
         "equinor-energy"
       ],
       "twitter_url": "twitter.com/NGeoservices",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "neomare.no",
-      "website_order": 1954,
+      "website_order": 1959,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -2388,9 +2448,9 @@
       ],
       "state_province": "Greater Skopje",
       "twitter_url": "twitter.com/earthcareai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hylosense.com",
-      "website_order": 1954,
+      "website_order": 1959,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -2466,9 +2526,9 @@
         "stanley"
       ],
       "state_province": "Arizona",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "revoluterobotics.com",
-      "website_order": 2067,
+      "website_order": 2071,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2530,9 +2590,9 @@
         "equinor-energy"
       ],
       "state_province": "Ontario",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "hyperionenergy.ca",
-      "website_order": 2067,
+      "website_order": 2071,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2594,9 +2654,9 @@
         "equinor-energy"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "geolumina.ai",
-      "website_order": 2067,
+      "website_order": 2071,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2662,9 +2722,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/EnergyHawk",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "energyhawk.com",
-      "website_order": 2067,
+      "website_order": 2071,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2726,9 +2786,9 @@
       "program_slugs": [
         "equinor-energy"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "rzxtecnologia.com.br",
-      "website_order": 2067,
+      "website_order": 2071,
       "worldregion": "Americas",
       "worldsubregion": "Central America"
     }
@@ -2787,9 +2847,9 @@
       ],
       "state_province": "Quebec",
       "twitter_url": "twitter.com/Whale_Seeker",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "whaleseeker.com",
-      "website_order": 2146,
+      "website_order": 2149,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2854,9 +2914,9 @@
         "tulsa"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "carbonextinc.com",
-      "website_order": 2241,
+      "website_order": 2244,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2920,9 +2980,9 @@
         "alabama-power"
       ],
       "state_province": "Nevada",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "khepra.io",
-      "website_order": 2249,
+      "website_order": 2252,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -2987,9 +3047,9 @@
         "berlin"
       ],
       "state_province": "Berlin",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "sailwint.com",
-      "website_order": 2322,
+      "website_order": 2324,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
     }
@@ -3052,9 +3112,9 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/StrayosAI",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "strayos.com",
-      "website_order": 2438,
+      "website_order": 2439,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3115,9 +3175,9 @@
         "Stockholm Techstars Accelerator"
       ],
       "twitter_url": "twitter.com/WasteTerra",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "terrawaste.tech",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -3183,9 +3243,9 @@
       "program_names": [
         "Stockholm Techstars Accelerator"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "maygia.com",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Middle East",
       "worldsubregion": "Middle East"
     }
@@ -3243,9 +3303,9 @@
       ],
       "state_province": "New Jersey",
       "twitter_url": "twitter.com/alphabbl",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "alphabbl.com",
-      "website_order": 2441,
+      "website_order": 2442,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3315,7 +3375,7 @@
         "tulsa"
       ],
       "state_province": "Louisiana",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "gophrapp.com",
       "website_order": 2586,
       "worldregion": "Americas",
@@ -3385,7 +3445,7 @@
         "paris"
       ],
       "state_province": "Newfoundland and Labrador",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "nditive.com",
       "website_order": 2599,
       "worldregion": "Americas",
@@ -3455,7 +3515,7 @@
         "alabama-power"
       ],
       "state_province": "Alabama",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "ai-op.com",
       "website_order": 2599,
       "worldregion": "Americas",
@@ -3529,7 +3589,7 @@
       ],
       "state_province": "Minnesota",
       "twitter_url": "twitter.com/Boxesdevices",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "boxesdevices.com",
       "website_order": 2628,
       "worldregion": "Americas",
@@ -3605,7 +3665,7 @@
       "program_slugs": [
         "alabama-power"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tmaiot.com",
       "website_order": 2637,
       "worldregion": "Europe",
@@ -3687,7 +3747,7 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/bobscontainers",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "bobscontainers.com",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -3757,9 +3817,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/OffGridBox",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "offgridbox.com",
-      "website_order": 2948,
+      "website_order": 2947,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3825,9 +3885,9 @@
       ],
       "state_province": "Maine",
       "twitter_url": "twitter.com/Eskuadcom",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "eskuad.com",
-      "website_order": 2950,
+      "website_order": 2949,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -3885,71 +3945,11 @@
       "program_names": [
         "The Heritage Group Accelerator powered by Techstars"
       ],
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "designflow.inflows-ai.com",
-      "website_order": 3155,
+      "website_order": 3153,
       "worldregion": "Europe",
       "worldsubregion": "Western Europe"
-    }
-  },
-  {
-    "name": "EnviCore",
-    "description": "EnviCore aspires to revolutionize current tailings mitigation practices and promote a circular economy in the mining sector.",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/60f89246b49cdd0007a31b0e/original/logo_Envicore.jpg",
-    "website": "https://envicoreinc.com",
-    "location": "Calgary, Alberta, Canada",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Cleantech",
-      "Climate tech",
-      "Oil and gas"
-    ],
-    "year": 2021,
-    "program": "The Heritage Group Accelerator powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/envicore-inc",
-      "twitter": "https://twitter.com/EnvicoreI",
-      "facebook": "",
-      "crunchbase": "https://crunchbase.com/organization/envicore-inc"
-    },
-    "extra": {
-      "brief_description": "EnviCore aspires to revolutionize current tailings mitigation practices and promote a circular economy in the mining sector.",
-      "city": "Calgary",
-      "company_id": "60215e20-c7a2-4289-808c-4945241afae6",
-      "company_name": "EnviCore",
-      "country": "Canada",
-      "crunchbase_url": "crunchbase.com/organization/envicore-inc",
-      "first_session_year": 2021,
-      "first_session_year_s": "2021",
-      "id": "60215e20-c7a2-4289-808c-4945241afae6",
-      "industry_vertical": [
-        "Cleantech",
-        "Climate tech",
-        "Oil and gas"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/envicore-inc",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/60f89246b49cdd0007a31b0e/original/logo_Envicore.jpg",
-      "program_names": [
-        "The Heritage Group Accelerator powered by Techstars"
-      ],
-      "state_province": "Alberta",
-      "twitter_url": "twitter.com/EnvicoreI",
-      "updated_at": 1782813621,
-      "website": "envicoreinc.com",
-      "website_order": 3155,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
     }
   },
   {
@@ -4005,9 +4005,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/cybrik",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "cybrik.ai",
-      "website_order": 3155,
+      "website_order": 3153,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4073,9 +4073,9 @@
         "Techstars WaterTech & Sustainability"
       ],
       "state_province": "Michigan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "meknology.com",
-      "website_order": 3486,
+      "website_order": 3484,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4143,9 +4143,9 @@
         "la-jp-morgan"
       ],
       "state_province": "Ontario",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "4point.ai",
-      "website_order": 3486,
+      "website_order": 3484,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4203,9 +4203,9 @@
         "Eastern Pacific Accelerator Powered by Techstars"
       ],
       "state_province": "Nevada",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "oxon-tech.com",
-      "website_order": 3905,
+      "website_order": 3899,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4264,8 +4264,8 @@
       ],
       "state_province": "Oregon",
       "twitter_url": "twitter.com/sicdrone",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4333,8 +4333,8 @@
       "program_slugs": [
         "equinor-energy"
       ],
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Northern Europe"
     }
@@ -4394,8 +4394,8 @@
         "Eastern Pacific Accelerator Powered by Techstars"
       ],
       "twitter_url": "twitter.com/nidorobotics",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Europe",
       "worldsubregion": "Southern Europe"
     }
@@ -4480,8 +4480,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/MerkleB0t",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -4551,8 +4551,8 @@
       ],
       "state_province": "British Columbia",
       "twitter_url": "twitter.com/autonopia",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }

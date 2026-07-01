@@ -219,25 +219,25 @@
     "count": 114,
     "file": "by-industry/impact-investing.json"
   },
-  "Oncology": {
-    "slug": "oncology",
-    "count": 18,
-    "file": "by-industry/oncology.json"
-  },
   "3D printing": {
     "slug": "3d-printing",
     "count": 29,
     "file": "by-industry/3d-printing.json"
   },
-  "eSports": {
-    "slug": "esports",
-    "count": 25,
-    "file": "by-industry/esports.json"
+  "Oncology": {
+    "slug": "oncology",
+    "count": 18,
+    "file": "by-industry/oncology.json"
   },
   "Audiotech": {
     "slug": "audiotech",
     "count": 40,
     "file": "by-industry/audiotech.json"
+  },
+  "eSports": {
+    "slug": "esports",
+    "count": 25,
+    "file": "by-industry/esports.json"
   },
   "Carsharing": {
     "slug": "carsharing",

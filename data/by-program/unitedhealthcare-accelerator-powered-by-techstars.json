@@ -1,5 +1,64 @@
 [
   {
+    "name": "Clearstep",
+    "description": "AI symptom checking + care routing + price transparency + scheduling = digital front door for healthcare",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5dc060a434a60d5899000045/original/Group_2_%281%29.png",
+    "website": "https://clearstep.health",
+    "location": "Chicago, Illinois, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Lifestyles of Health and Sustainability and wellness"
+    ],
+    "year": 2019,
+    "program": "UnitedHealthcare Accelerator Powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/clearstep",
+      "twitter": "https://twitter.com/clearstephealth",
+      "facebook": "https://facebook.com/Clearstep-107801897368721/",
+      "crunchbase": "https://crunchbase.com/organization/clearstep"
+    },
+    "extra": {
+      "brief_description": "AI symptom checking + care routing + price transparency + scheduling = digital front door for healthcare",
+      "city": "Chicago",
+      "company_id": "6452e2a4-55d1-454d-9882-d00149e76c1f",
+      "company_name": "Clearstep",
+      "country": "United States",
+      "crunchbase_url": "crunchbase.com/organization/clearstep",
+      "facebook_url": "facebook.com/Clearstep-107801897368721/",
+      "first_session_year": 2019,
+      "first_session_year_s": "2019",
+      "id": "6452e2a4-55d1-454d-9882-d00149e76c1f",
+      "industry_vertical": [
+        "Artificial intelligence and machine learning",
+        "Lifestyles of Health and Sustainability and wellness"
+      ],
+      "is_1b": false,
+      "is_accelerator_company": true,
+      "is_current_session": false,
+      "is_exit": false,
+      "is_network_company": false,
+      "linkedin_url": "linkedin.com/company/clearstep",
+      "logo_url": "https://apimg.techstars.com/connect/images/image_files/5dc060a434a60d5899000045/original/Group_2_%281%29.png",
+      "program_names": [
+        "UnitedHealthcare Accelerator Powered by Techstars"
+      ],
+      "state_province": "Illinois",
+      "twitter_url": "twitter.com/clearstephealth",
+      "updated_at": 1782900627,
+      "website": "clearstep.health",
+      "website_order": 276,
+      "worldregion": "Americas",
+      "worldsubregion": "North America"
+    }
+  },
+  {
     "name": "Medzoomer",
     "description": "On-demand prescription delivery at the touch of a button.",
     "logo": "https://apimg.techstars.com/connect/images/image_files/613780193505510007fbb419/original/Medzoomer_Logo.png",
@@ -50,7 +109,7 @@
         "UnitedHealthcare Accelerator Powered by Techstars"
       ],
       "state_province": "Florida",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "medzoomer.com",
       "website_order": 286,
       "worldregion": "Americas",
@@ -111,9 +170,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/kiddoimpact",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kiddowear.com",
-      "website_order": 370,
+      "website_order": 371,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -168,9 +227,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/askriverhealth",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "joinmountain.com",
-      "website_order": 411,
+      "website_order": 412,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -231,9 +290,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/suggestic",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "suggestic.com",
-      "website_order": 476,
+      "website_order": 480,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -286,68 +345,9 @@
         "UnitedHealthcare Accelerator Powered by Techstars"
       ],
       "state_province": "Texas",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "kodahealthcare.com",
-      "website_order": 536,
-      "worldregion": "Americas",
-      "worldsubregion": "North America"
-    }
-  },
-  {
-    "name": "Clearstep",
-    "description": "AI symptom checking + care routing + price transparency + scheduling = digital front door for healthcare",
-    "logo": "https://apimg.techstars.com/connect/images/image_files/5dc060a434a60d5899000045/original/Group_2_%281%29.png",
-    "website": "https://clearstep.health",
-    "location": "Chicago, Illinois, United States",
-    "region": "Americas",
-    "subregion": "North America",
-    "tags": [
-      "Artificial intelligence and machine learning",
-      "Lifestyles of Health and Sustainability and wellness"
-    ],
-    "year": 2019,
-    "program": "UnitedHealthcare Accelerator Powered by Techstars",
-    "programSlugs": [],
-    "isExit": false,
-    "isUnicorn": false,
-    "isBCorp": false,
-    "isCurrentSession": false,
-    "social": {
-      "linkedin": "https://linkedin.com/company/clearstep",
-      "twitter": "https://twitter.com/clearstephealth",
-      "facebook": "https://facebook.com/Clearstep-107801897368721/",
-      "crunchbase": "https://crunchbase.com/organization/clearstep"
-    },
-    "extra": {
-      "brief_description": "AI symptom checking + care routing + price transparency + scheduling = digital front door for healthcare",
-      "city": "Chicago",
-      "company_id": "6452e2a4-55d1-454d-9882-d00149e76c1f",
-      "company_name": "Clearstep",
-      "country": "United States",
-      "crunchbase_url": "crunchbase.com/organization/clearstep",
-      "facebook_url": "facebook.com/Clearstep-107801897368721/",
-      "first_session_year": 2019,
-      "first_session_year_s": "2019",
-      "id": "6452e2a4-55d1-454d-9882-d00149e76c1f",
-      "industry_vertical": [
-        "Artificial intelligence and machine learning",
-        "Lifestyles of Health and Sustainability and wellness"
-      ],
-      "is_1b": false,
-      "is_accelerator_company": true,
-      "is_current_session": false,
-      "is_exit": false,
-      "is_network_company": false,
-      "linkedin_url": "linkedin.com/company/clearstep",
-      "logo_url": "https://apimg.techstars.com/connect/images/image_files/5dc060a434a60d5899000045/original/Group_2_%281%29.png",
-      "program_names": [
-        "UnitedHealthcare Accelerator Powered by Techstars"
-      ],
-      "state_province": "Illinois",
-      "twitter_url": "twitter.com/clearstephealth",
-      "updated_at": 1782813621,
-      "website": "clearstep.health",
-      "website_order": 669,
+      "website_order": 540,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -402,9 +402,9 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/shurpadelivery",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "shurpa.com",
-      "website_order": 918,
+      "website_order": 923,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -463,9 +463,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/line_health",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "lena.io",
-      "website_order": 948,
+      "website_order": 953,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -522,9 +522,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/md_options",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "optionsmd.com",
-      "website_order": 1032,
+      "website_order": 1036,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -581,9 +581,9 @@
       ],
       "state_province": "North Dakota",
       "twitter_url": "twitter.com/walkwisefamily",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "walkwise.com",
-      "website_order": 1070,
+      "website_order": 1074,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -641,9 +641,9 @@
       ],
       "state_province": "Texas",
       "twitter_url": "twitter.com/Revealix",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "revealix.com",
-      "website_order": 1079,
+      "website_order": 1083,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -698,9 +698,9 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/VenteurCo",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "venteur.co",
-      "website_order": 1313,
+      "website_order": 1319,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -757,9 +757,9 @@
       ],
       "state_province": "Massachusetts",
       "twitter_url": "twitter.com/vincere_health",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vincere.health",
-      "website_order": 1356,
+      "website_order": 1362,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -814,9 +814,9 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/ClinifyHealth",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "clinifyhealth.com",
-      "website_order": 1470,
+      "website_order": 1475,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -879,7 +879,7 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/vocalyticsai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "vocalytics.ai",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -936,7 +936,7 @@
       ],
       "state_province": "New Jersey",
       "twitter_url": "twitter.com/JoinTellescope",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "tellescope.com",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -997,7 +997,7 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/youaresamaritan",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "samaritan.city",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -1054,7 +1054,7 @@
       ],
       "state_province": "Washington",
       "twitter_url": "twitter.com/remmiehealth",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "remmiehealth.com",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -1117,7 +1117,7 @@
       ],
       "state_province": "New York",
       "twitter_url": "twitter.com/reactivrehab",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "reactivrehab.com",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -1180,7 +1180,7 @@
       ],
       "state_province": "Ontario",
       "twitter_url": "twitter.com/awakelabs",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "awakelabs.com",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -1237,7 +1237,7 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/InferenceHealth",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "inferencesolutions.com",
       "website_order": 2637,
       "worldregion": "Americas",
@@ -1296,9 +1296,9 @@
       ],
       "state_province": "Illinois",
       "twitter_url": "twitter.com/triggrhealth",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "triggrhealth.com",
-      "website_order": 2732,
+      "website_order": 2731,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1352,9 +1352,9 @@
       ],
       "state_province": "Minnesota",
       "twitter_url": "twitter.com/phrazeai",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "phraze.co",
-      "website_order": 2732,
+      "website_order": 2731,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1411,9 +1411,9 @@
         "UnitedHealthcare Accelerator Powered by Techstars"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
+      "updated_at": 1782900627,
       "website": "chorushealth.io",
-      "website_order": 2732,
+      "website_order": 2731,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1468,8 +1468,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/SporaHealth",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1526,8 +1526,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/RuthWomxn",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1584,8 +1584,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/we_are_robyn",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1646,8 +1646,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/Kintsugihealth",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1706,8 +1706,8 @@
       ],
       "state_province": "California",
       "twitter_url": "twitter.com/DietaHealth",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }
@@ -1762,8 +1762,8 @@
         "UnitedHealthcare Accelerator Powered by Techstars"
       ],
       "state_province": "California",
-      "updated_at": 1782813621,
-      "website_order": 3981,
+      "updated_at": 1782900627,
+      "website_order": 3975,
       "worldregion": "Americas",
       "worldsubregion": "North America"
     }

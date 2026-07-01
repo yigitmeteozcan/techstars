@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T10:03:54.541Z",
+  "generatedAt": "2026-07-01T10:17:35.170Z",
   "source": "https://www.techstars.com/portfolio",
   "cdn": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data",
   "total": 5106,
@@ -15,7 +15,7 @@
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/unicorns.json"
     },
     "exits": {
-      "count": 624,
+      "count": 625,
       "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/exits.json"
     },
     "bCorps": {
@@ -773,6 +773,12 @@
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/microsoft-accelerator-for-kinect-powered-by-techstars.json"
       },
       {
+        "name": "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States",
+        "slug": "techstars-healthcare-accelerator-powered-by-permanente-medicine-mid-atlantic-states",
+        "count": 10,
+        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/techstars-healthcare-accelerator-powered-by-permanente-medicine-mid-atlantic-states.json"
+      },
+      {
         "name": "Techstars Adelaide",
         "slug": "techstars-adelaide",
         "count": 10,
@@ -783,12 +789,6 @@
         "slug": "northwestern-medicine-techstars-healthcare-accelerator",
         "count": 10,
         "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/northwestern-medicine-techstars-healthcare-accelerator.json"
-      },
-      {
-        "name": "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States",
-        "slug": "techstars-healthcare-accelerator-powered-by-permanente-medicine-mid-atlantic-states",
-        "count": 10,
-        "api": "https://cdn.jsdelivr.net/gh/yigitmeteozcan/techstars@main/data/by-program/techstars-healthcare-accelerator-powered-by-permanente-medicine-mid-atlantic-states.json"
       },
       {
         "name": "Qualcomm Robotics Accelerator, powered by Techstars",
